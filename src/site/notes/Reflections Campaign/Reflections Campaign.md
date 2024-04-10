@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/reflections-campaign/","tags":["gardenEntry"]}
 ---
 
-
 # Reflections Campaign
 ## [[Reflections Campaign/Encyclopedia - World of Reflections/Encyclopedia - World of Reflections\|Encyclopedia - World of Reflections]]
 

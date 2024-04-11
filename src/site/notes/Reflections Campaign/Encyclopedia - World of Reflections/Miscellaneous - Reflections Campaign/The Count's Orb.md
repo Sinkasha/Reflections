@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/miscellaneous-reflections-campaign/the-count-s-orb/"}
 ---
 
-#dnd/reflections_campaign/misc
+#misc
 ## The Count's Orb
 *Colloquially referred to as the Count's balls* 
 

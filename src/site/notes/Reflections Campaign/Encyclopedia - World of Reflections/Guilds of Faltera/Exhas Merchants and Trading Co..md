@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/guilds-of-faltera/exhas-merchants-and-trading-co/"}
 ---
 
-#dnd/reflections_campaign/guilds 
+#guilds 
 # Exhas Merchants and Trading Co.
 Acting Chair: Jens Pollux
 

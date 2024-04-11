@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/miscellaneous-reflections-campaign/the-fish-crystals/"}
 ---
 
-#dnd/reflections_campaign/misc
+#misc
 ## The Fish Crystals
 
 Supposedly a symbol of a cult. There are multiple bearers of the fish. 

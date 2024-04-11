@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/guilds-of-faltera/vasara-adventuring-company/"}
 ---
 
-#dnd/reflections_campaign/guilds 
+#guilds 
 # Vasara Adventuring Company
 Acting Chair: [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Seliph Orsterra\|Seliph Orsterra]]
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/guilds-of-faltera/the-league-of-larcenists/"}
 ---
 
-#dnd/reflections_campaign/guilds 
+#guilds 
 # The League of Larcenists
 Leaders unknown
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/miscellaneous-reflections-campaign/silver-key-with-fusillan-flag/"}
 ---
 
-#dnd/reflections_campaign/misc
+#misc
 ## Silver Key with Fusillan Flag
 *Colloquially referred to as the Count's balls* 
 

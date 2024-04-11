@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/encyclopedia-world-of-reflections/"}
 ---
 
- #dnd/reflections_campaign
 # Encyclopedia - World of Reflections
 
 # [[Reflections Campaign/Encyclopedia - World of Reflections/Faltera\|Faltera]]

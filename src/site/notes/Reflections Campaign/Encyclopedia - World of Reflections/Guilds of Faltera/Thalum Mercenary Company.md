@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/guilds-of-faltera/thalum-mercenary-company/"}
 ---
 
-#dnd/reflections_campaign/guilds 
+#guilds 
 # Thalum Mercenary Company
 Commander: Cassandra Selevir (AKA Silver Selevir, 13-time champion)
 

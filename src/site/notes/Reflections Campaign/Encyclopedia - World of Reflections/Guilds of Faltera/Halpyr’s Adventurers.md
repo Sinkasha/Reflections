@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/guilds-of-faltera/halpyr-s-adventurers/"}
 ---
 
-#dnd/reflections_campaign/guilds 
+#guilds 
 # Halpyr’s Adventurers
 Leader: [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Melina Fiskov\|Melina Fiskov]] (long-time adventurer)
 

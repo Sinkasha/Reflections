@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/guilds-of-faltera/brecht-performer-s-union/"}
 ---
 
-#dnd/reflections_campaign/guilds 
+#guilds 
 # Brecht Performer’s Union
 President: Francois Plowright (famous singer)
 

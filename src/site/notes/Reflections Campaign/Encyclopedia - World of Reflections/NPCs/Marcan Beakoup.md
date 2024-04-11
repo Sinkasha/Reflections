@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/np-cs/marcan-beakoup/"}
+---
+
+#NPCs  
+# Marcan Beakoup
+Matthew's Retired Arrakocra Paladin
+
+Loves showing off and flexing. He was last seen at the tournament in Fusilla fighting for the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/Vasara Adventuring Company\|Vasara Adventuring Company]] with big gauntlets on his fists.

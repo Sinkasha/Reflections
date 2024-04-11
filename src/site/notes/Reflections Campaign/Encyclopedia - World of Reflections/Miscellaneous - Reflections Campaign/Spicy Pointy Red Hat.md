@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/miscellaneous-reflections-campaign/spicy-pointy-red-hat/"}
 ---
 
-#dnd/reflections_campaign/misc 
+#misc 
 ## Spicy Pointy Red Hat
 
 Gives advantage on all roles for Con saves on poisoned or rotten food. 

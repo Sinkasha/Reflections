@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reflections-campaign/encyclopedia-world-of-reflections/guilds-of-faltera/assal-artisans-guild/"}
 ---
 
-#dnd/reflections_campaign/guilds 
+#guilds 
 # Assal Artisans Guild
 Headmaster: Parrago Alexestria
 

@@ -16,6 +16,7 @@
 	- Why does [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/The League of Larcenists\|The League of Larcenists]] want the fish crystals?
 	- How are they related to LoL (with the card with both emblems on it) ([[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^daec82\|here]])
 	- How does it relate to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Count Canonbury\|Count Canonbury]] and the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Sanctum Key\|Sanctum Key]]?
+	- How does it relate to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Tiefling Dude\|Tiefling Dude]] and by extension, [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]]?
 - The rifts are very important
 	- Rumors it is related to [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Thalanrod\|Thalanrod]]
 	- [[Reflections Campaign/Timeline - Reflections Campaign/271 CE - The Interplanar Expansion\|271 CE - The Interplanar Expansion]]
@@ -24,7 +25,8 @@
 	- Count Canonbury was investigating this phenomenon
 		- Says it involves the Fae Wild
 		- Count believes dimensional integrity of Fae Wild better than material plane
-- Is [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/The League of Larcenists\|The League of Larcenists]] going to target [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Parli\|Parli]]????
+	- Related to Nyarlathotep, can we stop it?
+- Is [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/The League of Larcenists\|The League of Larcenists]] going to target [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Parli\|Parli]]???? Why? 
 - The Fiskov key for the vault in Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]]
 	- Requires two keys, other one is in Parli in the royal castle
 	- [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Derrick Fiskov\|Derrick Fiskov]] wants us to return the key to Parli
@@ -32,3 +34,4 @@
 	- Rendezvous in 4 days at Parli
 	- Written by whom?
 - The three goblins had a teleportation circle scroll on them, where does it go? ([[Reflections Campaign/Session Notes - Reflections/10 - 04.11.2024 - God#^0e1bdf\|here]])
+- How on earth do we stop [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]]??

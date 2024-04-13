@@ -29,4 +29,6 @@
 	- Requires two keys, other one is in Parli in the royal castle
 	- [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Derrick Fiskov\|Derrick Fiskov]] wants us to return the key to Parli
 - The random blank note we found in the cave on the way from Ashfall → Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^500919\|here]] 
-
+	- Rendezvous in 4 days at Parli
+	- Written by whom?
+- The three goblins had a teleportation circle scroll on them, where does it go? ([[Reflections Campaign/Session Notes - Reflections/10 - 04.11.2024 - God#^0e1bdf\|here]])

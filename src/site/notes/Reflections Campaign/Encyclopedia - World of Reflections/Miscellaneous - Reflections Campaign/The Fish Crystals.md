@@ -16,3 +16,5 @@ The red herring was discovered in [[Reflections Campaign/Encyclopedia - World of
 The green herring was discovered in a glowing green amulet acquired while on the trip to Ashfall [[Reflections Campaign/Session Notes - Reflections/08 - 2.29.2024 - A Journey of Self-Discovery (for half the table)#^bf0c60\|here]]. Along with this crystal was a map of [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Windrest\|Windrest]] in southeastern [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra\|Dagdra]]. [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Nim\|Nim]] has been there. It points to an area that Nim had thought suspicious during her visit. 
 
 A yellow fish was discovered on [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Jeice\|Jeice]]'s body [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^961ee1\|here]]. Also on his body was a card with both the LoL callsign and fish emblem, which just said "The Order will Prevail". 
+
+People are unwilling to buy the fish crystals. 

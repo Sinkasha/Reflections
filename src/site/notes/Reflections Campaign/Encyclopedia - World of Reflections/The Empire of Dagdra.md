@@ -30,7 +30,10 @@ Dagdra is an extremely strong military power, very prominent in the world since 
 ## Notable Locations
 ### Alvar
 *Capital of Dagdra*
-Placeholder. 
+Alvar is forested with very large mountains, rivers in the back, and dense forests surrounding it. 
+
+### Crescent Grove
+[[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Nim\|Nim]] unsealed [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Yul\|Yul]] here. Yul's sealing here appears to be voluntary. Yul was in a crystal bubble in suspended animation, which looked to contain Yul (may be the spell Sequester). The temple here was created by [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/The Council of Archmages\|The Council of Archmages]] and appears to be used to seal away something very powerful, Yul. When Nim broke the seal, the seal was already almost at its time limit. The seal had iconography from the Council on it. The ruins are about 130 year old, placing its creation around the year 217 CE, about 2 years after the death of [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Duessel Sarde\|Duessel Sarde]]. 
 
 ### Halpyr
 Home to [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/Halpyr’s Adventurers\|Halpyr’s Adventurers]].

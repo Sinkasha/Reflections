@@ -6,7 +6,7 @@
 # Nim
 Clea's Half-elf Rogue
 
-She freed [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Yul\|Yul]] at Crescent Grove. 
+She freed [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Yul\|Yul]] at [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Crescent Grove\|Crescent Grove]]. 
 
 She is an archaeologist, a historian. She has a PhD in archaeology with an emphasis in ancient civilizations and the gods that they worshipped. 
 

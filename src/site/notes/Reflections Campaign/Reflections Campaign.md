@@ -29,7 +29,10 @@ TLDR:
 - Got attacked oops: The adopted son of Count Canonbury, Jeice, and Petra, members of the League of Larcenists, attacked us asking for the fish crystals back. We defeated them and they proceeded to drop another fish crystal. The traffic light fish crystal collection is complete yippee
 - Also found some buried treasure with some notes that have illusion magic on them so we can't see what it says. 
 - We are now level 5
-10. 
+10. [[Reflections Campaign/Session Notes - Reflections/10 - 04.11.2024 - God\|10 - 04.11.2024 - God]]
+TLDR: 
+- We fought this tiefling dude. 
+- Got a massive lore drop about Nyarlathotep
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 

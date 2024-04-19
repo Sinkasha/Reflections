@@ -4,7 +4,7 @@
 
 #faltera/odema 
 **Hierophant**:
-The supreme law of the Holy State, the Hierophant listens to the words of the Cosmic Gods, the Sun, Moon, and Stars. Their decree rules the entirety of the Holy State, as the words of the gods are seen as absolute, thus the holy messenger is entrusted to relay those words. By far, all of the political power in the Holy State rests in the hands of the Hierophant.
+The supreme law of the Holy State, the Hierophant listens to the words of the [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Celestial Gods\|Cosmic Gods]], the Sun, Moon, and Stars. Their decree rules the entirety of the Holy State, as the words of the gods are seen as absolute, thus the holy messenger is entrusted to relay those words. By far, all of the political power in the Holy State rests in the hands of the Hierophant.
 
 **Archbishop**:
 

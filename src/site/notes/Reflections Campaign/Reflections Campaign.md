@@ -33,6 +33,7 @@ TLDR:
 TLDR: 
 - We fought this tiefling dude. 
 - Got a massive lore drop about Nyarlathotep
+11. 
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 

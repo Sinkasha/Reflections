@@ -39,8 +39,13 @@ Home to the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of
 A city with a relatively normal settlement on the ground but with a vast network of tunnels and underground rooms and structures within the mountain. Home to a bustling night market for each season with various exports and very expensive things. The city houses a large population. The mineshafts within the mountain is mostly for coal mining. One can reach Parli by going straight through the mountain path. 
 
 ### Parli
-*Capital of Fusilla*
-Placeholder. 
+The capital of Fusilla. It is a circular city with 4 outer districts and 3 inner districts surrounding a large castle. Large walls surround the city. Between the outer and inner districts is a moat with bridges connecting the neighboring districts. In the center sits the Aquamarine Castle, which is heavily secured and guarded with only one major entrance in the Opal District. 
+
+The Opal District is the inner residential district in the southwest. Upper upper class residents reside here, and there are many shops in this district as well. The Rosaline District, in the northwest, is the entertainment district with a bustling night life. The Emerald District, in the northeast, is the academic sector. This is where the Prism, a 10-story library with sturdy transparent walls, and Parli Academy of Wizardry is. 
+
+The outer districts are the Amber District, Ruby District, Citrine District, and Lapis District. The Amber District is in the southwest and is the farming district, with lots of farmland and farm animals. The Ruby District is in the southeast, and is the outer commercial district. In the northwest is the Citrine District, the military district. In the northeast is the Lapis District, the outer residential district. 
+
+Along the walls, there are stone railings. More walls are within the city that facilitate parcel transportation, where gusts of wind move rocks with parcels on top. 
 
 ### Vasara
 Home to the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/Vasara Adventuring Company\|Vasara Adventuring Company]].

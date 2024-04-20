@@ -15,7 +15,7 @@ This tiefling is part of the upper ranks in [[Reflections Campaign/Encyclopedia 
 
 The tiefling believes that [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]] is still with us. 
 
-He was sent to clean up after [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Jeice\|Jeice]] and [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Petra\|Petra]]'s mess. He killed the three goblins who were attempting to coerce money out of [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Derrick Fiskov\|Derrick Fiskov]] and who stole the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Silver Key with Fusillan Flag\|Silver key]]. 
+He was sent to clean up after [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Jeice\|Jeice]] and [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Petra von Alspar\|Petra von Alspar]]'s mess. He killed the three goblins who were attempting to coerce money out of [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Derrick Fiskov\|Derrick Fiskov]] and who stole the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Silver Key with Fusillan Flag\|Silver key]]. 
 
 He appears to know what [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Yul\|Yul]] is. He tells Yul, "I know you're in there, now come with me and we can make this easy." He then asks to meet Yul at Lake Novis. He calls Yul a puppet. 
 

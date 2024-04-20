@@ -16,4 +16,4 @@ There are rumors ([[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2
 
 ### Known Members
 - [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Jeice\|Jeice]]
-- [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Petra\|Petra]]
+- [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Petra von Alspar\|Petra von Alspar]]

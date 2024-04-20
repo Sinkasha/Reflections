@@ -33,7 +33,10 @@ TLDR:
 TLDR: 
 - We fought this tiefling dude. 
 - Got a massive lore drop about Nyarlathotep
-11. 
+11. [[Reflections Campaign/Session Notes - Reflections/11 - 04.18.2024 - Glorp and Garlic Bread\|11 - 04.18.2024 - Glorp and Garlic Bread]]
+TLDR: 
+- Made it to Parli, talked to Frostdir, learned about the Order of the Fish, found an orange fish crystal, had garlic bread. 
+12. 
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 

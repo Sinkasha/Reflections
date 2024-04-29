@@ -38,10 +38,15 @@ Home to the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of
 ### Canonbury
 A city with a relatively normal settlement on the ground but with a vast network of tunnels and underground rooms and structures within the mountain. Home to a bustling night market for each season with various exports and very expensive things. The city houses a large population. The mineshafts within the mountain is mostly for coal mining. One can reach Parli by going straight through the mountain path. 
 
+### Geimshall Woods
+Where [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Bloo\|Bloo]] awoke. Has a petricite tree which is believed to not hail from this world. 
+
 ### Parli
 The capital of Fusilla. It is a circular city with 4 outer districts and 3 inner districts surrounding a large castle. Large walls surround the city. Between the outer and inner districts is a moat with bridges connecting the neighboring districts. In the center sits the Aquamarine Castle, which is heavily secured and guarded with only one major entrance in the Opal District. 
 
 The Opal District is the inner residential district in the southwest. Upper upper class residents reside here, and there are many shops in this district as well. The Rosaline District, in the northwest, is the entertainment district with a bustling night life. The Emerald District, in the northeast, is the academic sector. This is where the Prism, a 10-story library with sturdy transparent walls, and Parli Academy of Wizardry is. 
+
+In the Prism, the books are sorted by floor, with the 3rd floor being the natural sciences, ancient history on the 7th floor, curses and history on the 8th floor, 
 
 The outer districts are the Amber District, Ruby District, Citrine District, and Lapis District. The Amber District is in the southwest and is the farming district, with lots of farmland and farm animals. The Ruby District is in the southeast, and is the outer commercial district. In the northwest is the Citrine District, the military district. In the northeast is the Lapis District, the outer residential district. 
 
@@ -50,13 +55,10 @@ Along the walls, there are stone railings. More walls are within the city that f
 ### Vasara
 Home to the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/Vasara Adventuring Company\|Vasara Adventuring Company]].
 
-##### Notes
-Geimshall Woods in Fusilla
-
 ## Notable Families
 ### Fiskov Family
 *A family of elves*
 The head of the Fiskov Family is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Melina Fiskov\|Melina Fiskov]], who moved to [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Halpyr\|Halpyr, Dagdra]]
 There is a potion supplier in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Parli\|Parli]] who is part of the Fiskov family.  
 The weapons storeowner, [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Derrick Fiskov\|Derrick Fiskov]] in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Ashfall\|Ashfall]] is from the Fiskov family. He is currently travelling with the party after they cure him of his curse. 
-The Fiskov Family, specifically [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Fae Fiskov\|Fae Fiskov]], was entrusted with an[[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Silver Key with Fusillan Flag\|important key]] that was discovered in the hands of three goblins in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Ashfall\|Ashfall]] ([[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]]). 
+The Fiskov Family, specifically [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Fae Fiskov\|Fae Fiskov]], was entrusted with an [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Silver Key with Fusillan Flag\|important key]] that was discovered in the hands of three goblins in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Ashfall\|Ashfall]] ([[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]]). This key turned out to be fake. 

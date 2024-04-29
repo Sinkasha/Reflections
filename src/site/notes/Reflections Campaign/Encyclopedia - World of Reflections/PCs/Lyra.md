@@ -6,4 +6,4 @@
 # Lyra
 Laura's Gambling Half-Elf Sorcerer
 
-She loves gambling. 
+She loves gambling. Her father is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Horace Frostdir\|Horace Frostdir]]. The human side of her family were the Goldrunes, unrelated to the city of Goldrune in Dagdra. She is from Gongaga, [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra\|Dagdra]]. 

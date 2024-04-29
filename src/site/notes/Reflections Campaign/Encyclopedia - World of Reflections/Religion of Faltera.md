@@ -6,6 +6,8 @@
 # Religion of Faltera: The Pantheon
 The gods of Faltera reside in the Astral Plane, far above the moral realm. They have physical manifestations on occasion. They have mortal incarnations and descendants, referred to as The Marked. These people have tremendous power based on their progenitor. [^1]
 
+Generally, large metropolitan areas favor big gods, and coastal cities favor gods of the sky and ocean. 
+
 **The Gods' Symbols:**
 ![God Symbols.jpg|600](/img/user/Keep%20Files/God%20Symbols.jpg)
 
@@ -82,10 +84,10 @@ The manifestation of pure order.
 
 ##### God of Chaos: Hrym
 *Chaotic Neutral*
-The manifestation of pure chaotic instinct. 
+The manifestation of pure chaotic instinct. They do not want to step on [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Fortune Aurus\|Aurus]]'s toes. 
 ![God of Chaos Symbol.png|100](/img/user/Keep%20Files/God%20of%20Chaos%20Symbol.png)
 
-## Depreciated Gods
+## Primitive Gods
 ##### God of Death: Nyarlathotep
 *Depreciated God of Death*
 Nyarlathotep is the ancient god of death, controlling passage into the astral plane. Most of Nyarlathotep's worshippers were in modern day [[Reflections Campaign/Encyclopedia - World of Reflections/The Holy State of Odema\|The Holy State of Odema]] and the Beryth territory in [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra\|The Empire of Dagdra]]. Nyarlathotep is in the Far Realms, and sent an avatar to the Material Plane, who would've been a willing worshipper of them. 
@@ -96,8 +98,17 @@ During the war between the gods, Nyarlathotep killed Yeenoghu, the God of Gnolls
 
 In modern day, [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/The Order of the Fish\|The Order of the Fish]] worship Nyarlathotep. 
 
+Nyarlathotep has 8 Sinister Vows, who are super loyal followers of Nyarlathotep. Not much is known about them as history has been intentionally obfuscated. 
+3. King Hades, Ruler of the Plane of Hades, is the third vow of Nyarlathotep. In order to summon him, one must carry out a specific divine ritual. Its requirements include 3 severed heads, dried roots and ashes of the roots of a petricite tree in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Geimshall Woods\|Geimshall Woods]]. The ritual takes 2 hours and requires immense concentration, hand gestures, and a summoning circle. According to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Astrid von Novis\|Astrid von Novis]], Hades is just a personification. 
+
 ##### God of Life: Unnamed
 *Depreciated God of Life*
+In their prime, the God of Life was equal in power to Nyarlathotep. 
 The God of Life's worshippers were mostly in the northern regions of Faltera, including Frostwind, Hyritia, and stretching into Fusilla. 
+There is a theory in academic circles that [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Life Yddris\|Yddris]] and [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Death Nyx\|Nyx]] are two halves of the depreciated God of Life. 
+
+##### God of Consciousness: Unnamed
+*IDK where bro went*
+The God of Consciousness does not like Nyarlathotep, as one can't be conscious when they are dead. They are equal in power to Nyarlathotep. 
 
 [^1]: As a note to the readers, these names are merely inspiration, and should not be taken as to assume that these deities are exactly like the mythological counterparts. These are namesakes and you should not necessarily draw upon prior knowledge of these gods as that will not necessarily give you more insight into how they function in Faltera.

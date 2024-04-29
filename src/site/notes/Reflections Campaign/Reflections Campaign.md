@@ -36,7 +36,12 @@ TLDR:
 11. [[Reflections Campaign/Session Notes - Reflections/11 - 04.18.2024 - Glorp and Garlic Bread\|11 - 04.18.2024 - Glorp and Garlic Bread]]
 TLDR: 
 - Made it to Parli, talked to Frostdir, learned about the Order of the Fish, found an orange fish crystal, had garlic bread. 
-12. 
+12. [[Reflections Campaign/Session Notes - Reflections/12 - 04.25.2024 - A Journey of Self-Discovery Part 2\|12 - 04.25.2024 - A Journey of Self-Discovery Part 2]]
+TLDR: 
+- Bloo pre-blob was Sorean, who killed Duessel. 
+- Astrid is strong af. 
+- Horace Frostdir is Lyra's father. 
+13. 
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 

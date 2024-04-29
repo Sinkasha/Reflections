@@ -25,16 +25,11 @@
 	- Related to Nyarlathotep, can we stop it?
 - Is [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/The League of Larcenists\|The League of Larcenists]] going to target [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Parli\|Parli]]???? 
 	- Yes
-	- Actually [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/The Order of the Fish\|The Order of the Fish]]? 
-	- How/when can we stop it?
+	- How/when can we stop it? Apparently it no matter
 - The Fiskov key for the vault in Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]] was **fake**, why??
-	- Requires two keys, other one is in Parli in the royal castle
-	- [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Derrick Fiskov\|Derrick Fiskov]] wants us to return the key to Parli
 - The random blank note we found in the cave on the way from Ashfall → Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^500919\|here]] 
 	- Rendezvous in 4 days at Parli
 	- Written by whom?
 - The three goblins had a teleportation circle scroll on them, where does it go? ([[Reflections Campaign/Session Notes - Reflections/10 - 04.11.2024 - God#^0e1bdf\|here]])
 	- Unknown, have to teleport to see
 - How on earth do we stop [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]]??
-- How does [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Lyra\|Lyra]] relate to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Horace Frostdir\|Horace Frostdir]] and/or affiliations with the Academy?
-	- [[Reflections Campaign/Session Notes - Reflections/11 - 04.18.2024 - Glorp and Garlic Bread#^372512\|here]] 

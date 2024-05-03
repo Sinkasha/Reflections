@@ -11,4 +11,4 @@ Bloo woke up near the Geimshall Woods in [[Reflections Campaign/Encyclopedia - W
 
 Using Detect Magic, one can sense multiple types of magic, including illusion and necromancy magic, concentrated around its head. 
 
-Bloo's true name is Sorean. Bloo killed Duessel Sarde during 
+Bloo's true name is Sorean. Bloo killed Duessel Sarde during [[Reflections Campaign/Timeline - Reflections Campaign/214 CE - The Subjugation of Duessel Sarde\|214 CE - The Subjugation of Duessel Sarde]]. 

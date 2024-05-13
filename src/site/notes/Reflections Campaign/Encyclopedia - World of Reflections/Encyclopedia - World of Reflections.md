@@ -14,6 +14,8 @@
 #### Things to investigate: 
 - What is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/The Order of the Fish\|The Order of the Fish]] up to?
 	- How do the fishes relate to the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Sanctum Key\|Sanctum Key]]? 
+	- Who is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]]? Why is he stopping the ritual until further notice? 
+	- We found a key on Theodore, what is it for? 
 - The rifts are very important
 	- Rumors it is related to [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Thalanrod\|Thalanrod]]
 	- [[Reflections Campaign/Timeline - Reflections Campaign/271 CE - The Interplanar Expansion\|271 CE - The Interplanar Expansion]]
@@ -23,13 +25,11 @@
 		- Says it involves the Fae Wild
 		- Count believes dimensional integrity of Fae Wild better than material plane
 	- Related to Nyarlathotep, can we stop it?
-- Is [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/The League of Larcenists\|The League of Larcenists]] going to target [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Parli\|Parli]]???? 
-	- Yes
-	- How/when can we stop it? Apparently it no matter
-- The Fiskov key for the vault in Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]] was **fake**, why??
+- The Fiskov key for the vault in Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]] was **fake**, why?? Does it matter?
 - The random blank note we found in the cave on the way from Ashfall → Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^500919\|here]] 
 	- Rendezvous in 4 days at Parli
 	- Written by whom?
 - The three goblins had a teleportation circle scroll on them, where does it go? ([[Reflections Campaign/Session Notes - Reflections/10 - 04.11.2024 - God#^0e1bdf\|here]])
 	- Unknown, have to teleport to see
+	- The goblins teleported to a base of the Order, were the goblins in cahoots with the Order?
 - How on earth do we stop [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]]??

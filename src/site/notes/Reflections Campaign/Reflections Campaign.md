@@ -41,7 +41,10 @@ TLDR:
 - Bloo pre-blob was Sorean, who killed Duessel. 
 - Astrid is strong af. 
 - Horace Frostdir is Lyra's father. 
-13. 
+13. [[Reflections Campaign/Session Notes - Reflections/13 - 5.02.2024 - Weed Patty\|13 - 5.02.2024 - Weed Patty]]
+TLDR: 
+- Got the blue fish crystal and discovered the makings of the orbs. 
+14. 
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 

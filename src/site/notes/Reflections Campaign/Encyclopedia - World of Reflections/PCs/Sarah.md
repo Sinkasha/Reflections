@@ -11,4 +11,4 @@ Sarah hates curses. Her primary goal is removing curses. She wants to remove all
 
 Sarah hates vengeful deities who are mostly likely to inflict curses. 
 
-Sarah likes to yap. 
+Sarah likes to yap. She was born in [[Reflections Campaign/Encyclopedia - World of Reflections/The Hyritian Alliance\|Hyritia]]. 

@@ -5,7 +5,7 @@
 #misc
 ## The Fish Crystals
 
-Belongs to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/The Order of the Fish\|The Order of the Fish]]. There are 7 total in the colors of the rainbow. They are keys to pedestals in [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Windrest\|Windrest]]. 
+Belongs to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/The Order of the Fish\|The Order of the Fish]]. There are 7 total in the colors of the rainbow and one white. They are keys to pedestals in [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Windrest\|Windrest]]. 
 
 Nim's college may have had a secret fish cult. 
 
@@ -19,4 +19,6 @@ An orange fish was discovered in the possession of [[Reflections Campaign/Encycl
 
 A blue fish was found with [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Mikhail\|Mikhail]], whom the party killed and took the fish crystal. 
 
-People are unwilling to buy the fish crystals. 
+A purple and white fish was found in the dungeon in [[Reflections Campaign/Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS\|14 - 5.23.2024 - FISH CRYSTALS]]. It was in a chest that was unlocked with the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Sanctum Key\|Sanctum Key]] accessible via elevator. 
+
+The 7 fish crystals unlocked a room with a shrine of a very fish like humanoid holding a trident, made of white marble with a golden inscription stating it is a god of [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of the Ocean Nautica\|Nautica]]. The statue accepted one of the swirly portal orbs as an offering. After a 10 minute ritual, it turned into [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Susanoo\|Susanoo]] and [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Watatsumi\|Watatsumi]], a legendary pair of ocean serpent fans. 

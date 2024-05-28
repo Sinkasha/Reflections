@@ -12,10 +12,8 @@
 # [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Miscellaneous - Reflections Campaign\|Miscellaneous - Reflections Campaign]]
 ***
 #### Things to investigate: 
-- What is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/The Order of the Fish\|The Order of the Fish]] up to?
-	- How do the fishes relate to the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Sanctum Key\|Sanctum Key]]? 
-	- Who is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]]? Why is he stopping the ritual until further notice? 
-	- We found a key on Theodore, what is it for? 
+- What is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]] up to?
+	- Who is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]]? Why is he stopping the ritual until further notice? What is the ritual?
 - The rifts are very important
 	- Rumors it is related to [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Thalanrod\|Thalanrod]]
 	- [[Reflections Campaign/Timeline - Reflections Campaign/271 CE - The Interplanar Expansion\|271 CE - The Interplanar Expansion]]

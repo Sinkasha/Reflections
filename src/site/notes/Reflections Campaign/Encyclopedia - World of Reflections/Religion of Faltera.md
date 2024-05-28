@@ -55,7 +55,7 @@ Governing the beauty of life outside of humanity, Forsyth oversees the sprawling
 ##### God of the Ocean: Nautica
 *Chaotic Neutral*
 Nautica governs the seas, the tides, and everything in the ocean that isn’t under the gravitational influence of Lumis.
-Sailors pray to Nautica in hopes of calm waters for save seafaring travel, and as a result, Nautica is most prayed to in the coasts, especially [[Reflections Campaign/Encyclopedia - World of Reflections/The Hyritian Alliance\|Hyritia]].
+Sailors pray to Nautica in hopes of calm waters for save seafaring travel, and as a result, Nautica is most prayed to in the coasts, especially [[Reflections Campaign/Encyclopedia - World of Reflections/The Hyritian Alliance\|Hyritia]]. May have created [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/The Fish Crystals\|The Fish Crystals]]. 
 ![God of the Ocean Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Ocean%20Symbol.png)
 
 ##### God of the Sky: Aeros

@@ -14,4 +14,6 @@ He owns an interesting gauntlet which has 3 gem slots. It can save spells on its
 
 He is capable of causing all [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/The Fish Crystals\|The Fish Crystals]] to flash. 
 
+Jeice got pissed at [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Drake\|Drake]] and used him as a sacrifice to summon Hades. Using his gauntlet, he drained Drake of life and summoned Hades. He states that nobody will interrupt [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]]'s ritual. What this ritual is is unknown. Jeice created a small pocket dimension when summoning Hades, which was broken by [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Lyra\|Lyra]] and [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Yul\|Yul]]'s collective efforts with the magic taught to them by [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Astrid von Novis\|Astrid von Novis]]. 
+
 Part of the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/The League of Larcenists\|The League of Larcenists]]. 

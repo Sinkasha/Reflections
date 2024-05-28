@@ -44,7 +44,7 @@ TLDR:
 13. [[Reflections Campaign/Session Notes - Reflections/13 - 5.02.2024 - Weed Patty\|13 - 5.02.2024 - Weed Patty]]
 TLDR: 
 - Got the blue fish crystal and discovered the makings of the orbs. 
-14. 
+14. [[Reflections Campaign/Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS\|14 - 5.23.2024 - FISH CRYSTALS]]
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 

@@ -45,6 +45,12 @@ TLDR:
 TLDR: 
 - Got the blue fish crystal and discovered the makings of the orbs. 
 14. [[Reflections Campaign/Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS\|14 - 5.23.2024 - FISH CRYSTALS]]
+TLDR: 
+- We assembled the seven fish crystals, killed Jeice and Drake, and acquired powerful weapons. 
+15. [[Reflections Campaign/Session Notes - Reflections/15 - 5.30.2024 - The Vault Part 1\|15 - 5.30.2024 - The Vault Part 1]]
+TLDR: 
+- We made it into the castle, met up with [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Fae Fiskov\|Fae Fiskov]] and she led us into the vault that contains the mirror shard. 
+16. 
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 

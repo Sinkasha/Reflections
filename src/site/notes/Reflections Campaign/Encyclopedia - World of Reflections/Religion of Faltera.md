@@ -18,14 +18,12 @@ The Celestial Gods govern the material plane from the heavens.
 
 ##### God of the Sun: Clarus
 *Chaotic Good*
-Embodying the radiance and warmth needed to sustain life, Clarus oversees much of the material plane and is the
-manifestation of the daytime.
+Embodying the radiance and warmth needed to sustain life, Clarus oversees much of the material plane and is the manifestation of the daytime. 
 ![God of the Sun Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Sun%20Symbol.png)
 
 ##### God of the Moon: Lumis
 *Chaotic Good*
-Veiled in moonlight, Lumis extends her reach throughout the material plane as she oversees the material plane as the
-manifestation of the night.
+Veiled in moonlight, Lumis extends her reach throughout the material plane as she oversees the material plane as the manifestation of the night.
 ![God of the Moon Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Moon%20Symbol.png)
 
 ##### God of the Stars: Stergeiz
@@ -34,8 +32,7 @@ Stergeiz is the governor of the heavens, acting as a mediator between Lumis and 
 ![God of the Stars Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Stars%20Symbol.png)
 
 ### Gods of Natural Forces
-These are the gods who govern natural forces of the universe, beyond the heavens, and into the very existence of
-mortals.
+These are the gods who govern natural forces of the universe, beyond the heavens, and into the very existence of mortals.
 
 ##### God of Life: Yddris
 *Lawful Neutral*

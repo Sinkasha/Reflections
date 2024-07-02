@@ -6,6 +6,7 @@
 ## [[Reflections Campaign/Encyclopedia - World of Reflections/Encyclopedia - World of Reflections\|Encyclopedia - World of Reflections]]
 
 ## [[Reflections Campaign/Session Notes - Reflections/Session Notes - Reflections\|Session Notes - Reflections]]
+#### Act 1
 1. [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market\|01 - 10.21.2022 - Night Market]]
 TLDR: The party starts in a night market. The head of [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/Vasara Adventuring Company\|Vasara Adventuring Company]], [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Seliph Orsterra\|Seliph Orsterra]], says there are people that need saving in the coal mines and will head out the next morning. All 4 characters meet / find each other. A couple eccentric characters were met along the way. We end at night. 
 2. [[Reflections Campaign/Session Notes - Reflections/02 - 11.6.2022 - Investigating the Cave In\|02 - 11.6.2022 - Investigating the Cave In]]
@@ -50,7 +51,7 @@ TLDR:
 15. [[Reflections Campaign/Session Notes - Reflections/15 - 5.30.2024 - The Vault Part 1\|15 - 5.30.2024 - The Vault Part 1]]
 TLDR: 
 - We made it into the castle, met up with [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Fae Fiskov\|Fae Fiskov]] and she led us into the vault that contains the mirror shard. 
-16. 
+16. [[Reflections Campaign/Session Notes - Reflections/16 - 06.07.2024 - The Big Boss\|16 - 06.07.2024 - The Big Boss]]
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Reflections Campaign/Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 
@@ -59,3 +60,4 @@ TLDR:
 - Pirates lore drop [[Reflections Campaign/Session Notes - Reflections/07 - 2.6.2024 - The Count Dies, Goodbye Bugbear, Hello Sarah#^0a6466\|here]] 
 - Fiskovs: know that the royal family of Dagdra are recovering from the previous empiorer was assassinated, political tension between Dagdra and Fusilla, people aren't really happy about the fact that Fusilla is sticking with the status quo (things haven't changed int he last few centuries, ppl aren't happy about the state, gap in economics, Ashfall is rundown, and Parli is super fancy and renovated capital city), the hyritian alliance trades with them anyways (money), Margavelle vibing, holy state are assholes
 - The Far Realms exist 
+- The vault was created with the castle, King Jacques, first king of Fusilla, wanted to safeguard stuff

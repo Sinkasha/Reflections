@@ -16,3 +16,4 @@ The upper ranks of the Order all have markings on their face.
 Known Members: 
 - [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Dude 2\|Dude 2]] - 2
 - [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Tiefling Dude\|Tiefling Dude]] - 3
+- [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]] 

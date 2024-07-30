@@ -15,7 +15,7 @@ The green fish was discovered in a glowing green amulet acquired while on the tr
 
 A yellow fish was discovered on [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Jeice\|Jeice]]'s body [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^961ee1\|here]]. Also on his body was a card with both the LoL callsign and fish emblem, which just said "The Order will Prevail". 
 
-An orange fish was discovered in the possession of [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Hugo Starling\|Hugo Starling]] who acquired it at Everholden, stealing it from [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Dude 2\|Dude 2]]. He was trying to give it to Duke Navil, the Prime Minister of [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla\|Fusilla]]. 
+An orange fish was discovered in the possession of [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Hugo Starling\|Hugo Starling]] who acquired it at [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Everholden\|Everholden]] , stealing it from [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Dude 2\|Dude 2]]. He was trying to give it to Duke Navil, the Prime Minister of [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla\|Fusilla]]. 
 
 A blue fish was found with [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Mikhail\|Mikhail]], whom the party killed and took the fish crystal. 
 

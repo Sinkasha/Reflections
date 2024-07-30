@@ -6,7 +6,9 @@
 # Faltera
 In a pocket space in the multiverse, material plane.
 
-![Keep Files/Map of Faltera.png](/img/user/Keep%20Files/Map%20of%20Faltera.png)
+![Map of Faltera.png](/img/user/Images/Map%20of%20Faltera.png)
+##### [[Reflections Campaign/Encyclopedia - World of Reflections/Travel Times\|Travel Times]]
+
 ## [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra\|The Empire of Dagdra]]
 ## [[Reflections Campaign/Encyclopedia - World of Reflections/The Grand Duchy of Margavelle\|The Grand Duchy of Margavelle]]
 ## [[Reflections Campaign/Encyclopedia - World of Reflections/The Holy State of Odema\|The Holy State of Odema]]

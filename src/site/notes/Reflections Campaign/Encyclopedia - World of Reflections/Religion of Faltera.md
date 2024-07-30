@@ -9,7 +9,7 @@ The gods of Faltera reside in the Astral Plane, far above the moral realm. They 
 Generally, large metropolitan areas favor big gods, and coastal cities favor gods of the sky and ocean. 
 
 **The Gods' Symbols:**
-![God Symbols.jpg|600](/img/user/Keep%20Files/God%20Symbols.jpg)
+![God Symbols.jpg|600](/img/user/Images/God%20Symbols.jpg)
 
 ## The Major Gods
 
@@ -19,17 +19,17 @@ The Celestial Gods govern the material plane from the heavens.
 ##### God of the Sun: Clarus
 *Chaotic Good*
 Embodying the radiance and warmth needed to sustain life, Clarus oversees much of the material plane and is the manifestation of the daytime. 
-![God of the Sun Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Sun%20Symbol.png)
+![God of the Sun Symbol.png|100](/img/user/Images/God%20of%20the%20Sun%20Symbol.png)
 
 ##### God of the Moon: Lumis
 *Chaotic Good*
 Veiled in moonlight, Lumis extends her reach throughout the material plane as she oversees the material plane as the manifestation of the night.
-![God of the Moon Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Moon%20Symbol.png)
+![God of the Moon Symbol.png|100](/img/user/Images/God%20of%20the%20Moon%20Symbol.png)
 
 ##### God of the Stars: Stergeiz
 *Neutral Good*
 Stergeiz is the governor of the heavens, acting as a mediator between Lumis and Clarus. She watches over the material plane as the manifestation of dawn and dusk.
-![God of the Stars Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Stars%20Symbol.png)
+![God of the Stars Symbol.png|100](/img/user/Images/God%20of%20the%20Stars%20Symbol.png)
 
 ### Gods of Natural Forces
 These are the gods who govern natural forces of the universe, beyond the heavens, and into the very existence of mortals.
@@ -37,29 +37,29 @@ These are the gods who govern natural forces of the universe, beyond the heavens
 ##### God of Life: Yddris
 *Lawful Neutral*
 Governing the forces of life itself, Yddris is the most prayed to god of the modern pantheon. Yddris is seen as a beacon for the gift of life, and it is said that they bless mortals with a gift of a long, healthy life. They are celebrated as the reason for life in Faltera and the mortal realm, even though that may not necessarily be true…
-![God of Life Symbol.png|100](/img/user/Keep%20Files/God%20of%20Life%20Symbol.png)
+![God of Life Symbol.png|100](/img/user/Images/God%20of%20Life%20Symbol.png)
 
 ##### God of Death: Nyx
 *Lawful Neutral*
 Nyx governs the forces of death and the passage to the afterlife. They are generally viewed as an arbitrator between the living and the dead, rather than some malevolent being. There is some superstition about their worship, but Nyx remains a neutral god with no ill will towards humanity. Contrary to their predecessor….
-![God of Death Symbol.png|100](/img/user/Keep%20Files/God%20of%20Death%20Symbol.png)
+![God of Death Symbol.png|100](/img/user/Images/God%20of%20Death%20Symbol.png)
 
 ##### God of Nature: Forsyth
 *Lawful Good*
 Governing the beauty of life outside of humanity, Forsyth oversees the sprawling fauna of Faltera. She acts to preserve the good of nature, from the innocent wildlife to the plants that beautify the world.
-![God of Nature Symbol.png|100](/img/user/Keep%20Files/God%20of%20Nature%20Symbol.png)
+![God of Nature Symbol.png|100](/img/user/Images/God%20of%20Nature%20Symbol.png)
 
 ##### God of the Ocean: Nautica
 *Chaotic Neutral*
 Nautica governs the seas, the tides, and everything in the ocean that isn’t under the gravitational influence of Lumis.
 Sailors pray to Nautica in hopes of calm waters for save seafaring travel, and as a result, Nautica is most prayed to in the coasts, especially [[Reflections Campaign/Encyclopedia - World of Reflections/The Hyritian Alliance\|Hyritia]]. May have created [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/The Fish Crystals\|The Fish Crystals]]. 
-![God of the Ocean Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Ocean%20Symbol.png)
+![God of the Ocean Symbol.png|100](/img/user/Images/God%20of%20the%20Ocean%20Symbol.png)
 
 ##### God of the Sky: Aeros
 *Chaotic Neutral*
 The god of the sky governs the winds and skies of Faltera, and in a sense is an embodiment of freedom. 
 Is celebrated in the sky festival during the apex of spring. 
-![God of the Sky Symbol.png|100](/img/user/Keep%20Files/God%20of%20the%20Sky%20Symbol.png)
+![God of the Sky Symbol.png|100](/img/user/Images/God%20of%20the%20Sky%20Symbol.png)
 
 ### Gods of Human Nature
 As humanity evolved, so too did the pantheon. The Gods of Human Nature, while not exclusive to humans necessarily, these gods are a reflection of the sentient and more complex feelings of beings.
@@ -67,22 +67,22 @@ As humanity evolved, so too did the pantheon. The Gods of Human Nature, while no
 ##### God of Greed: Lucius
 *Chaotic Neutral*
 The manifestation of human greed and hubris.
-![God of Greed Symbol.png|100](/img/user/Keep%20Files/God%20of%20Greed%20Symbol.png)
+![God of Greed Symbol.png|100](/img/user/Images/God%20of%20Greed%20Symbol.png)
 
 ##### God of Fortune: Aurus
 *Neutral Good*
 The manifestation of human goodwill and fortune. 
-![God of Fortune Symbol.png|100](/img/user/Keep%20Files/God%20of%20Fortune%20Symbol.png)
+![God of Fortune Symbol.png|100](/img/user/Images/God%20of%20Fortune%20Symbol.png)
 
 ##### God of Order: Lucht
 *Lawful Neutral*
 The manifestation of pure order.
-![God of Order Symbol.png|100](/img/user/Keep%20Files/God%20of%20Order%20Symbol.png)
+![God of Order Symbol.png|100](/img/user/Images/God%20of%20Order%20Symbol.png)
 
 ##### God of Chaos: Hrym
 *Chaotic Neutral*
 The manifestation of pure chaotic instinct. They do not want to step on [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Fortune Aurus\|Aurus]]'s toes. 
-![God of Chaos Symbol.png|100](/img/user/Keep%20Files/God%20of%20Chaos%20Symbol.png)
+![God of Chaos Symbol.png|100](/img/user/Images/God%20of%20Chaos%20Symbol.png)
 
 ## Primitive Gods
 ##### God of Death: Nyarlathotep

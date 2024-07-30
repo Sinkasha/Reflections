@@ -4,7 +4,7 @@
 
 #faltera/fusilla 
 # The Kingdom of Fusilla 
-Queen Primrose L’Dore
+Queen [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Primrose L'Dore\|Primrose L'Dore]]
 Fusillan
 **Governance Type**: Constitutional Monarchy
 **Capital**: Parli
@@ -17,13 +17,13 @@ Fusillan
 **Queen**: Primrose L’dore
 **Prime Minister**: Duke Ezra von Navil
 **Parliamentary Regent**: Atlas Felspard
-**Grand Treasurer**: Duke Soren von Aquarion
+**Grand Treasurer**: Duke Corven von Aquarion
 **Chancellor of Education**: Glen Boeck
 **Luminary**: Iris Galfraun
 **Royal Ambassador**: Cheryl Dvalir
 
 **Flag**: 
-![Fusillan Flag.png|300](/img/user/Keep%20Files/Fusillan%20Flag.png) 
+![Fusillan Flag.png|300](/img/user/Images/Fusillan%20Flag.png) 
 
 ##### Description
 Fusilla has a formidable global presence in Faltera. Being at the forefront of diplomacy across the region, Fusilla is known for its widespread influence. While primarily focusing on diplomacy with promises for prosperity, the Kingdom is the oldest still-standing country (established in 1 CE), and as such, is known for its incredible defensive military prowess, though the nation doesn’t shy from force when the nobles deem necessary. Fusilla also attracts visitors and immigrants alike with their array of prestigious magic academies, including the famous Jaldenne Academy, home of the finest mages. 
@@ -38,19 +38,27 @@ Home to the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of
 ### Canonbury
 A city with a relatively normal settlement on the ground but with a vast network of tunnels and underground rooms and structures within the mountain. Home to a bustling night market for each season with various exports and very expensive things. The city houses a large population. The mineshafts within the mountain is mostly for coal mining. One can reach Parli by going straight through the mountain path. 
 
+### Everholden
+North of Parli. Hugo got the orange [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/The Fish Crystals\|fish crystal]] here. 
+
 ### Geimshall Woods
 Where [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Bloo\|Bloo]] awoke. Has a petricite tree which is believed to not hail from this world. 
 
 ### Parli
 The capital of Fusilla. It is a circular city with 4 outer districts and 3 inner districts surrounding a large castle. Large walls surround the city. Between the outer and inner districts is a moat with bridges connecting the neighboring districts. In the center sits the Aquamarine Castle, which is heavily secured and guarded with only one major entrance in the Opal District. 
 
-The Opal District is the inner residential district in the southwest. Upper upper class residents reside here, and there are many shops in this district as well. The Rosaline District, in the northwest, is the entertainment district with a bustling night life. The Emerald District, in the northeast, is the academic sector. This is where the Prism, a 10-story library with sturdy transparent walls, and Parli Academy of Wizardry is. 
+The Opal District is the inner residential district in the southwest. Upper upper class residents reside here, and there are many shops in this district as well. The Hotel de Aqua is here, close to the Rosaline District. It is blue on the outside, meant to look like a smaller version of the Aquamarine Castle. 
+
+The Rosaline District, in the northwest, is the entertainment district with a bustling night life. The Emerald District, in the northeast, is the academic sector. This is where the Prism, a 10-story library with sturdy transparent walls, and Parli Academy of Wizardry is. 
 
 In the Prism, the books are sorted by floor, with the 3rd floor being the natural sciences, ancient history on the 7th floor, curses and history on the 8th floor, 
 
 The outer districts are the Amber District, Ruby District, Citrine District, and Lapis District. The Amber District is in the southwest and is the farming district, with lots of farmland and farm animals. The Ruby District is in the southeast, and is the outer commercial district. In the northwest is the Citrine District, the military district. In the northeast is the Lapis District, the outer residential district. 
 
 Along the walls, there are stone railings. More walls are within the city that facilitate parcel transportation, where gusts of wind move rocks with parcels on top. 
+
+### Ridgepeak
+Mountainous region in northeastern Fusilla. Has a temple from [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/The Council of Archmages\|The Council of Archmages]]. 
 
 ### Vasara
 Home to the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/Vasara Adventuring Company\|Vasara Adventuring Company]].

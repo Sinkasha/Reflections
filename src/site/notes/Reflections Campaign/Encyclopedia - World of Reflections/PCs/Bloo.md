@@ -11,4 +11,6 @@ Bloo woke up near the Geimshall Woods in [[Reflections Campaign/Encyclopedia - W
 
 Using Detect Magic, one can sense multiple types of magic, including illusion and necromancy magic, concentrated around its head. 
 
-Bloo's true name is Sorean, wielder of Dynamo. Bloo killed Duessel Sarde during [[Reflections Campaign/Timeline - Reflections Campaign/214 CE - The Subjugation of Duessel Sarde\|214 CE - The Subjugation of Duessel Sarde]]. 
+Bloo's true name is Sorean, wielder of Dynamo. Bloo killed Duessel Sarde during [[Reflections Campaign/History of Faltera/214 CE - The Subjugation of Duessel Sarde\|214 CE - The Subjugation of Duessel Sarde]]. 
+
+Bloo's yogurt business, Strawgurt, is sponsored by Duke Corven von Aquarion, [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla\|Fusilla]]'s grand treasurer, as Fusilla's official dessert. Bloo will now gain passive income that can be cashed in upon returning to Parli. The rate is 1d4 x 10 gold per day. 

@@ -6,3 +6,6 @@
 # Primrose L'Dore
 
 The Queen of [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla\|The Kingdom of Fusilla]]. 
+
+##### Relationships
+- 

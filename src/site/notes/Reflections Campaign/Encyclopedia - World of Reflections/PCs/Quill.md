@@ -7,3 +7,7 @@
 Anvi's Duck Robed Rogue
 
 Wears a white duck looking robe. Quack.
+
+##### Relationships
+- Sort of beefing with [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Bloo\|Bloo]]
+- [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Edwin\|Edwin]], besties

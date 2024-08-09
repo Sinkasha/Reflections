@@ -12,7 +12,7 @@ One of the archmages in [[Reflections Campaign/Encyclopedia - World of Reflectio
 
 According to [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Sarah\|Sarah]], Astrid knows how to cast Wildfire. She learned most of her magic from a tome called Stasis, forged by [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Ellery Woddlespin\|Ellery Woddlespin]]. 
 
-She placed a shard of [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/The Mirror of Enveloping Darkness\|The Mirror of Enveloping Darkness]] inside of [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Yul\|Yul]], consensually. 
+She placed a shard of [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous/The Mirror of Enveloping Darkness\|The Mirror of Enveloping Darkness]] inside of [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Yul\|Yul]], consensually. 
 
 She is the highest ranking member of the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/Vasara Adventuring Company\|Vasara Adventuring Company]]. 
 

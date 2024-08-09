@@ -10,11 +10,16 @@
 # [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera\|Religion of Faltera]]
 # [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of Faltera/Guilds of Faltera\|Guilds of Faltera]]
 # [[Reflections Campaign/History of Faltera/History of Faltera\|History of Faltera]]
-# [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Miscellaneous - Reflections Campaign\|Miscellaneous - Reflections Campaign]]
+# [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous/Miscellaneous\|Miscellaneous]]
 ***
 #### Things to investigate: 
+- "The blue blood of magic flows, the red essence of life flows, the restoration of purple flows." [[Reflections Campaign/Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^7bdb19\|here]]
 - Evolution of the Gods?? [[Reflections Campaign/Session Notes - Reflections/18 - 7.10.24 - A Fan-ducking-tastic Reunion#^e32ccb\|here]] 
-- What is the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Crown of the Elements\|Crown of the Elements]]?
+- Locations of Sanctums: 
+	- Frostwind Sanctum, 1 shard, Astrid has the key
+	- Calvinach Sanctum, 1 shard, deep underground ruin, key is with someone in Vasara or Calvinach, it's a military fortress
+	- Geimshall Woods Sanctum, protected by drow (related to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Violet\|Violet]] and [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Bloo\|Bloo]]?)
+- What is the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous/Crown of the Elements\|Crown of the Elements]]?
 - What is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]] up to?
 	- Who is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]]? Why is he stopping the ritual until further notice? What is the ritual?
 - The rifts are very important
@@ -26,13 +31,6 @@
 		- Says it involves the Fae Wild
 		- Count believes dimensional integrity of Fae Wild better than material plane
 	- Related to Nyarlathotep, can we stop it?
-- The Fiskov key for the vault in Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]] was **fake**, why?? Does it matter?
-- The random blank note we found in the cave on the way from Ashfall → Parli [[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^500919\|here]] 
-	- Rendezvous in 4 days at Parli
-	- Written by whom?
-- The three goblins had a teleportation circle scroll on them, where does it go? ([[Reflections Campaign/Session Notes - Reflections/10 - 04.11.2024 - God#^0e1bdf\|here]])
-	- Unknown, have to teleport to see
-	- The goblins teleported to a base of the Order, were the goblins in cahoots with the Order?
 - How on earth do we stop [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]]??
 
 ## Random Unsorted Notes

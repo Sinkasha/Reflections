@@ -39,10 +39,13 @@ Home to the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of
 A city with a relatively normal settlement on the ground but with a vast network of tunnels and underground rooms and structures within the mountain. Home to a bustling night market for each season with various exports and very expensive things. The city houses a large population. The mineshafts within the mountain is mostly for coal mining. One can reach Parli by going straight through the mountain path. 
 
 ### Everholden
-North of Parli. Hugo got the orange [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/The Fish Crystals\|fish crystal]] here. 
+North of Parli. Hugo got the orange [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous/The Fish Crystals\|fish crystal]] here. 
+As per the laws of Everholden, all travelers require a shepherd to accompany them outside of the city to explore the ruins and whatnot because it is so dangerous. Has a tavern named Bottomless Mugs in the basement of the VAC + Military Barrack. 
+Map of Everholden: 
+![Everholden Map.png|400](/img/user/Images/Everholden%20Map.png)
 
 ### Geimshall Woods
-Where [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Bloo\|Bloo]] awoke. Has a petricite tree which is believed to not hail from this world. 
+Where [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Bloo\|Bloo]] awoke. Has a petricite tree which is believed to not hail from this world. There is a sanctuary within these woods that [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Violet\|Violet]] walked into that feels incredibly familiar to Bloo. There is a reason why Bloo awoke here. 
 
 ### Parli
 The capital of Fusilla. It is a circular city with 4 outer districts and 3 inner districts surrounding a large castle. Large walls surround the city. Between the outer and inner districts is a moat with bridges connecting the neighboring districts. In the center sits the Aquamarine Castle, which is heavily secured and guarded with only one major entrance in the Opal District. 
@@ -69,4 +72,4 @@ Home to the [[Reflections Campaign/Encyclopedia - World of Reflections/Guilds of
 The head of the Fiskov Family is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Melina Fiskov\|Melina Fiskov]], who moved to [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Halpyr\|Halpyr, Dagdra]]
 There is a potion supplier in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Parli\|Parli]] who is part of the Fiskov family.  
 The weapons storeowner, [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Derrick Fiskov\|Derrick Fiskov]] in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Ashfall\|Ashfall]] is from the Fiskov family. He is currently travelling with the party after they cure him of his curse. 
-The Fiskov Family, specifically [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Fae Fiskov\|Fae Fiskov]], was entrusted with an [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous - Reflections Campaign/Silver Key with Fusillan Flag\|important key]] that was discovered in the hands of three goblins in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Ashfall\|Ashfall]] ([[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]]). This key turned out to be fake. 
+The Fiskov Family, specifically [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Fae Fiskov\|Fae Fiskov]], was entrusted with an [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous/Silver Key with Fusillan Flag\|important key]] that was discovered in the hands of three goblins in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Ashfall\|Ashfall]] ([[Reflections Campaign/Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]]). This key turned out to be fake. 

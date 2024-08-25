@@ -86,7 +86,7 @@ The manifestation of pure chaotic instinct. They do not want to step on [[Reflec
 
 ##### Goddess of Honesty: Vertius
 *Unknown*
-She is last seen fighting two of [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep's]] generals, Abyss and another unnamed one. She seems to [[Reflections Campaign/Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^d269fb\|know]] something important about Nyarlathotep. 
+She is last seen fighting two of [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep's]] generals, Abyss and another unnamed one, possibly Emptiness. She seems to [[Reflections Campaign/Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^d269fb\|know]] something important about Nyarlathotep. 
 ![Goddess of Honesty Temp.png|100](/img/user/Images/Goddess%20of%20Honesty%20Temp.png)
 
 
@@ -103,6 +103,7 @@ In modern day, [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/T
 
 Nyarlathotep has 8 Sinister Vows, who are super loyal followers of Nyarlathotep. Not much is known about them as history has been intentionally obfuscated. 
 0. Abyss, General/Apostle of Nyarlathotep, similar in role / function to Hades, but isn't a Plane, more so a conceptual being. It's more than just an all consuming abyss. [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Goddess of Honesty Vertius\|Vertius]] is fighting Abyss. 
+0. Emptyness, Vertius is fighting them too. 
 3. King Hades, Ruler of the Plane of Hades, is the third vow of Nyarlathotep. In order to summon him, one must carry out a specific divine ritual. Its requirements include 3 severed heads, dried roots and ashes of the roots of a petricite tree in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Geimshall Woods\|Geimshall Woods]]. The ritual takes 2 hours and requires immense concentration, hand gestures, and a summoning circle. According to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Astrid von Novis\|Astrid von Novis]], Hades is just a personification. 
 
 ##### God of Life: Unnamed
@@ -113,9 +114,11 @@ There is a theory in academic circles that [[Reflections Campaign/Encyclopedia -
 
 ##### God of Consciousness: Azathoth
 *Ancestor to the Gods of Human Nature*
-One of the progenitor gods, the primitive god of consciousness, which gave creatures consciousness and intelligence. The God of Consciousness does not like Nyarlathotep, as one can't be conscious when they are dead. They are equal in power to Nyarlathotep. 
+One of the progenitor gods, the primitive god of consciousness, which gave creatures consciousness and intelligence. They find humanity intriguing. The God of Consciousness does not like [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep]] who believes he should be the only one with sentience and intelligence and swears to go for Azathoth's head. Furthermore, one can't be conscious when they are dead. He is equal in power to Nyarlathotep. 
 
-At some point in time he split himself into multiple gods, now known as the [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Gods of Human Nature\|Gods of Human Nature]]. The four that are common knowledge are chaos, order, fortune, and greed, but it's believed among academics who research this he has more parts. [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Nim\|Nim]] knows of two others, Benevolence and Malice. Due to the presence of the 10 pillars in the ruin in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Everholden\|Everholden]] which also has Azathoth's bust, it is likely that he split himself into 10 gods. The inscriptions on the [[Reflections Campaign/Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^b4bb68\|pillars]] are (the gods in the parentheses are guesses as to which god relates to which inscription and unless bolded are not confirmed): 
+Assisted in creating the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous/Crown of the Elements\|Crown of the Elements]]. 
+
+At some point in time he split himself into multiple gods, now known as the [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#Gods of Human Nature\|Gods of Human Nature]]. The four that are common knowledge are chaos, order, fortune, and greed, but it's believed among academics who research this he has more parts. [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Nim\|Nim]] knows of two others, Benevolence and Malice. Due to the presence of the 10 pillars in the ruin in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Everholden\|Everholden]] which also has Azathoth's bust, it is likely that he split himself into 10 gods. However, based on the [[Reflections Campaign/Session Notes - Reflections/21 - 8.22.2024 - Killed a Fake Dragon#^fa89eb\|vision]] that was seen when sitting on the throne in Everholden, Azathoth split himself into 9 clay statues. The inscriptions on the [[Reflections Campaign/Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^b4bb68\|pillars]] are (the gods in the parentheses are guesses as to which god relates to which inscription and unless bolded are not confirmed): 
 1. As it is divinely ordained all shall be mine *(Greed)*
 2. The true beauty of life lies in its structure *(Order)*
 3. Others shall be crushed beneath my heel *(Malice)*
@@ -126,6 +129,8 @@ At some point in time he split himself into multiple gods, now known as the [[Re
 8. Mind, body, and soul as one
 9. May the golden wind bless us all *(Fortune)*
 10. *scratched out*
+
+Vertius, Lucius, Hrym, Aurus
 
 
 

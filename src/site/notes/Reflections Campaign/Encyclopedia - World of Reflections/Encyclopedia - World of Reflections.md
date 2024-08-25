@@ -13,6 +13,7 @@
 # [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous/Miscellaneous\|Miscellaneous]]
 ***
 #### Things to investigate: 
+- Yul and Lyra are kin? Lyra is a descendent of Azathoth's kin, Azathoth called Yul "child genesis" [[Reflections Campaign/Session Notes - Reflections/21 - 8.22.2024 - Killed a Fake Dragon#^2f88e6\|here]]
 - "The blue blood of magic flows, the red essence of life flows, the restoration of purple flows." [[Reflections Campaign/Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^7bdb19\|here]]
 - Evolution of the Gods?? [[Reflections Campaign/Session Notes - Reflections/18 - 7.10.24 - A Fan-ducking-tastic Reunion#^e32ccb\|here]] 
 - Locations of Sanctums: 
@@ -20,6 +21,9 @@
 	- Calvinach Sanctum, 1 shard, deep underground ruin, key is with someone in Vasara or Calvinach, it's a military fortress
 	- Geimshall Woods Sanctum, protected by drow (related to [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Violet\|Violet]] and [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Bloo\|Bloo]]?)
 - What is the [[Reflections Campaign/Encyclopedia - World of Reflections/Miscellaneous/Crown of the Elements\|Crown of the Elements]]?
+	- the ruby, the jasper, and the diamond missing
+	- Sapphire (water) has been placed in
+	- [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] helped make it
 - What is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]] up to?
 	- Who is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]]? Why is he stopping the ritual until further notice? What is the ritual?
 - The rifts are very important

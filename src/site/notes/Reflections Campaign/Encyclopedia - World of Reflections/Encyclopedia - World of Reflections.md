@@ -25,7 +25,7 @@
 	- Sapphire (water) has been placed in
 	- [[Reflections Campaign/Encyclopedia - World of Reflections/Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] helped make it
 - What is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]] up to?
-	- Who is [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Theodore\|Theodore]]? Why is he stopping the ritual until further notice? What is the ritual?
+	- Why is he stopping the ritual until further notice? What is the ritual?
 - The rifts are very important
 	- Rumors it is related to [[Reflections Campaign/Encyclopedia - World of Reflections/The Empire of Dagdra#Thalanrod\|Thalanrod]]
 	- [[Reflections Campaign/History of Faltera/271 CE - The Interplanar Expansion\|271 CE - The Interplanar Expansion]]

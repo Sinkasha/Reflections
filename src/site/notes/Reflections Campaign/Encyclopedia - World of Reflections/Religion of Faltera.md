@@ -76,7 +76,7 @@ The manifestation of human goodwill and fortune.
 
 ##### God of Order: Lucht
 *Lawful Neutral*
-The manifestation of pure order.
+The manifestation of pure order. May have a shrine in [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Frostwind\|Frostwind]]. 
 ![God of Order Symbol.png|100](/img/user/Images/God%20of%20Order%20Symbol.png)
 
 ##### God of Chaos: Hrym

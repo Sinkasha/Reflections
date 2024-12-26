@@ -12,8 +12,6 @@ Sarah hates curses. Her primary goal is removing curses. She wants to remove all
 
 Sarah hates vengeful deities who are mostly likely to inflict curses. 
 
-Sarah likes to yap. She was born in [[Reflections Campaign/Encyclopedia - World of Reflections/The Hyritian Alliance\|Hyritia]]. 
+Sarah likes to yap. She was born in [[Reflections Campaign/Encyclopedia - World of Reflections/The Hyritian Alliance#Celestial Peak\|Celestial Peak]] and used to live around [[Reflections Campaign/Encyclopedia - World of Reflections/The Kingdom of Fusilla#Frostwind\|Frostwind]]. 
 
-Sarah was previously engaged with Allie but then Allie passed away. 
-Violet is Allie's mother
-- Allie and Sarah got engaged but then she died
+Sarah was previously engaged with [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Allie\|Allie]] but then Allie passed away. 

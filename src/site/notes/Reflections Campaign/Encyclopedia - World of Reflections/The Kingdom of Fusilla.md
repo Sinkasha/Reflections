@@ -44,8 +44,14 @@ As per the laws of Everholden, all travelers require a shepherd to accompany the
 Map of Everholden: 
 ![Everholden Map.png|400](/img/user/Images/Everholden%20Map.png)
 
+### Frostwind
+The cold is harsh but bearable, and the people who live here are very accustomed. 
+
 ### Geimshall Woods
 Where [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Bloo\|Bloo]] awoke. Has a petricite tree which is believed to not hail from this world. There is a sanctuary within these woods that [[Reflections Campaign/Encyclopedia - World of Reflections/NPCs/Violet\|Violet]] walked into that feels incredibly familiar to Bloo. There is a reason why Bloo awoke here. 
+
+### Havenridge
+Related to [[Reflections Campaign/Encyclopedia - World of Reflections/PCs/Lyra\|Lyra]]'s heritage. 
 
 ### Parli
 The capital of Fusilla. It is a circular city with 4 outer districts and 3 inner districts surrounding a large castle. Large walls surround the city. Between the outer and inner districts is a moat with bridges connecting the neighboring districts. In the center sits the Aquamarine Castle, which is heavily secured and guarded with only one major entrance in the Opal District. 

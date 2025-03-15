@@ -4,7 +4,7 @@
 
 #faltera/dagdra 
 # The Empire of Dagdra
-> [!infobox | n-th]
+> [!infobox | n-th right]
 > | Capital |  Alvar |
 > | ---- | ---- |
 > | Governance Type | Autocracy |

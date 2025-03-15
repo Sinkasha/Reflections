@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/encyclopedia-world-of-reflections/miscellaneous/sanctum-key/"}
+---
+
+#misc
+## Sanctum Key
+
+Discovered [[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^f23f3c\|here]]. A copper plated key that's slightly rusted, related to [[Encyclopedia - World of Reflections/Miscellaneous/The Fish Crystals\|The Fish Crystals]]. It has a vaguely fish-like pattern on it. 
+
+It's currently in [[Characters/PCs/Nim\|Nim]]'s hands. Used in [[Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS\|14 - 5.23.2024 - FISH CRYSTALS]] to open a chest containing the last two [[Encyclopedia - World of Reflections/Miscellaneous/The Fish Crystals\|fish crystals]]. 

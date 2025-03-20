@@ -4,25 +4,27 @@
 
 #faltera/hyritian_alliance 
 # The Hyritian Alliance
-Head Chair Ismaire Selenia
-Hyritian (all), Valzelian (Valzelia), Wovrese (Wovram), Dragalean (Dragale)
-**Governance Type**: Electocratic Confederation
-**Capital**: Celestial Peak
-**Economic System**: Capitalism
-**Primary Exports**: ice, tools, processed metals, processed stone, coal, crystals
-**Preferred Trade**: Fusilla, Dagdra
-**Prominent Natural Resources**: ice, ores, gems, crystals, coal
+> [!infobox | n-th right]
+> ##### Information
+> | Capital |  Alvar |
+> | ---- | ---- |
+> | Governance Type | Electocratic Confederation |
+> | Capital | Celestial Peak |
+> | Economic System | Capitalism | 
+> | Primary Exports | Ice, tools, processed metals, processed stone, coal, crystals |
+> | Preferred Trade | [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla\|Fusilla]], [[Encyclopedia - World of Reflections/Faltera/The Empire of Dagdra\|Dagdra]] | 
+> | Prominent Natural Resources | Ice, ores, gems, crystals, coal |
+> #### [[Encyclopedia - World of Reflections/Faltera/Hyritian Internal Governance\|Hyritian Internal Governance]]
+> | Leader | Emperor Damian von Beryth IV |
+> | ---- | ---- |
+> | **Head Chair** | Ismaire Selenia |
+> | Valzelian Chair | Ismaire Selenia |
+> | Valzelian Inquisitor | blank |
+> | Wovrese Chair| blank |
+> | Wovrese Inquisitor | blank |
+> | Dragalean Chair | blank | 
+> | Dragalean Inquisitor | blank |
 
-### [[Encyclopedia - World of Reflections/Faltera/Hyritian Internal Governance\|Hyritian Internal Governance]]
-**Head Chair**: Ismaire Selenia 
-**Valzelian Chair**: Ismaire Selenia 
-**Valzelian Inquisitor**:
-**Wovrese Chair**: 
-**Wovrese Inquisitor**:
-**Dragalean Chair**:
-**Dragalean Inquisitor**:
-
-##### Description
 The Hyritian Alliance is a longstanding nation consisting of three primary islands in the archipelago. Valzelia is the largest and most influential, as well as the first island settled on. Wovram is the central island and is a cultural and travel hub within the Alliance. Dragale is the smallest of the three main islands but is home to several crystal mines.
 
 Each island is sovereign, however, the Hyritian Alliance is treated internationally as single country. Some islands are more powerful or more influential. 
@@ -31,11 +33,9 @@ Every election cycle, the head chair is voted on, and one can be the head chair 
 
 ## Notable Locations
 ### Dragale
-*Another island of the Hyritian Alliance*
 Placeholder.
 
 ### Valzelia
-*The biggest island of the Hyritian Alliance*
 Placeholder
 
 ##### Celestial Peak

@@ -4,28 +4,28 @@
 
 #faltera/fusilla 
 # The Kingdom of Fusilla 
-Queen [[Characters/NPCs/Primrose L'Dore\|Primrose L'Dore]]
-Fusillan
-**Governance Type**: Constitutional Monarchy
-**Capital**: Parli
-**Economic System**: Feudalism
-**Primary Exports**: Processed metals (iron, steel, copper, etc.,), weapons
-**Preferred Trade**: Margavelle, Hyritia
-**Prominent Natural Resources**: iron ore, copper ore, coal, stone, aluminum ore, gold ore, mana crystals, rubies, emeralds, etc.,
+> [!infobox | n-th right]
+> ![Fusillan Flag.png|cover hsmall](/img/user/Images/Fusillan%20Flag.png)
+> ##### Information
+> | Capital |  Alvar |
+> | ---- | ---- |
+> | Governance Type | Constitutional Monarchy |
+> | Capital | Parli |
+> | Economic System | Feudalism | 
+> | Primary Exports | Processed metals (iron, steel, copper, etc.), weapons |
+> | Preferred Trade | [[Encyclopedia - World of Reflections/Faltera/The Grand Duchy of Margavelle\|Margavelle]], [[Encyclopedia - World of Reflections/Faltera/The Hyritian Alliance\|Hyritia]] | 
+> | Prominent Natural Resources | Iron ore, copper ore, coal, stone, aluminum ore, gold ore, mana crystals, rubies, emeralds, etc. |
+> #### [[Encyclopedia - World of Reflections/Faltera/Fusillan Internal Governance\|Fusillan Internal Governance]]
+> | Leader | Emperor Damian von Beryth IV |
+> | ---- | ---- |
+> | **Queen** | [[Characters/NPCs/Primrose L'Dore\|Primrose L'Dore]] |
+> | Prime Minister | Duke Ezra von Navil |
+> | Parliamentary Regent | Atlas Felspard |
+> | Grand Treasurer | Duke Corven von Aquarion |
+> | Chancellor of Education | Glen Boeck |
+> | Luminary | Iris Galfraun |
+> | Royal Ambassador | Cheryl Dvalir |
 
-### [[Encyclopedia - World of Reflections/Faltera/Fusillan Internal Governance\|Fusillan Internal Governance]]
-**Queen**: Primrose L’dore
-**Prime Minister**: Duke Ezra von Navil
-**Parliamentary Regent**: Atlas Felspard
-**Grand Treasurer**: Duke Corven von Aquarion
-**Chancellor of Education**: Glen Boeck
-**Luminary**: Iris Galfraun
-**Royal Ambassador**: Cheryl Dvalir
-
-**Flag**: 
-![Fusillan Flag.png|300](/img/user/Images/Fusillan%20Flag.png) 
-
-##### Description
 Fusilla has a formidable global presence in Faltera. Being at the forefront of diplomacy across the region, Fusilla is known for its widespread influence. While primarily focusing on diplomacy with promises for prosperity, the Kingdom is the oldest still-standing country (established in 1 CE), and as such, is known for its incredible defensive military prowess, though the nation doesn’t shy from force when the nobles deem necessary. Fusilla also attracts visitors and immigrants alike with their array of prestigious magic academies, including the famous Jaldenne Academy, home of the finest mages. 
 
 ## Notable Locations
@@ -36,7 +36,7 @@ Ashfall is a city with four sectors, Agricultural (SE), Government (NE), Commerc
 Home to the [[Encyclopedia - World of Reflections/Guilds of Faltera/Assal Artisans Guild\|Assal Artisans Guild]].
 
 ### Canonbury
-A city with a relatively normal settlement on the ground but with a vast network of tunnels and underground rooms and structures within the mountain. Home to a bustling night market for each season with various exports and very expensive things. The city houses a large population. The mineshafts within the mountain is mostly for coal mining. One can reach Parli by going straight through the mountain path. 
+A city with a relatively normal settlement on the ground but with a vast network of tunnels and underground rooms and structures within the mountain. Home to a bustling night market for each season with various exports and very expensive things. The city houses a large population. The mineshafts within the mountain is mostly for coal mining. One can reach [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Parli\|Parli]] by going straight through the mountain path. 
 
 ### Everholden
 North of Parli. Hugo got the orange [[Encyclopedia - World of Reflections/Miscellaneous/The Fish Crystals\|fish crystal]] here. 
@@ -74,7 +74,7 @@ Home to the [[Encyclopedia - World of Reflections/Guilds of Faltera/Vasara Adven
 
 ## Notable Families
 ### Fiskov Family
-*A family of elves*
+A family of elves. 
 The head of the Fiskov Family is [[Characters/NPCs/Melina Fiskov\|Melina Fiskov]], who moved to [[Encyclopedia - World of Reflections/Faltera/The Empire of Dagdra#Halpyr\|Halpyr, Dagdra]]
 There is a potion supplier in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Parli\|Parli]] who is part of the Fiskov family.  
 The weapons storeowner, [[Characters/NPCs/Derrick Fiskov\|Derrick Fiskov]] in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Ashfall\|Ashfall]] is from the Fiskov family. He is currently travelling with the party after they cure him of his curse. 

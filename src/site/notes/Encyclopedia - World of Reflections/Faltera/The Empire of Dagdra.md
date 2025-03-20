@@ -5,6 +5,7 @@
 #faltera/dagdra 
 # The Empire of Dagdra
 > [!infobox | n-th right]
+> ##### Information
 > | Capital |  Alvar |
 > | ---- | ---- |
 > | Governance Type | Autocracy |
@@ -13,9 +14,10 @@
 > | Primary Exports | Agricultural products, lumber, military force |
 > | Preferred Trade | [[Encyclopedia - World of Reflections/Faltera/The Hyritian Alliance\|Hyritia]], [[Encyclopedia - World of Reflections/Faltera/The Holy State of Odema\|Odema]] | 
 > | Prominent Natural Resources | Fruit, grain, lumber |
-> # Internal Governance
+> #### [[Encyclopedia - World of Reflections/Faltera/Dagdran Internal Governance\|Dagdran Internal Governance]]
 > | Leader | Emperor Damian von Beryth IV |
 > | ---- | ---- |
+> | **Emperor** | Damian von Beryth IV |
 > | Prime Minister | Duke Elidor von Neumman |
 > | General of the Dagdran Army | General Sahloknir von Ardinach |
 > | Minister of Foreign Affairs |  Duke Raina von Vikshi |
@@ -25,13 +27,11 @@
 > | Minister of Commerce | Marquis Benedict Argenius |
 > | The Legions | Counts Greil, Valjean, Herving, and Sturmheimer |
 
-##### Description
 Dagdra is an extremely strong military power, very prominent in the world since its inception. Having existed for 500 years with little border changes other than expansions, none dare attack Dagdra. Those who have Dagdra as an ally are kept very reassured as Dagdra holds their alliances to a high degree of respect, always aiding allies in their time of need. Being on bad terms with a Dagdran official usually bodes quite terribly. In general, the people of Dagdra are somewhat well off. Poverty exists and there is a fair bit of crime, however the nation is kept quite orderly, brutally suppressing any insurrections by the roots at the first signs of treason. The people of Dagdra are proud and generally supportive of the Emperor, though there exist a few who criticize his role as an autocrat, though these are mostly those who are accustomed to the ways of Fusilla, the neighboring country.
 
 ## Notable Locations
 ### Alvar
-*Capital of Dagdra*
-Alvar is forested with very large mountains, rivers in the back, and dense forests surrounding it. 
+The capital of Dagdra, Alvar is forested with very large mountains, rivers in the back, and dense forests surrounding it. 
 
 ### Crescent Grove
 [[Characters/PCs/Nim\|Nim]] unsealed [[Characters/PCs/Yul\|Yul]] here. Yul's sealing here appears to be voluntary. Yul was in a crystal bubble in suspended animation, which looked to contain Yul (may be the spell Sequester). The temple here was created by [[Characters/NPCs/The Council of Archmages\|The Council of Archmages]] and appears to be used to seal away something very powerful, Yul. When Nim broke the seal, the seal was already almost at its time limit. The seal had iconography from the Council on it. The ruins are about 130 year old, placing its creation around the year 217 CE, about 2 years after the death of [[Characters/NPCs/Duessel Sarde\|Duessel Sarde]]. 

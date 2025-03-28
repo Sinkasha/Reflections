@@ -6,7 +6,7 @@
 # The Holy State of Odema
 > [!infobox | n-th right]
 > ##### Information
-> | Capital |  Alvar |
+> | Type |  Info |
 > | ---- | ---- |
 > | Governance Type | Theocratic Monarchy |
 > | Capital | Tanga d'Oro |
@@ -15,7 +15,7 @@
 > | Preferred Trade | [[Encyclopedia - World of Reflections/Faltera/The Empire of Dagdra\|Dagra]] | 
 > | Prominent Natural Resources | Sand, sandstone, gold |
 > #### [[Encyclopedia - World of Reflections/Faltera/Odemian Internal Governance\|Odemian Internal Governance]]
-> | Hierophant | Ophelia Alliam |
+> | Title | Name |
 > | ---- | ---- |
 > | **Hierophant** | Ophelia Alliam |
 > | Archbishop | Aelfric Eliaph |

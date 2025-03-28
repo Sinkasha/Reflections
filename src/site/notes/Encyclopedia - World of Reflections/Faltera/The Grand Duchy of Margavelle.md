@@ -6,7 +6,7 @@
 # The Grand Duchy of Margavelle
 > [!infobox | n-th right]
 > ##### Information
-> | Capital |  Alvar |
+> | Type |  Info |
 > | ---- | ---- |
 > | Governance Type | Oligarchy |
 > | Capital | Relfor |
@@ -15,7 +15,7 @@
 > | Preferred Trade | [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla\|Fusilla]], [[Encyclopedia - World of Reflections/Faltera/The Holy State of Odema\|Odema]] | 
 > | Prominent Natural Resources | Wood, wheat, potatoes, fruits, vegetables, crystals, gold |
 > #### [[Encyclopedia - World of Reflections/Faltera/Margavellan Internal Governance\|Margavellan Internal Governance]]
-> | Leader | Emperor Damian von Beryth IV |
+> | Title | Name |
 > | ---- | ---- |
 > | **Archduke** | Gustav Jelavich |
 > | Prime Minister | Corent Ostik |

@@ -6,7 +6,7 @@
 # The Empire of Dagdra
 > [!infobox | n-th right]
 > ##### Information
-> | Capital |  Alvar |
+> | Type |  Info |
 > | ---- | ---- |
 > | Governance Type | Autocracy |
 > | Capital | Alvar |
@@ -15,7 +15,7 @@
 > | Preferred Trade | [[Encyclopedia - World of Reflections/Faltera/The Hyritian Alliance\|Hyritia]], [[Encyclopedia - World of Reflections/Faltera/The Holy State of Odema\|Odema]] | 
 > | Prominent Natural Resources | Fruit, grain, lumber |
 > #### [[Encyclopedia - World of Reflections/Faltera/Dagdran Internal Governance\|Dagdran Internal Governance]]
-> | Leader | Emperor Damian von Beryth IV |
+> | Title | Name |
 > | ---- | ---- |
 > | **Emperor** | Damian von Beryth IV |
 > | Prime Minister | Duke Elidor von Neumman |

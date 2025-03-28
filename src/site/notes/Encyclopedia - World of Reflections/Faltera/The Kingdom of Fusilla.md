@@ -7,7 +7,7 @@
 > [!infobox | n-th right]
 > ![Fusillan Flag.png|cover hsmall](/img/user/Images/Fusillan%20Flag.png)
 > ##### Information
-> | Capital |  Alvar |
+> | Type |  Info |
 > | ---- | ---- |
 > | Governance Type | Constitutional Monarchy |
 > | Capital | Parli |
@@ -16,7 +16,7 @@
 > | Preferred Trade | [[Encyclopedia - World of Reflections/Faltera/The Grand Duchy of Margavelle\|Margavelle]], [[Encyclopedia - World of Reflections/Faltera/The Hyritian Alliance\|Hyritia]] | 
 > | Prominent Natural Resources | Iron ore, copper ore, coal, stone, aluminum ore, gold ore, mana crystals, rubies, emeralds, etc. |
 > #### [[Encyclopedia - World of Reflections/Faltera/Fusillan Internal Governance\|Fusillan Internal Governance]]
-> | Leader | Emperor Damian von Beryth IV |
+> | Title | Name |
 > | ---- | ---- |
 > | **Queen** | [[Characters/NPCs/Primrose L'Dore\|Primrose L'Dore]] |
 > | Prime Minister | Duke Ezra von Navil |

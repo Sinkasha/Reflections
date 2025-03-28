@@ -6,7 +6,7 @@
 # The Hyritian Alliance
 > [!infobox | n-th right]
 > ##### Information
-> | Capital |  Alvar |
+> | Type |  Info |
 > | ---- | ---- |
 > | Governance Type | Electocratic Confederation |
 > | Capital | Celestial Peak |
@@ -15,7 +15,7 @@
 > | Preferred Trade | [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla\|Fusilla]], [[Encyclopedia - World of Reflections/Faltera/The Empire of Dagdra\|Dagdra]] | 
 > | Prominent Natural Resources | Ice, ores, gems, crystals, coal |
 > #### [[Encyclopedia - World of Reflections/Faltera/Hyritian Internal Governance\|Hyritian Internal Governance]]
-> | Leader | Emperor Damian von Beryth IV |
+> | Title | Name |
 > | ---- | ---- |
 > | **Head Chair** | Ismaire Selenia |
 > | Valzelian Chair | Ismaire Selenia |

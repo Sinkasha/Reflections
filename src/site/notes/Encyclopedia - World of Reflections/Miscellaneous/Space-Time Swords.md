@@ -9,6 +9,6 @@ Swords that can cut through the fabric of space time. Legend says that there was
 
 Created by [[Characters/NPCs/Ellery Woddlespin\|Ellery Woddlespin]]
 
-Known Owners: 
+##### Known Owners: 
 - [[Characters/NPCs/Edwin\|Edwin]]
 - [[Characters/NPCs/Tiefling Dude\|Tiefling Dude]]

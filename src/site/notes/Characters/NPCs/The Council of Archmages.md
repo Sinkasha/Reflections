@@ -14,5 +14,5 @@ The Council has created various temples at:
 - Nested Grove, near [[Encyclopedia - World of Reflections/Faltera/The Empire of Dagdra#Windrest\|Windrest]]
 These temples have different uses, and their locations are known by Nim due to her scholarly background. Crescent Grove is one of the many shrines that the Council created to hide the shards of [[Encyclopedia - World of Reflections/Miscellaneous/The Mirror of Enveloping Darkness\|The Mirror of Enveloping Darkness]]. Not all the shards were hidden in people. The Council does not like this and wishes that Nim not spread this information. 
 
-### Known Members
+##### Known Members
 - [[Characters/NPCs/Astrid von Novis\|Astrid von Novis]] - one of the founders of the Council

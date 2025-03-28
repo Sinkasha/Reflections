@@ -13,7 +13,9 @@ Related to [[Encyclopedia - World of Reflections/Miscellaneous/The Fish Crystals
 
 The upper ranks of the Order all have markings on their face. 
 
-Known Members: 
+##### Known Members: 
+- [[Characters/NPCs/Mikhail\|Mikhail]]
 - [[Characters/NPCs/Dude 2\|Dude 2]]
 - [[Characters/NPCs/Tiefling Dude\|Tiefling Dude]]
 - [[Characters/NPCs/Theodore\|Theodore]] 
+- [[Characters/NPCs/Count Canonbury\|Count Canonbury]]

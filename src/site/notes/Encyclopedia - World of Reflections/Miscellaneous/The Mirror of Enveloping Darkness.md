@@ -4,7 +4,7 @@
 
 #misc
 ## The Mirror of Enveloping Darkness
-Historical records claim that the mirror was created in [[Encyclopedia - World of Reflections/Faltera/The Holy State of Odema\|The Holy State of Odema]] in 212 CE by two mysterious mages. However, the Mirror is much older than that and the glass in the mirror was originally used to seal [[Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]]'s avatar. It was discovered by the two mysterious Odemian mages who unsealed it, unaware of its original purpose. 
+Historical records claim that the mirror was created in [[Encyclopedia - World of Reflections/Faltera/The Holy State of Odema\|The Holy State of Odema]] in 212 CE by two mysterious mages. However, the Mirror is much older than that, having existed before written history (mages and academia suppressing this knowledge) and the glass in the mirror was originally used to seal [[Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]]'s avatar. It was discovered by the two mysterious Odemian mages who unsealed it, unaware of its original purpose who then presented it as a present to the revolution a year later. 
 
 The mirror reveals to the beholder the worst traits in them, and magnifies it. This manifests in the beholder if they lack the resolve to fight off the temptation. If the beholder of the mirror can resist, they are granted total control over psychic and necrotic abilities. 
 

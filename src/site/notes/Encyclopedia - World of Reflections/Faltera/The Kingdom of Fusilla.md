@@ -71,11 +71,3 @@ Mountainous region in northeastern Fusilla. Has a temple from [[Characters/NPCs/
 
 ### Vasara
 Home to the [[Encyclopedia - World of Reflections/Guilds of Faltera/Vasara Adventuring Company\|Vasara Adventuring Company]].
-
-## Notable Families
-### Fiskov Family
-A family of elves. 
-The head of the Fiskov Family is [[Characters/NPCs/Melina Fiskov\|Melina Fiskov]], who moved to [[Encyclopedia - World of Reflections/Faltera/The Empire of Dagdra#Halpyr\|Halpyr, Dagdra]]
-There is a potion supplier in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Parli\|Parli]] who is part of the Fiskov family.  
-The weapons storeowner, [[Characters/NPCs/Derrick Fiskov\|Derrick Fiskov]] in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Ashfall\|Ashfall]] is from the Fiskov family. He is currently travelling with the party after they cure him of his curse. 
-The Fiskov Family, specifically [[Characters/NPCs/Fae Fiskov\|Fae Fiskov]], was entrusted with an [[Encyclopedia - World of Reflections/Miscellaneous/Silver Key with Fusillan Flag\|important key]] that was discovered in the hands of three goblins in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Ashfall\|Ashfall]] ([[Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^06b005\|here]]). This key turned out to be fake. 

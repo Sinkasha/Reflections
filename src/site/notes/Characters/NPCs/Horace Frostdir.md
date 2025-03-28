@@ -11,3 +11,5 @@ First learned about [[Session Notes - Reflections/07 - 2.6.2024 - The Count Dies
 Also mentioned [[Session Notes - Reflections/07 - 2.6.2024 - The Count Dies, Goodbye Bugbear, Hello Sarah#^6ba98d\|here]] where the [[Characters/NPCs/Count Canonbury\|Count Canonbury]] attempts to send him a letter asking for a grant. 
 
 It turns out that he is [[Characters/PCs/Lyra\|Lyra]]'s father. 
+
+He is also [[Characters/NPCs/Hugo Starling\|Hugo Starling]]'s supervisor. 

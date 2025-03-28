@@ -87,6 +87,8 @@ The manifestation of pure chaotic instinct. They do not want to step on [[Encycl
 ##### Goddess of Honesty: Vertius
 *Unknown*
 She is last seen fighting two of [[Encyclopedia - World of Reflections/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep's]] generals, Abyss and another unnamed one, possibly Emptiness. She seems to [[Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^d269fb\|know]] something important about Nyarlathotep. 
+"Only a scant few know that honesty's true hue is a deep sea blue"
+"the blue blood of magic flows, the red essence of life flows, the restoration of purple flows"
 ![Goddess of Honesty Temp.png|100](/img/user/Images/Goddess%20of%20Honesty%20Temp.png)
 
 
@@ -123,9 +125,9 @@ At some point in time he split himself into multiple gods, now known as the [[En
 2. The true beauty of life lies in its structure *(Order)*
 3. Others shall be crushed beneath my heel *(Malice)*
 4. *scratched out* 
-5. Only in truth shall we find true justice *(Honesty)*
+5. Only in truth shall we find true justice *(Honesty, Vertius)*
 6. It is writ therefore it is thus *(Justice?)*
-7. Unpredictability is the highest virtue *(Chaos)*
+7. Unpredictability is the highest virtue *(Chaos, Hrym)*
 8. Mind, body, and soul as one
 9. May the golden wind bless us all *(Fortune)*
 10. *scratched out*

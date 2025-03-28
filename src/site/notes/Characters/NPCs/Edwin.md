@@ -10,9 +10,9 @@ A samurai duck, met during [[Session Notes - Reflections/03 - 1.13.2023 - The Po
 
 In [[Session Notes - Reflections/04 - 2.17.2023 - Personal Trials\|04 - 2.17.2023 - Personal Trials]] he slices open another domain and gives all the party members a personal trial, resulting in a reward of a fancy weapon. 
 
-Was reunited [[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss#^fb3820\|here]]. Edwin knows that [[Characters/PCs/Bloo\|Bloo]] is Sorean and is currently the bodyguard to Queen [[Characters/NPCs/Primrose L'Dore\|Primrose L'Dore]] of [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla\|The Kingdom of Fusilla]]. 
+Was reunited [[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss#^fb3820\|here]]. Edwin knows that [[Characters/PCs/Bloo\|Bloo]] is Sorean and is currently the bodyguard to Queen [[Characters/NPCs/Primrose L'Dore\|Primrose L'Dore]] of [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla\|The Kingdom of Fusilla]]. He used to be an elf. 
 
 Relationships: 
-- Queen Primrose L'Dore's bodyguard
-- Besties with Quill
-- Stabbed Bloo but now knows of Sorean
+- [[Characters/NPCs/Primrose L'Dore\|Queen Primrose's]] bodyguard
+- Besties with [[Characters/PCs/Quill\|Quill]]
+- Stabbed [[Characters/PCs/Bloo\|Bloo]] but now knows of Sorean

@@ -16,4 +16,4 @@ He is capable of causing all [[Encyclopedia - World of Reflections/Miscellaneous
 
 Jeice got pissed at [[Characters/NPCs/Drake\|Drake]] and used him as a sacrifice to summon Hades. Using his gauntlet, he drained Drake of life and summoned Hades. He states that nobody will interrupt [[Characters/NPCs/Theodore\|Theodore]]'s ritual. What this ritual is is unknown. Jeice created a small pocket dimension when summoning Hades, which was broken by [[Characters/PCs/Lyra\|Lyra]] and [[Characters/PCs/Yul\|Yul]]'s collective efforts with the magic taught to them by [[Characters/NPCs/Astrid von Novis\|Astrid von Novis]]. 
 
-Part of the [[Encyclopedia - World of Reflections/Guilds of Faltera/The League of Larcenists\|The League of Larcenists]]. 
+Part of [[Characters/NPCs/The Order of the Fish\|The Order of the Fish]] and a [[Encyclopedia - World of Reflections/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep]] follower. 

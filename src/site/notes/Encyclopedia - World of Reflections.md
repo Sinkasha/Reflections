@@ -36,6 +36,8 @@
 		- Count believes dimensional integrity of Fae Wild better than material plane
 	- Related to Nyarlathotep, can we stop it?
 - How on earth do we stop [[Encyclopedia - World of Reflections/Religion of Faltera#Nyarlathotep\|Nyarlathotep]]??
+- Horace said that Lyra will learn more about her heritage in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Havenridge\|Havenridge]]
+- opens it, a key falls out, map to place near Dagdran capital, from Lapis from the Thalum Merc. Guild
 
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 

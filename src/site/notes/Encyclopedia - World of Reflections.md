@@ -33,6 +33,8 @@
 	- Related to Nyarlathotep, can we stop it?
 - Horace said that Lyra will learn more about her heritage in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Havenridge\|Havenridge]]
 - Lapis, from [[Encyclopedia - World of Reflections/Guilds of Faltera/Thalum Mercenary Company\|Thalum Mercenary Company]], has a key and map to place near Dagdran capital
+
+![Excalidraw 1.png](/img/user/Excalidraw%201.png)
 ## Random Unsorted Notes
 - Fusillans distrust Dagdrans (learned in [[Session Notes - Reflections/01 - 10.21.2022 - Night Market#Amoiváda 1\|01 - 10.21.2022 - Night Market#Amoiváda 1]]) 
 - Customs go through Fusillan treasurer, only for legal purposes, tariffs and taxes, no FDA related (learned in [[Session Notes - Reflections/01 - 10.21.2022 - Night Market\|01 - 10.21.2022 - Night Market]]

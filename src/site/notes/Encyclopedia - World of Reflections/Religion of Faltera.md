@@ -9,6 +9,7 @@ The gods of Faltera reside in the Astral Plane, far above the moral realm. They 
 Generally, large metropolitan areas favor big gods, and coastal cities favor gods of the sky and ocean. 
 
 **The Gods' Symbols:**
+
 ![God Symbols.jpg|600](/img/user/Images/God%20Symbols.jpg)
 
 ## The Major Gods
@@ -19,16 +20,19 @@ The Celestial Gods govern the material plane from the heavens.
 ##### God of the Sun: Clarus
 *Chaotic Good*
 Embodying the radiance and warmth needed to sustain life, Clarus oversees much of the material plane and is the manifestation of the daytime. 
+
 ![God of the Sun Symbol.png|100](/img/user/Images/God%20of%20the%20Sun%20Symbol.png)
 
 ##### God of the Moon: Lumis
 *Chaotic Good*
 Veiled in moonlight, Lumis extends her reach throughout the material plane as she oversees the material plane as the manifestation of the night.
+
 ![God of the Moon Symbol.png|100](/img/user/Images/God%20of%20the%20Moon%20Symbol.png)
 
 ##### God of the Stars: Stergeiz
 *Neutral Good*
 Stergeiz is the governor of the heavens, acting as a mediator between Lumis and Clarus. She watches over the material plane as the manifestation of dawn and dusk.
+
 ![God of the Stars Symbol.png|100](/img/user/Images/God%20of%20the%20Stars%20Symbol.png)
 
 ### Gods of Natural Forces
@@ -37,28 +41,43 @@ These are the gods who govern natural forces of the universe, beyond the heavens
 ##### God of Life: Yddris
 *Lawful Neutral*
 Governing the forces of life itself, Yddris is the most prayed to god of the modern pantheon. Yddris is seen as a beacon for the gift of life, and it is said that they bless mortals with a gift of a long, healthy life. They are celebrated as the reason for life in Faltera and the mortal realm, even though that may not necessarily be true…
+
 ![God of Life Symbol.png|100](/img/user/Images/God%20of%20Life%20Symbol.png)
 
 ##### God of Death: Nyx
 *Lawful Neutral*
 Nyx governs the forces of death and the passage to the afterlife. They are generally viewed as an arbitrator between the living and the dead, rather than some malevolent being. There is some superstition about their worship, but Nyx remains a neutral god with no ill will towards humanity. Contrary to their predecessor….
+
 ![God of Death Symbol.png|100](/img/user/Images/God%20of%20Death%20Symbol.png)
 
 ##### God of Nature: Forsyth
 *Lawful Good*
 Governing the beauty of life outside of humanity, Forsyth oversees the sprawling fauna of Faltera. She acts to preserve the good of nature, from the innocent wildlife to the plants that beautify the world.
+
 ![God of Nature Symbol.png|100](/img/user/Images/God%20of%20Nature%20Symbol.png)
 
 ##### God of the Ocean: Nautica
 *Chaotic Neutral*
 Nautica governs the seas, the tides, and everything in the ocean that isn’t under the gravitational influence of Lumis.
 Sailors pray to Nautica in hopes of calm waters for save seafaring travel, and as a result, Nautica is most prayed to in the coasts, especially [[Encyclopedia - World of Reflections/Faltera/The Hyritian Alliance\|Hyritia]]. May have created [[Encyclopedia - World of Reflections/Miscellaneous/The Fish Crystals\|The Fish Crystals]]. 
+
 ![God of the Ocean Symbol.png|100](/img/user/Images/God%20of%20the%20Ocean%20Symbol.png)
 
+##### Goddess of the Water: Thetis
+
+Thetis appreciates offerings of mortal sentimental value. Thetis's essence has been contained within a Sapphire by another unknown God, likely [[Encyclopedia - World of Reflections/Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] from this snippet of conversation: 
+> Thetis, I implore you to submerge your palace and seal it away. I fear we are amidst a conflict upon our very pantheon. Since the fusions, your powers have not been what they used to be. I will contain your essence in this Sapphire, trusting my descendants will awaken you once more. Guide them here, help them revive you. Even if we slay him now, his descendants will seek revenge. We cannot afford to lose you, our master of water. 
+
+Thetis's prayer states for unlocking something in her underwater temple: 
+> Flowing healing water
+> Divine streams of life
+> Oh great seal
+> I purge the darkness. 
 ##### God of the Sky: Aeros
 *Chaotic Neutral*
 The god of the sky governs the winds and skies of Faltera, and in a sense is an embodiment of freedom. 
 Is celebrated in the sky festival during the apex of spring. 
+
 ![God of the Sky Symbol.png|100](/img/user/Images/God%20of%20the%20Sky%20Symbol.png)
 
 ### Gods of Human Nature
@@ -67,21 +86,25 @@ As humanity evolved, so too did the pantheon. The Gods of Human Nature, while no
 ##### God of Greed: Lucius
 *Chaotic Neutral*
 The manifestation of human greed and hubris.
+
 ![God of Greed Symbol.png|100](/img/user/Images/God%20of%20Greed%20Symbol.png)
 
 ##### God of Fortune: Aurus
 *Neutral Good*
 The manifestation of human goodwill and fortune. 
+
 ![God of Fortune Symbol.png|100](/img/user/Images/God%20of%20Fortune%20Symbol.png)
 
 ##### God of Order: Lucht
 *Lawful Neutral*
 The manifestation of pure order. May have a shrine in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Frostwind\|Frostwind]]. 
+
 ![God of Order Symbol.png|100](/img/user/Images/God%20of%20Order%20Symbol.png)
 
 ##### God of Chaos: Hrym
 *Chaotic Neutral*
 The manifestation of pure chaotic instinct. They do not want to step on [[Encyclopedia - World of Reflections/Religion of Faltera#God of Fortune Aurus\|Aurus]]'s toes. 
+
 ![God of Chaos Symbol.png|100](/img/user/Images/God%20of%20Chaos%20Symbol.png)
 
 ##### Goddess of Honesty: Vertius
@@ -89,6 +112,7 @@ The manifestation of pure chaotic instinct. They do not want to step on [[Encycl
 She is last seen fighting two of [[Encyclopedia - World of Reflections/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep's]] generals, Abyss and another unnamed one, possibly Emptiness. She seems to [[Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^d269fb\|know]] something important about Nyarlathotep. 
 "Only a scant few know that honesty's true hue is a deep sea blue"
 "the blue blood of magic flows, the red essence of life flows, the restoration of purple flows"
+
 ![Goddess of Honesty Temp.png|100](/img/user/Images/Goddess%20of%20Honesty%20Temp.png)
 
 
@@ -105,8 +129,8 @@ In modern day, [[Characters/NPCs/The Order of the Fish\|The Order of the Fish]] 
 
 Nyarlathotep has 8 Sinister Vows, who are super loyal followers of Nyarlathotep. Not much is known about them as history has been intentionally obfuscated. 
 0. Abyss, General/Apostle of Nyarlathotep, similar in role / function to Hades, but isn't a Plane, more so a conceptual being. It's more than just an all consuming abyss. [[Encyclopedia - World of Reflections/Religion of Faltera#Goddess of Honesty Vertius\|Vertius]] is fighting Abyss. 
-0. Emptyness, Vertius is fighting them too. 
-3. King Hades, Ruler of the Plane of Hades, is the third vow of Nyarlathotep. In order to summon him, one must carry out a specific divine ritual. Its requirements include 3 severed heads, dried roots and ashes of the roots of a petricite tree in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Geimshall Woods\|Geimshall Woods]]. The ritual takes 2 hours and requires immense concentration, hand gestures, and a summoning circle. According to [[Characters/NPCs/Astrid von Novis\|Astrid von Novis]], Hades is just a personification. 
+1. Emptyness, Vertius is fighting them too. 
+2. King Hades, Ruler of the Plane of Hades, is the third vow of Nyarlathotep. In order to summon him, one must carry out a specific divine ritual. Its requirements include 3 severed heads, dried roots and ashes of the roots of a petricite tree in [[Encyclopedia - World of Reflections/Faltera/The Kingdom of Fusilla#Geimshall Woods\|Geimshall Woods]]. The ritual takes 2 hours and requires immense concentration, hand gestures, and a summoning circle. According to [[Characters/NPCs/Astrid von Novis\|Astrid von Novis]], Hades is just a personification. 
 
 ##### God of Life: Unnamed
 *Depreciated God of Life*

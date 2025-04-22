@@ -106,6 +106,7 @@ She is last seen fighting two of [[Encyclopedia - World of Reflections/Religion 
 
 
 ## Elemental Gods
+Gods of the primordial elements, predating and coexisting with the primitive gods. 
 ##### Goddess of the Water: Thetis
 
 Thetis appreciates offerings of mortal sentimental value. Thetis's essence has been contained within a Sapphire by another unknown God, likely [[Encyclopedia - World of Reflections/Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] from this snippet of conversation: 

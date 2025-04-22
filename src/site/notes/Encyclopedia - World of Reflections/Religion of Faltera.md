@@ -62,17 +62,6 @@ Nautica governs the seas, the tides, and everything in the ocean that isn’t un
 Sailors pray to Nautica in hopes of calm waters for save seafaring travel, and as a result, Nautica is most prayed to in the coasts, especially [[Encyclopedia - World of Reflections/Faltera/The Hyritian Alliance\|Hyritia]]. May have created [[Encyclopedia - World of Reflections/Miscellaneous/The Fish Crystals\|The Fish Crystals]]. 
 
 ![God of the Ocean Symbol.png|100](/img/user/Images/God%20of%20the%20Ocean%20Symbol.png)
-
-##### Goddess of the Water: Thetis
-
-Thetis appreciates offerings of mortal sentimental value. Thetis's essence has been contained within a Sapphire by another unknown God, likely [[Encyclopedia - World of Reflections/Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] from this snippet of conversation: 
-> Thetis, I implore you to submerge your palace and seal it away. I fear we are amidst a conflict upon our very pantheon. Since the fusions, your powers have not been what they used to be. I will contain your essence in this Sapphire, trusting my descendants will awaken you once more. Guide them here, help them revive you. Even if we slay him now, his descendants will seek revenge. We cannot afford to lose you, our master of water. 
-
-Thetis's prayer states for unlocking something in her underwater temple: 
-> Flowing healing water
-> Divine streams of life
-> Oh great seal
-> I purge the darkness. 
 ##### God of the Sky: Aeros
 *Chaotic Neutral*
 The god of the sky governs the winds and skies of Faltera, and in a sense is an embodiment of freedom. 
@@ -115,6 +104,18 @@ She is last seen fighting two of [[Encyclopedia - World of Reflections/Religion 
 
 ![Goddess of Honesty Temp.png|100](/img/user/Images/Goddess%20of%20Honesty%20Temp.png)
 
+
+## Elemental Gods
+##### Goddess of the Water: Thetis
+
+Thetis appreciates offerings of mortal sentimental value. Thetis's essence has been contained within a Sapphire by another unknown God, likely [[Encyclopedia - World of Reflections/Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] from this snippet of conversation: 
+> Thetis, I implore you to submerge your palace and seal it away. I fear we are amidst a conflict upon our very pantheon. Since the fusions, your powers have not been what they used to be. I will contain your essence in this Sapphire, trusting my descendants will awaken you once more. Guide them here, help them revive you. Even if we slay him now, his descendants will seek revenge. We cannot afford to lose you, our master of water. 
+
+Thetis's prayer states for unlocking something in her underwater temple: 
+> Flowing healing water
+> Divine streams of life
+> Oh great seal
+> I purge the darkness. 
 
 ## Primitive Gods
 ##### God of Death: Nyarlathotep

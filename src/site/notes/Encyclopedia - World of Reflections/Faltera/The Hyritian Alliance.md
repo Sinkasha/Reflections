@@ -19,7 +19,7 @@
 > | ---- | ---- |
 > | **Head Chair** | Ismaire Selenia |
 > | Valzelian Chair | Ismaire Selenia |
-> | Valzelian Inquisitor | blank |
+> | Valzelian Inquisitor | Gerald Fisbach |
 > | Wovrese Chair| blank |
 > | Wovrese Inquisitor | blank |
 > | Dragalean Chair | blank | 

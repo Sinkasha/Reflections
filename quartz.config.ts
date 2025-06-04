@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "sinkasha.github.io/Reflections",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", ".tmp.driveupload"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

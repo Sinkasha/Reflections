@@ -1,10 +1,11 @@
 ---
-{"publish":true,"title":"Spellcleaver","cssclasses":""}
+title: Spellcleaver
+Type: Items
+publish: true
 ---
-
 ## Spellcleaver
 
-A mystical blade forged by [[Characters/NPCs/Ellery Woddlespin]] as a research and development project while prototyping Dynamo. It has two forms: Sheathed and Unsheathed.
+A mystical blade forged by [[Ellery Woddlespin]] as a research and development project while prototyping Dynamo. It has two forms: Sheathed and Unsheathed.
 
 Must Be attuned for the following, otherwise acts like a standard longsword:
 
@@ -14,4 +15,4 @@ Unsheathed: 1d10 piercing, target must roll a save of their spellcasting ability
 
 Spell Ward: (Recharge 11-12, Reaction): You holds the unsheathed blade and it glows gray. You slice any ranged spell attack that would otherwise hit you. 
 
-Acquired [[Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS#^07277f\|here]], given to [[Characters/PCs/Sarah]]. Taken off of [[Characters/NPCs/Drake]]'s body. 
+Acquired [[14 - 5.23.2024 - FISH CRYSTALS#^07277f|here]], given to [[Sarah]]. Taken off of [[Drake]]'s body. 

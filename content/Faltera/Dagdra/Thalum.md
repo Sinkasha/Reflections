@@ -4,6 +4,7 @@ Blurb: Home to Thalum Mercenary Company
 Type: Place
 publish: true
 ---
+
 # Thalum
 
-Home to [[Thalum Mercenary Company]].
+Home to [[Guilds/Thalum Mercenary Company]].

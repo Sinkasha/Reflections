@@ -4,6 +4,7 @@ Blurb: Havenridge
 Type: Place
 publish: true
 ---
+
 # Havenridge
 
-Related to [[Lyra]]'s heritage. 
+Related to [[Characters/PCs/Lyra]]'s heritage. 

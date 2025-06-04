@@ -4,6 +4,7 @@ Type: Guild
 Blurb: Largest, most prestigious union of performers
 publish: true
 ---
+
 # Brecht Performer’s Union
 President: Francois Plowright (famous singer)
 

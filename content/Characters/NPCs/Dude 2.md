@@ -4,8 +4,9 @@ Blurb: Upper Rank of the Order of the Fish
 Type: NPC
 publish: true
 ---
-# Dude 2
-Upper Rank of [[The Order of the Fish]]
 
-[[Hugo Starling]] stole an orange [[The Fish Crystals|fish]] from him. He has black markings on his right eye: 
-![[Dude 2's Eye.png|300]]
+# Dude 2
+Upper Rank of [[Characters/NPCs/The Order of the Fish]]
+
+[[Characters/NPCs/Hugo Starling]] stole an orange [[Miscellaneous/The Fish Crystals\|fish]] from him. He has black markings on his right eye: 
+![[../../Images/Dude 2's Eye.png|300]]

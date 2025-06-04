@@ -1,0 +1,8 @@
+---
+title: Ashfall
+Blurb: Ashfall
+Type: Place
+---
+# Ashfall
+
+Ashfall is a city with four sectors, Agricultural (SE), Government (NE), Commercial (SW), and Residential (NW). 

@@ -1,0 +1,9 @@
+---
+title: Alvar
+Blurb: Capital of Dagdra
+Type: Place
+---
+# Alvar
+*The Capital of Dagdra*
+
+Alvar is forested with very large mountains, rivers in the back, and dense forests surrounding it. 

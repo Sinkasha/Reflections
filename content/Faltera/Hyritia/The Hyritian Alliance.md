@@ -1,8 +1,7 @@
 ---
-title: The Hyritian Alliance
-Type: Country
-Blurb: Hyritia
+{"publish":true,"title":"The Hyritian Alliance","cssclasses":""}
 ---
+
 # The Hyritian Alliance
 > [!infobox | n-th right]
 > ##### Information
@@ -12,9 +11,9 @@ Blurb: Hyritia
 > | Capital | Celestial Peak |
 > | Economic System | Capitalism | 
 > | Primary Exports | Ice, tools, processed metals, processed stone, coal, crystals |
-> | Preferred Trade | [[The Kingdom of Fusilla\|Fusilla]], [[The Empire of Dagdra\|Dagdra]] | 
+> | Preferred Trade | [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]], [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]] | 
 > | Prominent Natural Resources | Ice, ores, gems, crystals, coal |
-> #### [[Hyritian Internal Governance]]
+> #### [[Faltera/Hyritia/Hyritian Internal Governance]]
 > | Title | Name |
 > | ---- | ---- |
 > | **Head Chair** | Ismaire Selenia |
@@ -32,6 +31,8 @@ Each island is sovereign, however, the Hyritian Alliance is treated internationa
 Every election cycle, the head chair is voted on, and one can be the head chair until they are kicked out of their island chair. Each island operates slightly differently, with different laws and each with their own inquisitor. 
 
 ## Places
-```dataviewjs
-dv.table(["City", "Blurb"], dv.pages('"Faltera/Hyritia" and -"Faltera/Hyritia/The Hyritian Alliance.md" and -"Faltera/Hyritia/Hyritian Internal Governance.md"').sort(a => a.title).map(a => [a.file.link, a.blurb]))
-```
+|City3|Blurb|
+|---|---|
+|[Celestial Peak, Valzelia](Faltera/Hyritia/Celestial Peak, Valzelia.md)|Capital of Hyritia|
+|[Half Moon Bay, Valzelia](Faltera/Hyritia/Half Moon Bay, Valzelia.md)|It's a bay|
+|[Port Exhas, Trinity Bay, Valzelia](Faltera/Hyritia/Port Exhas, Trinity Bay, Valzelia.md)|Home to the Exhas Merchants and Trading Co.|

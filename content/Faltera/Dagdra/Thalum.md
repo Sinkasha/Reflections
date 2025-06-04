@@ -1,8 +1,7 @@
 ---
-title: Thalum
-Blurb: Home to Thalum Mercenary Company
-Type: Place
+{"publish":true,"title":"Thalum","cssclasses":""}
 ---
+
 # Thalum
 
-Home to [[Thalum Mercenary Company]].
+Home to [[Guilds/Thalum Mercenary Company]].

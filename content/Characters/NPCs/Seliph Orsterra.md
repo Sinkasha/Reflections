@@ -1,13 +1,12 @@
 ---
-title: Seliph Orsterra
-Blurb: Acting Chair of Vasara Adventuring Company
-Type: NPC
+{"publish":true,"title":"Seliph Orsterra","cssclasses":""}
 ---
-# Seliph Orsterra
-*Acting Chair of [[Vasara Adventuring Company]]*
 
-Met during [[01 - 10.21.2022 - Night Market|Night Market]]. Has a lot of very passionate fans. Acts more confident than he truly feels.
+# Seliph Orsterra
+*Acting Chair of [[Guilds/Vasara Adventuring Company]]*
+
+Met during [[Session Notes - Reflections/01 - 10.21.2022 - Night Market\|Night Market]]. Has a lot of very passionate fans. Acts more confident than he truly feels.
 
 Relationships: 
-- Friends with [[Sarah]], likes to clown Seliph
+- Friends with [[Characters/PCs/Sarah]], likes to clown Seliph
 - 

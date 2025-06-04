@@ -1,15 +1,14 @@
 ---
-title: Fiskov Family
-Blurb: A family of elves
-Type: NPC
+{"publish":true,"title":"Fiskov Family","cssclasses":""}
 ---
+
 # Fiskov Family
 A family of elves. 
 
-An important family who was entrusted with an [[Silver Key with Fusillan Flag|important key]] which is one of two keys required to open a vault in [[The Kingdom of Fusilla#Parli|Parli]]. 
+An important family who was entrusted with an [[Miscellaneous/Silver Key with Fusillan Flag\|important key]] which is one of two keys required to open a vault in [[Faltera/Fusilla/The Kingdom of Fusilla#Parli\|Parli]]. 
 
 ##### Known Members: 
-- [[Melina Fiskov]]: head of the Fiskov Family
+- [[Characters/NPCs/Melina Fiskov]]: head of the Fiskov Family
 - Potion supplier in Parli. 
-- [[Derrick Fiskov]]: cousin to Melina, brother of Fae
-- [[Fae Fiskov]]: cousin to Melina, sister of Derrick, 
+- [[Characters/NPCs/Derrick Fiskov]]: cousin to Melina, brother of Fae
+- [[Characters/NPCs/Fae Fiskov]]: cousin to Melina, sister of Derrick, 

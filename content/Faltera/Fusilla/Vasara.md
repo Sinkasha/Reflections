@@ -1,8 +1,7 @@
 ---
-title: Vasara
-Blurb: Home to Vasara Adventuring Company
-Type: Place
+{"publish":true,"title":"Vasara","cssclasses":""}
 ---
+
 # Vasara
 
-Home to the [[Vasara Adventuring Company]].
+Home to the [[Guilds/Vasara Adventuring Company]].

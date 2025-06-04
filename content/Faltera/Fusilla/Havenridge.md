@@ -1,8 +1,7 @@
 ---
-title: Havenridge
-Blurb: Havenridge
-Type: Place
+{"publish":true,"title":"Havenridge","cssclasses":""}
 ---
+
 # Havenridge
 
-Related to [[Lyra]]'s heritage. 
+Related to [[Characters/PCs/Lyra]]'s heritage. 

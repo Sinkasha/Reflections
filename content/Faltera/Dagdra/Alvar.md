@@ -4,7 +4,6 @@ Blurb: Capital of Dagdra
 Type: Place
 publish: true
 ---
-
 # Alvar
 *The Capital of Dagdra*
 

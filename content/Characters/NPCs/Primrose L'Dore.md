@@ -1,12 +1,10 @@
 ---
-title: Primrose L'Dore
-Blurb: The Queen of Fusilla
-Type: NPC
-publish: true
+{"publish":true,"title":"Primrose L'Dore","cssclasses":""}
 ---
+
 # Primrose L'Dore
 
-The Queen of [[The Kingdom of Fusilla]]. 
+The Queen of [[Faltera/Fusilla/The Kingdom of Fusilla]]. 
 
 ##### Relationships
-- Bodyguard: [[Edwin]]
+- Bodyguard: [[Characters/NPCs/Edwin]]

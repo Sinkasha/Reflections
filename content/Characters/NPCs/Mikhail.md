@@ -1,13 +1,11 @@
 ---
-title: Mikhail
-Blurb: Upper Rank of the Order of the Fish
-Type: NPC
-publish: true
+{"publish":true,"title":"Mikhail","cssclasses":""}
 ---
-# Mikhail
-Upper Rank of [[The Order of the Fish]]
 
-Apparently he took orders from [[Theodore]]. The party has killed him and stolen the [[The Fish Crystals|blue fish crystal]]. 
+# Mikhail
+Upper Rank of [[Characters/NPCs/The Order of the Fish]]
+
+Apparently he took orders from [[Characters/NPCs/Theodore]]. The party has killed him and stolen the [[Miscellaneous/The Fish Crystals\|blue fish crystal]]. 
 
 He has black markings on his right eye: 
-![[Mikhail Eye Marking.png|300]]
+![[../../Images/Mikhail Eye Marking.png|300]]

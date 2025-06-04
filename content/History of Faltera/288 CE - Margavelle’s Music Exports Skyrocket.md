@@ -1,5 +1,6 @@
 ---
 Date: 0288-01-01
+publish: true
 ---
 #events
 ## 288 CE - [[The Grand Duchy of Margavelle|Margavelle]]’s Music Exports Skyrocket

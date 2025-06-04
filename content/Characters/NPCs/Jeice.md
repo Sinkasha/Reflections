@@ -2,6 +2,7 @@
 title: Jeice
 Blurb: Count Canonbury's Adopted Son
 Type: NPC
+publish: true
 ---
 # Jeice
 [[Count Canonbury]]'s Adopted Son

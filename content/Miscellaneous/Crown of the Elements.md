@@ -1,6 +1,7 @@
 ---
 title: Crown of the Elements
 Type: Items
+publish: true
 ---
 ## Crown of the Elements
 

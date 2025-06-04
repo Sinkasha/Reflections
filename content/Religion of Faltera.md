@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 #religion
 # Religion of Faltera: The Pantheon
 The gods of Faltera reside in the Astral Plane, far above the moral realm. They have physical manifestations on occasion. They have mortal incarnations and descendants, referred to as The Marked. These people have tremendous power based on their progenitor. [^1]

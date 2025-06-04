@@ -1,5 +1,6 @@
 ---
 Date: 0347-01-02
+publish: true
 ---
 #events
 ## 347 CE - Canonbury Manor Heist

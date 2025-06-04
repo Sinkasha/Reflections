@@ -2,6 +2,7 @@
 title: Gabriel
 Blurb: An Aasimar
 Type: NPC
+publish: true
 ---
 # Gabriel
 

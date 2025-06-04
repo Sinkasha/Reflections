@@ -2,6 +2,7 @@
 title: Everholden
 Blurb: Near ruins, dangerous
 Type: Place
+publish: true
 ---
 # Everholden
 

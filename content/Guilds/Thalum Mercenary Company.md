@@ -2,6 +2,7 @@
 title: Thalum Mercenary Company
 Type: Guild
 Blurb: Largest band of mercenaries
+publish: true
 ---
 # Thalum Mercenary Company
 Commander: Cassandra Selevir (AKA Silver Selevir, 13-time champion)

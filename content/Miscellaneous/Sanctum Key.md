@@ -1,6 +1,7 @@
 ---
 title: Sanctum Key
 Type: Keys
+publish: true
 ---
 ## Sanctum Key
 

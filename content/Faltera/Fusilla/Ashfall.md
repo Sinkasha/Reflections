@@ -2,6 +2,7 @@
 title: Ashfall
 Blurb: Ashfall
 Type: Place
+publish: true
 ---
 # Ashfall
 

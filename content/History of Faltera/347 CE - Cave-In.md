@@ -1,5 +1,6 @@
 ---
 Date: 0347-01-01
+publish: true
 ---
 #events
 ## 347 CE - Cave-In

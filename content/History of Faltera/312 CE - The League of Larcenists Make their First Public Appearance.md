@@ -1,5 +1,6 @@
 ---
 Date: 0312-01-01
+publish: true
 ---
 #events
 ## 312 CE - [[The League of Larcenists]] Make their First Public Appearance

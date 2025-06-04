@@ -1,5 +1,6 @@
 ---
 Date: 0123-01-01
+publish: true
 ---
 #events
 ## 123 CE - Settlements in the Hyritian Isles form in Northern Faltera.

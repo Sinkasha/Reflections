@@ -2,6 +2,7 @@
 title: Fae Fiskov
 Blurb: Derrick Fiskov's Sister
 Type: NPC
+publish: true
 ---
 # Fae Fiskov
 [[Derrick Fiskov]]'s Sister

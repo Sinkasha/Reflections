@@ -2,6 +2,7 @@
 title: Assal Artisans Guild
 Type: Guild
 Blurb: largest Artisans Guild in Faltera
+publish: true
 ---
 # Assal Artisans Guild
 Headmaster: Parrago Alexestria

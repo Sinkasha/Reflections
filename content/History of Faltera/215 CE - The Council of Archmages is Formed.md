@@ -1,5 +1,6 @@
 ---
 Date: 0215-01-02
+publish: true
 ---
 #events
 ## 215 CE - [[The Council of Archmages]] is Formed

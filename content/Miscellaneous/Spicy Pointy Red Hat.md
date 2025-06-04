@@ -1,6 +1,7 @@
 ---
 title: Spicy Pointy Red Hat
 Type: Items
+publish: true
 ---
 ## Spicy Pointy Red Hat
 

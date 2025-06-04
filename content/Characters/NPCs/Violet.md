@@ -2,6 +2,7 @@
 title: Violet
 Blurb: Drow Elf
 Type: NPC
+publish: true
 ---
 # Violet
 Drow Elf

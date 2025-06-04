@@ -2,6 +2,7 @@
 title: The Hyritian Alliance
 Type: Country
 Blurb: Hyritia
+publish: true
 ---
 # The Hyritian Alliance
 > [!infobox | n-th right]

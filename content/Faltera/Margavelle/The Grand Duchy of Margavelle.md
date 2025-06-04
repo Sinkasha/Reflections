@@ -2,6 +2,7 @@
 title: The Grand Duchy of Margavelle
 Type: Country
 Blurb: Margavelle
+publish: true
 ---
 # The Grand Duchy of Margavelle
 > [!infobox | n-th right]

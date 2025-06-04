@@ -1,5 +1,6 @@
 ---
 Date: 0313-01-01
+publish: true
 ---
 #events
 ## 313 CE - The Assassination of the Dagdran Emperor Damian von Beryth III

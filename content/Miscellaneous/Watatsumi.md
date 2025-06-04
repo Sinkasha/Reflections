@@ -1,6 +1,7 @@
 ---
 title: Watatsumi
 Type: Items
+publish: true
 ---
 ## Watatsumi
 

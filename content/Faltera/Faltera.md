@@ -2,6 +2,7 @@
 title: Faltera
 Type: Reference
 Blurb: The World!
+publish: true
 ---
 # Faltera
 In a pocket space in the multiverse, material plane.

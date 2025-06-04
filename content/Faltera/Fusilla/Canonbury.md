@@ -2,6 +2,7 @@
 title: Canonbury
 Blurb: Coal mining and night markets
 Type: Place
+publish: true
 ---
 # Canonbury
 

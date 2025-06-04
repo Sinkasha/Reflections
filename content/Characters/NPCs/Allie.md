@@ -2,6 +2,7 @@
 title: Allie
 Blurb: :(
 Type: NPC
+publish: true
 ---
 # Allie
 

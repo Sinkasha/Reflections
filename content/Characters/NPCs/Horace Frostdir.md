@@ -2,6 +2,7 @@
 title: Horace Frostdir
 Blurb: Lady Novas's apprentice
 Type: NPC
+publish: true
 ---
 # Horace Frostdir
 [[Astrid von Novis]]'s apprentice

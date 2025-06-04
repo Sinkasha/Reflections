@@ -2,6 +2,7 @@
 title: Bloo
 Blurb: Sherri's Blob Sorcerer
 Type: PC
+publish: true
 ---
 # Bloo
 Sherri's Blob Sorcerer

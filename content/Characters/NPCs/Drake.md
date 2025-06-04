@@ -2,6 +2,7 @@
 title: Drake
 Blurb: Bro's dead
 Type: NPC
+publish: true
 ---
 # Drake
 

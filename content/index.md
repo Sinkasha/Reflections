@@ -1,5 +1,6 @@
 ---
 title: Reflections Campaign
+publish: true
 ---
 # Reflections Campaign Index
 [[Session Notes - Reflections|Session Notes]]

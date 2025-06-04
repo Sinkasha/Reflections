@@ -2,6 +2,7 @@
 title: Derrick Fiskov
 Blurb: The Formerly Cursed Shopkeeper
 Type: NPC
+publish: true
 ---
 # Derrick Fiskov
 The Formerly Cursed Shopkeeper

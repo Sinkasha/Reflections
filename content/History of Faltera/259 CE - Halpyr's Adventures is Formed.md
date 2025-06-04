@@ -1,5 +1,6 @@
 ---
 Date: 0259-01-01
+publish: true
 ---
 #events
 ## 259 CE - [[Halpyr’s Adventurers]] is Formed

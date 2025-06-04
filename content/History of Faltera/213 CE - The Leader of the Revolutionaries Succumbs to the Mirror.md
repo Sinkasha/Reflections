@@ -1,5 +1,6 @@
 ---
 Date: 0213-01-02
+publish: true
 ---
 #events
 ## 213 CE - The Leader of the Revolutionaries Succumbs to the [[The Mirror of Enveloping Darkness|Mirror]]

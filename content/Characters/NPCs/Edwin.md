@@ -2,6 +2,7 @@
 title: Edwin
 Blurb: Samurai Duck
 Type: NPC
+publish: true
 ---
 # Edwin
 *Samurai Duck*

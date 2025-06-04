@@ -1,5 +1,6 @@
 ---
 Date: 0308-01-01
+publish: true
 ---
 #events
 ## 308 CE - The Plague of Demonic Chickens

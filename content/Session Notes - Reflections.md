@@ -1,5 +1,6 @@
 ---
 title: Session Notes
+publish: true
 ---
 # Session Notes
 ```dataviewjs

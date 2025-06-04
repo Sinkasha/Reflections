@@ -1,5 +1,6 @@
 ---
 Date: 0213-01-01
+publish: true
 ---
 #events
 ## 213 CE - The Falteran Massacre

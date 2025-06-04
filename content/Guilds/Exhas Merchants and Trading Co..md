@@ -2,6 +2,7 @@
 title: Exhas Merchants and Trading Co.
 Type: Guild
 Blurb: Largest merchant's guild
+publish: true
 ---
 # Exhas Merchants and Trading Co.
 Acting Chair: Jens Pollux

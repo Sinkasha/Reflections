@@ -2,6 +2,7 @@
 title: Duessel Sarde
 Blurb: Revolutionary Leader AKA "Shadebringer"
 Type: NPC
+publish: true
 ---
 # Duessel Sarde 
 Revolutionary Leader AKA the "Shadebringer"

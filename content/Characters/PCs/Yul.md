@@ -2,6 +2,7 @@
 title: Yul
 Blurb: Rachel's Tiefling Cleric, AKA Banana
 Type: PC
+publish: true
 ---
 # Yul
 Rachel's Tiefling Cleric, AKA Banana

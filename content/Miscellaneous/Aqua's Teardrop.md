@@ -1,6 +1,7 @@
 ---
 title: Aqua's Teardrop
 Type: Items
+publish: true
 ---
 ## Aqua's Teardrop
 

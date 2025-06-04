@@ -2,6 +2,7 @@
 title: Hugo Starling
 Blurb: Horace Frostdir's Apprentice
 Type: NPC
+publish: true
 ---
 # Hugo Starling
 [[Horace Frostdir]]'s Apprentice

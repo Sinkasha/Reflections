@@ -2,6 +2,7 @@
 title: Bugbear
 Blurb: Max's Retired Bugbear Ranger
 Type: NPC
+publish: true
 ---
 # Bugbear
 Max's Retired Bugbear Ranger

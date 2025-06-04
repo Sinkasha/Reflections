@@ -1,6 +1,7 @@
 ---
 title: Frostwind Sanctum Key
 Type: Items
+publish: true
 ---
 ## Frostwind Sanctum Key
 

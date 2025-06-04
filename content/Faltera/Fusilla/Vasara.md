@@ -2,6 +2,7 @@
 title: Vasara
 Blurb: Home to Vasara Adventuring Company
 Type: Place
+publish: true
 ---
 # Vasara
 

@@ -2,6 +2,7 @@
 title: Amoiváda
 Blurb: Faustine's Blob Druid
 Type: PC
+publish: true
 ---
 # Amoiváda
 Faustine's Blob Druid

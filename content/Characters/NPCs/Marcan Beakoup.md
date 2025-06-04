@@ -2,6 +2,7 @@
 title: Marcan Beakoup
 Blurb: Matthew's Retired Arrakocra Paladin
 Type: NPC
+publish: true
 ---
 # Marcan Beakoup
 Matthew's Retired Arrakocra Paladin

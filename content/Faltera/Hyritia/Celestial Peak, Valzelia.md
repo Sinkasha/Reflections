@@ -2,6 +2,7 @@
 title: Celestial Peak, Valzelia
 Blurb: Capital of Hyritia
 Type: Place
+publish: true
 ---
 # Celestial Peak, Valzelia
 

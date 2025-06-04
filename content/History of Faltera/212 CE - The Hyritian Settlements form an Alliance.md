@@ -1,5 +1,6 @@
 ---
 Date: 0212-01-02
+publish: true
 ---
 #events
 ## 212 CE - The Hyritian Settlements form an Alliance

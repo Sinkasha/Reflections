@@ -2,6 +2,7 @@
 title: Seliph Orsterra
 Blurb: Acting Chair of Vasara Adventuring Company
 Type: NPC
+publish: true
 ---
 # Seliph Orsterra
 *Acting Chair of [[Vasara Adventuring Company]]*

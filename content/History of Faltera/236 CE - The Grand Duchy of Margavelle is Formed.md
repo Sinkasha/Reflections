@@ -1,5 +1,6 @@
 ---
 Date: 0236-01-01
+publish: true
 ---
 #events
 ## 236 CE - [[The Grand Duchy of Margavelle]] is Formed

@@ -2,6 +2,7 @@
 title: Skaga
 Blurb: Audrey's Owlin Paladin
 Type: PC
+publish: true
 ---
 # Skaga
 Audrey's Owlin Paladin

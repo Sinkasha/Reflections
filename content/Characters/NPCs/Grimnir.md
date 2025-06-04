@@ -2,6 +2,7 @@
 title: Grimnir
 Blurb: Spoopy Mage
 Type: NPC
+publish: true
 ---
 # Grimnir
 Spoopy mage

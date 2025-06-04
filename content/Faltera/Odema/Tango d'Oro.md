@@ -2,6 +2,7 @@
 title: Tango d'Oro
 Blurb: Capital of Odema
 Type: Place
+publish: true
 ---
 # Tango d'Oro
 

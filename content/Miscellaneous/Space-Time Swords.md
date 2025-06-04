@@ -1,6 +1,7 @@
 ---
 title: Space-Time Swords
 Type: Items
+publish: true
 ---
 ## Space-Time Swords
 

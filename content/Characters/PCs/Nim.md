@@ -2,6 +2,7 @@
 title: Nim
 Blurb: Clea's Half-elf Rogue
 Type: PC
+publish: true
 ---
 # Nim
 Clea's Half-elf Rogue

@@ -2,6 +2,7 @@
 title: Geimshall Woods
 Blurb: Magical woods with a sanctuary
 Type: Place
+publish: true
 ---
 # Geimshall Woods
 

@@ -2,6 +2,7 @@
 title: Lyra
 Blurb: Laura's Gambling Half-Elf Sorcerer
 Type: PC
+publish: true
 ---
 # Lyra
 Laura's Gambling Half-Elf Sorcerer

@@ -2,6 +2,7 @@
 title: The Holy State of Odema
 Blurb: Odema
 Type: Country
+publish: true
 ---
 # The Holy State of Odema
 > [!infobox | n-th right]

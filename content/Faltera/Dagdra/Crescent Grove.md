@@ -2,6 +2,7 @@
 title: Crescent Grove
 Blurb: Place of Yul's Temple
 Type: Place
+publish: true
 ---
 # Crescent Grove
 

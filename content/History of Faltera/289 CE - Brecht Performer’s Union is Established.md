@@ -1,5 +1,6 @@
 ---
 Date: 0289-01-01
+publish: true
 ---
 #events
 ## 289 CE - [[Brecht Performer’s Union]] is Established

@@ -1,5 +1,6 @@
 ---
 Date: 0001-01-01
+publish: true
 ---
 #events
 ## 1 CE - [[The Kingdom of Fusilla]] is established across Central Faltera. 

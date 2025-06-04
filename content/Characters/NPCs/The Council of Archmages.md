@@ -2,6 +2,7 @@
 title: The Council of Archmages
 Blurb: Council hype
 Type: NPC
+publish: true
 ---
 # The Council of Archmages
 

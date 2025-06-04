@@ -2,6 +2,7 @@
 title: Quill
 Blurb: Anvi's Duck Robed Rogue
 Type: PC
+publish: true
 ---
 # Quill
 Anvi's Duck Robed Rogue

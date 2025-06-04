@@ -2,6 +2,7 @@
 title: Primrose L'Dore
 Blurb: The Queen of Fusilla
 Type: NPC
+publish: true
 ---
 # Primrose L'Dore
 

@@ -1,5 +1,6 @@
 ---
 Date: 0212-01-01
+publish: true
 ---
 #events
 ## 212 CE - [[The Mirror of Enveloping Darkness]] is created in [[The Holy State of Odema|Odema]]

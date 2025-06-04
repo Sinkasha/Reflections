@@ -2,6 +2,7 @@
 title: Windrest
 Blurb: Port city
 Type: Place
+publish: true
 ---
 # Windrest
 

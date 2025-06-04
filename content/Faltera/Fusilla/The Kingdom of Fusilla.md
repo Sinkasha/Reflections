@@ -2,6 +2,7 @@
 title: The Kingdom of Fusilla
 Blurb: Fusilla
 Type: Country
+publish: true
 ---
 # The Kingdom of Fusilla 
 > [!infobox | n-th right]

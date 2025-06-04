@@ -2,6 +2,7 @@
 title: Hyritian Internal Governance
 Blurb: Hyritian Leadership
 Type: Political
+publish: true
 ---
 # Hyritian Internal Governance
 **Head Chair**

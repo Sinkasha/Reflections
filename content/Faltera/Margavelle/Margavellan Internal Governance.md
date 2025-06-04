@@ -2,6 +2,7 @@
 title: Margavellan Internal Governance
 Blurb: Margavellan Leadership
 Type: Political
+publish: true
 ---
 # Margavellan Internal Governance
 

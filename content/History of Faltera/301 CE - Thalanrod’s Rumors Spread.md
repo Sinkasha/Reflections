@@ -1,5 +1,6 @@
 ---
 Date: 0301-01-01
+publish: true
 ---
 #events
 ## 301 CE - [[The Empire of Dagdra#Thalanrod|Thalanrod]]’s Rumors Spread

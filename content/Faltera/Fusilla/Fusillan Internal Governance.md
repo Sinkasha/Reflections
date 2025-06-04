@@ -2,6 +2,7 @@
 title: Fusillan Internal Governance
 Blurb: Fusillan Leadership
 Type: Political
+publish: true
 ---
 # Fusillan Internal Governance
 

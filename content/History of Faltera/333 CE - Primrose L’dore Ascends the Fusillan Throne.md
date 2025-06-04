@@ -1,5 +1,6 @@
 ---
 Date: 0333-01-01
+publish: true
 ---
 #events
 ## 333 CE - Primrose L’dore Ascends the Fusillan Throne

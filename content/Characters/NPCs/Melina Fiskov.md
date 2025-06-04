@@ -2,6 +2,7 @@
 title: Melina Fiskov
 Blurb: Head of Fiskov Family
 Type: NPC
+publish: true
 ---
 # Melina Fiskov
 Head of [[The Kingdom of Fusilla#Fiskov Family|Fiskov Family]]

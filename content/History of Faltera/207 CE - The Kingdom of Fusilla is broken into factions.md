@@ -1,5 +1,6 @@
 ---
 Date: 0207-01-01
+publish: true
 ---
 #events
 ## 207 CE - [[The Kingdom of Fusilla|Fusilla]] is broken into factions

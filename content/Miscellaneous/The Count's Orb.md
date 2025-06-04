@@ -1,6 +1,7 @@
 ---
 title: The Count's Orb
 Type: Items
+publish: true
 ---
 # The Count's Orb
 *Colloquially referred to as the Count's balls* 

@@ -2,6 +2,7 @@
 title: The Order of the Fish
 Blurb: Fishy business
 Type: NPC
+publish: true
 ---
 # The Order of the Fish
 

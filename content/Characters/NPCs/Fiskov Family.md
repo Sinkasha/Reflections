@@ -2,6 +2,7 @@
 title: Fiskov Family
 Blurb: A family of elves
 Type: NPC
+publish: true
 ---
 # Fiskov Family
 A family of elves. 

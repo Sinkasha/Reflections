@@ -1,6 +1,7 @@
 ---
 title: Silver Key with Fusillan Flag
 Type: Keys
+publish: true
 ---
 ## Silver Key with Fusillan Flag
 

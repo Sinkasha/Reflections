@@ -1,5 +1,6 @@
 ---
 Date: 0314-01-01
+publish: true
 ---
 #events
 ## 314 CE - The Coronation of Emperor Damian von Beryth IV 

@@ -2,6 +2,7 @@
 title: Parli
 Blurb: Capital of Fusilla
 Type: Place
+publish: true
 ---
 # Parli
 

@@ -1,6 +1,7 @@
 ---
 title: Windrest Order Base TP Circle
 Type: Teleportation Circle
+publish: true
 ---
 ## Windrest Order Base TP Circle
 

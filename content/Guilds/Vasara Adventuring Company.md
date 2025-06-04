@@ -2,6 +2,7 @@
 title: Vasara Adventuring Company
 Type: Guild
 Blurb: One of two major adventurer's guilds in faltera
+publish: true
 ---
 # Vasara Adventuring Company
 Acting Chair: [[Seliph Orsterra]]

@@ -2,6 +2,7 @@
 title: Sarah
 Blurb: Max's Aasimar Paladin
 Type: PC
+publish: true
 ---
 # $\Sigma\alpha\rho\alpha$
 Max's Aasimar Paladin

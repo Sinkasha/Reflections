@@ -2,6 +2,7 @@
 title: Ridgepeak
 Blurb: Mountainous region
 Type: Place
+publish: true
 ---
 # Ridgepeak
 

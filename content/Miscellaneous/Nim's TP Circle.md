@@ -1,6 +1,7 @@
 ---
 title: Nim's TP Circle
 Type: Teleportation Circle
+publish: true
 ---
 # Nim's TP Circle
 

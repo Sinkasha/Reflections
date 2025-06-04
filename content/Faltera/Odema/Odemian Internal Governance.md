@@ -2,6 +2,7 @@
 title: Odemian Internal Governance
 Type: Political
 Blurb: Odemian Leadership
+publish: true
 ---
 # Odemian Internal Governance
 **Hierophant**:

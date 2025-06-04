@@ -2,6 +2,7 @@
 title: The League of Larcenists
 Blurb: A nonlethal branch of the Order, largest Thieves' Guild in Faltera
 Type: Guild
+publish: true
 ---
 # The League of Larcenists
 Leaders unknown

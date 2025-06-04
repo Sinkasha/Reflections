@@ -2,6 +2,7 @@
 title: Astrid von Novis
 Blurb: An Archmage AKA the "Jade Dragon"
 Type: NPC
+publish: true
 ---
 # Astrid von Novis
 An Archmage AKA the "Jade Dragon"

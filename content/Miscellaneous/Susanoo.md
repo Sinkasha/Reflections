@@ -1,6 +1,7 @@
 ---
 title: Susanoo
 Type: Items
+publish: true
 ---
 # Susanoo
 

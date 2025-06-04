@@ -2,6 +2,7 @@
 title: Ellery Woddlespin
 Blurb: Famous Weaponsmith
 Type: NPC
+publish: true
 ---
 # Ellery Woddlespin
 Famous Weaponsmith

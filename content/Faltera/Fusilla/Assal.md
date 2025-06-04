@@ -2,6 +2,7 @@
 title: Assal
 Blurb: Home to the Assal Artisans Guild
 Type: Place
+publish: true
 ---
 # Assal
 

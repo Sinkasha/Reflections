@@ -1,6 +1,7 @@
 ---
 title: The Fish Crystals
 Type: Items
+publish: true
 ---
 # The Fish Crystals
 

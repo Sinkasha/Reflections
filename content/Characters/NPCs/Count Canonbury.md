@@ -2,6 +2,7 @@
 title: Count Canonbury
 Blurb: The Dead Count
 Type: NPC
+publish: true
 ---
 # Count Canonbury
 The Dead Count

@@ -1,5 +1,6 @@
 ---
 Date: 0215-01-01
+publish: true
 ---
 #events
 ## 215 CE - Dagdra Negotiates Independence; The Coronation of Emperor Damian von Beryth I

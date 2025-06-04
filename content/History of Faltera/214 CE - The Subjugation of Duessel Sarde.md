@@ -1,5 +1,6 @@
 ---
 Date: 0214-01-01
+publish: true
 ---
 #events
 ## 214 CE - The Subjugation of [[Duessel Sarde]]

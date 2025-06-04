@@ -2,6 +2,7 @@
 title: Frostwind
 Blurb: Cold
 Type: Place
+publish: true
 ---
 # Frostwind
 

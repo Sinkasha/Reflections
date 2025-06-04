@@ -2,6 +2,7 @@
 title: Dude 2
 Blurb: Upper Rank of the Order of the Fish
 Type: NPC
+publish: true
 ---
 # Dude 2
 Upper Rank of [[The Order of the Fish]]

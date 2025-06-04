@@ -2,6 +2,7 @@
 title: Theodore
 Blurb: Unknown Member of the Order of the Fish
 Type: NPC
+publish: true
 ---
 # Theodore
 Unknown Member of the [[The Order of the Fish]]

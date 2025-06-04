@@ -1,5 +1,6 @@
 ---
 Date: 0035-01-01
+publish: true
 ---
 #events
 ## 35 CE - Migration to the Southwest

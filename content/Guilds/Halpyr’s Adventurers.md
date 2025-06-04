@@ -2,6 +2,7 @@
 title: Halpyr's Adventurers
 Blurb: One of two major adventurer's guilds in faltera
 Type: Guild
+publish: true
 ---
 # Halpyr’s Adventurers
 Leader: [[Melina Fiskov]] (long-time adventurer)

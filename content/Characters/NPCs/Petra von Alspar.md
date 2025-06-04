@@ -2,6 +2,7 @@
 title: Petra von Alspar
 Blurb: League of Larcenists member
 Type: NPC
+publish: true
 ---
 # Petra von Alspar
 [[The League of Larcenists|League of Larcenists]] member

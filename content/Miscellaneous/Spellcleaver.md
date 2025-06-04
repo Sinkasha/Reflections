@@ -1,6 +1,7 @@
 ---
 title: Spellcleaver
 Type: Items
+publish: true
 ---
 ## Spellcleaver
 

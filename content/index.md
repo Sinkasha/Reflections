@@ -182,12 +182,17 @@
 |Name|Blurb|
 |---|---|
 |[Aeros](Religion/God of the Sky Aeros.md)|God of the Sky|
+|[Aurus](Religion/God of Fortune Aurus.md)|God of Fortune|
 |[Clarus](Religion/God of the Sun Clarus.md)|God of the Sun|
 |[Forsyth](Religion/God of Nature Forsyth.md)|God of Nature|
+|[Hrym](Religion/God of Chaos Hrym.md)|God of Chaos|
+|[Lucht](Religion/God of Order Lucht.md)|God of Order|
+|[Lucius](Religion/God of Greed Lucius.md)|God of Greed|
 |[Lumis](Religion/God of the Moon Lumis.md)|God of the Moon|
 |[Nautica](Religion/God of the Ocean Nautica.md)|God of the Ocean|
 |[Nyx](Religion/God of Death Nyx.md)|God of Death|
 |[Stergeiz](Religion/God of the Stars Stergeiz.md)|God of the Stars|
+|[Veritus](Religion/Goddess of Honesty Veritus.md)|Goddess of Honesty|
 |[Yddris](Religion/God of Life Yddris.md)|God of Life|
 
 ## Teleportation Circle

@@ -4,7 +4,6 @@
 
 # The Kingdom of Fusilla 
 > [!info]+
-> ##### Information
 > | Type |  Info |
 > | ---- | ---- |
 > | Governance Type | Constitutional Monarchy |
@@ -16,7 +15,7 @@
 > #### [[Faltera/Fusilla/Fusillan Internal Governance]]
 > | Title | Name |
 > | ---- | ---- |
-> | **Queen** | [[Characters/NPCs/Primrose L'Dore]] |
+> | Queen | [[Characters/NPCs/Primrose L'Dore]] |
 > | Prime Minister | Duke Ezra von Navil |
 > | Parliamentary Regent | Atlas Felspard |
 > | Grand Treasurer | Duke Corven von Aquarion |

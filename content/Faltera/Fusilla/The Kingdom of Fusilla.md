@@ -4,7 +4,7 @@
 
 # The Kingdom of Fusilla 
 > [!infobox | n-th right]
-> ![[../../Images/Fusillan Flag.png|cover hsmall]]
+> ![[../../Images/Fusillan Flag.png]]
 > ##### Information
 > | Type |  Info |
 > | ---- | ---- |

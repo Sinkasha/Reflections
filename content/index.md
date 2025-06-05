@@ -8,32 +8,32 @@
 
 |Name|Blurb|
 |---|---|
-|[](History of Faltera/History of Faltera.md)|-|
-|[](History of Faltera/312 CE - The League of Larcenists Make their First Public Appearance.md)|-|
-|[](History of Faltera/35 CE - Migration to the Southwest.md)|-|
-|[](History of Faltera/347 CE - Cave-In.md)|-|
-|[](History of Faltera/308 CE - The Plague of Demonic Chickens.md)|-|
 |[](History of Faltera/347 CE - Canonbury Manor Heist.md)|-|
+|[](History of Faltera/History of Faltera.md)|-|
 |[](History of Faltera/333 CE - Primrose L’dore Ascends the Fusillan Throne.md)|-|
-|[](History of Faltera/314 CE - The Coronation of Emperor Damian von Beryth IV.md)|-|
+|[](History of Faltera/347 CE - Cave-In.md)|-|
+|[](History of Faltera/35 CE - Migration to the Southwest.md)|-|
 |[](History of Faltera/313 CE - The Assassination of the Dagdran Emperor Damian von Beryth III.md)|-|
-|[](History of Faltera/301 CE - Thalanrod’s Rumors Spread.md)|-|
+|[](History of Faltera/308 CE - The Plague of Demonic Chickens.md)|-|
+|[](History of Faltera/314 CE - The Coronation of Emperor Damian von Beryth IV.md)|-|
+|[](History of Faltera/312 CE - The League of Larcenists Make their First Public Appearance.md)|-|
 |[](History of Faltera/289 CE - Brecht Performer’s Union is Established.md)|-|
-|[](History of Faltera/259 CE - Halpyr's Adventures is Formed.md)|-|
-|[](History of Faltera/213 CE - The Falteran Massacre.md)|-|
 |[](History of Faltera/288 CE - Margavelle’s Music Exports Skyrocket.md)|-|
-|[](History of Faltera/271 CE - The Interplanar Expansion.md)|-|
+|[](History of Faltera/301 CE - Thalanrod’s Rumors Spread.md)|-|
 |[](History of Faltera/236 CE - The Grand Duchy of Margavelle is Formed.md)|-|
+|[](History of Faltera/271 CE - The Interplanar Expansion.md)|-|
+|[](History of Faltera/259 CE - Halpyr's Adventures is Formed.md)|-|
 |[](History of Faltera/222 CE - Vasara Adventuring Company is Founded.md)|-|
-|[](History of Faltera/213 CE - The Leader of the Revolutionaries Succumbs to the Mirror.md)|-|
 |[](History of Faltera/215 CE - The Council of Archmages is Formed.md)|-|
 |[](History of Faltera/215 CE - Dagdra Negotiates Independence; The Coronation of Emperor Damian von Beryth I.md)|-|
-|[](History of Faltera/214 CE - The Subjugation of Duessel Sarde.md)|-|
-|[](History of Faltera/212 CE - The Hyritian Settlements form an Alliance.md)|-|
 |[](History of Faltera/212 CE - Miscellaneous - The Mirror of Enveloping Darkness is created in Odema.md)|-|
-|[](History of Faltera/123 CE - Settlements in the Hyritian Isles form in Northern Faltera..md)|-|
+|[](History of Faltera/214 CE - The Subjugation of Duessel Sarde.md)|-|
+|[](History of Faltera/213 CE - The Leader of the Revolutionaries Succumbs to the Mirror.md)|-|
+|[](History of Faltera/213 CE - The Falteran Massacre.md)|-|
 |[](History of Faltera/207 CE - The Kingdom of Fusilla is broken into factions.md)|-|
+|[](History of Faltera/212 CE - The Hyritian Settlements form an Alliance.md)|-|
 |[](History of Faltera/166 CE - The Holy State of Odema is founded in Southeast Faltera.md)|-|
+|[](History of Faltera/123 CE - Settlements in the Hyritian Isles form in Northern Faltera..md)|-|
 |[](History of Faltera/1 CE - The Kingdom of Fusilla is established across Central Faltera..md)|-|
 |[The Elemental Gods](Religion/The Elemental Gods.md)|-|
 

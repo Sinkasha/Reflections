@@ -6,7 +6,7 @@ on:
       - v4
 
 env: 
-  THEME_NAME: glass-robo
+  THEME_NAME: poimandres
  
 permissions:
   contents: read

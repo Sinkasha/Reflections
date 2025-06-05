@@ -35,6 +35,7 @@
 |[](History of Faltera/207 CE - The Kingdom of Fusilla is broken into factions.md)|-|
 |[](History of Faltera/166 CE - The Holy State of Odema is founded in Southeast Faltera.md)|-|
 |[](History of Faltera/1 CE - The Kingdom of Fusilla is established across Central Faltera..md)|-|
+|[The Elemental Gods](Religion/The Elemental Gods.md)|-|
 
 ## Country
 
@@ -173,13 +174,21 @@
 |[Guilds](Guilds/Guilds.md)|Guilds of Faltera|
 |[Religion of Faltera](Religion of Faltera.md)|Religion in Faltera|
 |[The Major Gods](Religion/The Major Gods.md)|-|
+|[The Primitive Gods](Religion/The Primitive Gods.md)|-|
 |[Travel Times](Travel Times.md)|Travel times|
 
 ## Religion
 
 |Name|Blurb|
 |---|---|
+|[Aeros](Religion/God of the Sky Aeros.md)|God of the Sky|
 |[Clarus](Religion/God of the Sun Clarus.md)|God of the Sun|
+|[Forsyth](Religion/God of Nature Forsyth.md)|God of Nature|
+|[Lumis](Religion/God of the Moon Lumis.md)|God of the Moon|
+|[Nautica](Religion/God of the Ocean Nautica.md)|God of the Ocean|
+|[Nyx](Religion/God of Death Nyx.md)|God of Death|
+|[Stergeiz](Religion/God of the Stars Stergeiz.md)|God of the Stars|
+|[Yddris](Religion/God of Life Yddris.md)|God of Life|
 
 ## Teleportation Circle
 

@@ -6,8 +6,8 @@ publish: true
 [[Session Notes - Reflections|Session Notes]]
 ```dataviewjs
 for (let group of dv.pages('-"Templates" and -"Session Notes - Reflections" and -"Bloo" and -"index.md" and -"Session Notes - Reflections.md"').groupBy(a => a.Type)) {
-	dv.header(2, group.key);
-	dv.table(["Name", "Blurb"], group.rows.sort(a => a.title).map(a => [a.file.link, a.blurb]))
+    dv.header(2, group.key);
+    dv.table(["Name", "Blurb"], group.rows.sort(a => a.title).map(a => [dv.fileLink(a.file.path,false,[a.title]), a.blurb]))
 }
 ```
 

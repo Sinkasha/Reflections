@@ -5,7 +5,7 @@
 # Session Notes
 ## Act 1
 
-|Session16|Name|In-Game Date|Date|
+|Session|Name|In-Game Date|Date|
 |---|---|---|---|
 |1|[Night Market](Session Notes - Reflections/01 - 10.21.2022 - Night Market.md)|March 31, 0347|October 21, 2022|
 |2|[Investigating the Cave In](Session Notes - Reflections/02 - 11.6.2022 - Investigating the Cave In.md)|April 01, 0347|November 06, 2022|
@@ -26,7 +26,7 @@
 
 ## Act 2
 
-|Session14|Name|In-Game Date|Date|
+|Session|Name|In-Game Date|Date|
 |---|---|---|---|
 |17|[The Aftermath](Session Notes - Reflections/17 - 07.03.2024 - The Aftermath.md)|April 13, 0347|July 07, 2024|
 |18|[A Fan-ducking-tastic Reunion](Session Notes - Reflections/18 - 7.10.24 - A Fan-ducking-tastic Reunion.md)|April 13, 0347|July 10, 2024|

@@ -6,9 +6,8 @@
 [[Session Notes - Reflections\|Session Notes]]
 ## -
 
-|Name28|Blurb|
+|Name|Blurb|
 |---|---|
-|[](Religion of Faltera.md)|-|
 |[](History of Faltera/History of Faltera.md)|-|
 |[](History of Faltera/312 CE - The League of Larcenists Make their First Public Appearance.md)|-|
 |[](History of Faltera/35 CE - Migration to the Southwest.md)|-|
@@ -39,7 +38,7 @@
 
 ## Country
 
-|Name5|Blurb|
+|Name|Blurb|
 |---|---|
 |[The Empire of Dagdra](Faltera/Dagdra/The Empire of Dagdra.md)|Dagdra|
 |[The Grand Duchy of Margavelle](Faltera/Margavelle/The Grand Duchy of Margavelle.md)|Margavelle|
@@ -49,7 +48,7 @@
 
 ## Guild
 
-|Name7|Blurb|
+|Name|Blurb|
 |---|---|
 |[Assal Artisans Guild](Guilds/Assal Artisans Guild.md)|largest Artisans Guild in Faltera|
 |[Brecht Performer's Union](Guilds/Brecht Performer’s Union.md)|Largest, most prestigious union of performers|
@@ -61,7 +60,7 @@
 
 ## Items
 
-|Name12|Blurb|
+|Name|Blurb|
 |---|---|
 |[Aqua's Teardrop](Miscellaneous/Aqua's Teardrop.md)|-|
 |[Crown of the Elements](Miscellaneous/Crown of the Elements.md)|-|
@@ -78,14 +77,14 @@
 
 ## Keys
 
-|Name2|Blurb|
+|Name|Blurb|
 |---|---|
 |[Sanctum Key](Miscellaneous/Sanctum Key.md)|-|
 |[Silver Key with Fusillan Flag](Miscellaneous/Silver Key with Fusillan Flag.md)|-|
 
 ## NPC
 
-|Name28|Blurb|
+|Name|Blurb|
 |---|---|
 |[Allie](Characters/NPCs/Allie.md)|:(|
 |[Astrid von Novis](Characters/NPCs/Astrid von Novis.md)|An Archmage AKA the "Jade Dragon"|
@@ -118,7 +117,7 @@
 
 ## PC
 
-|Name9|Blurb|
+|Name|Blurb|
 |---|---|
 |[Amoiváda](Characters/PCs/Amoiváda.md)|Faustine's Blob Druid|
 |[Bloo](Characters/PCs/Bloo.md)|Sherri's Blob Sorcerer|
@@ -132,7 +131,7 @@
 
 ## Place
 
-|Name20|Blurb|
+|Name|Blurb|
 |---|---|
 |[Alvar](Faltera/Dagdra/Alvar.md)|Capital of Dagdra|
 |[Ashfall](Faltera/Fusilla/Ashfall.md)|Ashfall|
@@ -157,7 +156,7 @@
 
 ## Political
 
-|Name5|Blurb|
+|Name|Blurb|
 |---|---|
 |[Dagdran Internal Governance](Faltera/Dagdra/Dagdran Internal Governance.md)|Dagdra Leadership|
 |[Fusillan Internal Governance](Faltera/Fusilla/Fusillan Internal Governance.md)|Fusillan Leadership|
@@ -167,16 +166,24 @@
 
 ## Reference
 
-|Name4|Blurb|
+|Name|Blurb|
 |---|---|
 |[Faltera](Faltera/Faltera.md)|The World!|
 |[Flowchart](Excalidraw/Flowchart.md)|Excalidraw Diagram|
 |[Guilds](Guilds/Guilds.md)|Guilds of Faltera|
+|[Religion of Faltera](Religion of Faltera.md)|Religion in Faltera|
+|[The Major Gods](Religion/The Major Gods.md)|-|
 |[Travel Times](Travel Times.md)|Travel times|
+
+## Religion
+
+|Name|Blurb|
+|---|---|
+|[Clarus](Religion/God of the Sun Clarus.md)|God of the Sun|
 
 ## Teleportation Circle
 
-|Name4|Blurb|
+|Name|Blurb|
 |---|---|
 |[Nim's TP Circle](Miscellaneous/Nim's TP Circle.md)|-|
 |[Novis Castle TP Circle](Miscellaneous/Novis Castle TP Circle.md)|-|

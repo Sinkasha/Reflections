@@ -31,7 +31,7 @@ Each island is sovereign, however, the Hyritian Alliance is treated internationa
 Every election cycle, the head chair is voted on, and one can be the head chair until they are kicked out of their island chair. Each island operates slightly differently, with different laws and each with their own inquisitor. 
 
 ## Places
-|City3|Blurb|
+|City|Blurb|
 |---|---|
 |[Celestial Peak, Valzelia](Faltera/Hyritia/Celestial Peak, Valzelia.md)|Capital of Hyritia|
 |[Half Moon Bay, Valzelia](Faltera/Hyritia/Half Moon Bay, Valzelia.md)|It's a bay|

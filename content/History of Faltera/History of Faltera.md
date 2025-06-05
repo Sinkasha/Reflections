@@ -4,7 +4,7 @@
 
 # History of Faltera
 ## Present Day - Year 347 CE 
-|Event26|
+|Event|
 |---|
 |[1 CE - The Kingdom of Fusilla is established across Central Faltera.](History of Faltera/1 CE - The Kingdom of Fusilla is established across Central Faltera..md)|
 |[35 CE - Migration to the Southwest](History of Faltera/35 CE - Migration to the Southwest.md)|

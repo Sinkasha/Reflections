@@ -31,7 +31,7 @@ Dagdra is an extremely strong military power, very prominent in the world since 
 The royal family of Dagdra is still recovering from the [[History of Faltera/313 CE - The Assassination of the Dagdran Emperor Damian von Beryth III\|assassination of the previous emperor]]. 
 
 ## Places: 
-|City6|Blurb|
+|City|Blurb|
 |---|---|
 |[Alvar](Faltera/Dagdra/Alvar.md)|Capital of Dagdra|
 |[Crescent Grove](Faltera/Dagdra/Crescent Grove.md)|Place of Yul's Temple|

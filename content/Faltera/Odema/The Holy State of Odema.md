@@ -24,6 +24,6 @@ The Holy State of Odema is a wealthy country which exports gold, most of which i
 Currently people of the Holy State of Odema primarily worship the gods of [[Religion of Faltera#God of the Sun Clarus\|Sun]], [[Religion of Faltera#God of Fortune Aurus\|Fortune]], and [[Religion of Faltera#God of Order Lucht\|Order]]. 
 
 ## Places
-|City1|Blurb|
+|City|Blurb|
 |---|---|
 |[Tango d'Oro](Faltera/Odema/Tango d'Oro.md)|Capital of Odema|

@@ -26,4 +26,4 @@ Currently people of the Holy State of Odema primarily worship the gods of [[Reli
 ## Places
 |City|Blurb|
 |---|---|
-|[Tango d'Oro](Faltera/Odema/Tango d'Oro.md)|Capital of Odema|
+|[[Faltera/Odema/Tango d'Oro\|Tango d'Oro]]|Capital of Odema|

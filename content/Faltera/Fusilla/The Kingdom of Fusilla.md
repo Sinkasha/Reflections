@@ -28,13 +28,13 @@ Fusilla has a formidable global presence in Faltera. Being at the forefront of d
 ## Places
 |City|Blurb|
 |---|---|
-|[Ashfall](Faltera/Fusilla/Ashfall.md)|Ashfall|
-|[Assal](Faltera/Fusilla/Assal.md)|Home to the Assal Artisans Guild|
-|[Canonbury](Faltera/Fusilla/Canonbury.md)|Coal mining and night markets|
-|[Everholden](Faltera/Fusilla/Everholden.md)|Near ruins, dangerous|
-|[Frostwind](Faltera/Fusilla/Frostwind.md)|Cold|
-|[Geimshall Woods](Faltera/Fusilla/Geimshall Woods.md)|Magical woods with a sanctuary|
-|[Havenridge](Faltera/Fusilla/Havenridge.md)|Havenridge|
-|[Parli](Faltera/Fusilla/Parli.md)|Capital of Fusilla|
-|[Ridgepeak](Faltera/Fusilla/Ridgepeak.md)|Mountainous region|
-|[Vasara](Faltera/Fusilla/Vasara.md)|Home to Vasara Adventuring Company|
+|[[Faltera/Fusilla/Ashfall\|Ashfall]]|Ashfall|
+|[[Faltera/Fusilla/Assal\|Assal]]|Home to the Assal Artisans Guild|
+|[[Faltera/Fusilla/Canonbury\|Canonbury]]|Coal mining and night markets|
+|[[Faltera/Fusilla/Everholden\|Everholden]]|Near ruins, dangerous|
+|[[Faltera/Fusilla/Frostwind\|Frostwind]]|Cold|
+|[[Faltera/Fusilla/Geimshall Woods\|Geimshall Woods]]|Magical woods with a sanctuary|
+|[[Faltera/Fusilla/Havenridge\|Havenridge]]|Havenridge|
+|[[Faltera/Fusilla/Parli\|Parli]]|Capital of Fusilla|
+|[[Faltera/Fusilla/Ridgepeak\|Ridgepeak]]|Mountainous region|
+|[[Faltera/Fusilla/Vasara\|Vasara]]|Home to Vasara Adventuring Company|

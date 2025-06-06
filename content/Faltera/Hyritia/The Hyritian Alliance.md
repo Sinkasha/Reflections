@@ -33,6 +33,6 @@ Every election cycle, the head chair is voted on, and one can be the head chair 
 ## Places
 |City|Blurb|
 |---|---|
-|[Celestial Peak, Valzelia](Faltera/Hyritia/Celestial Peak, Valzelia.md)|Capital of Hyritia|
-|[Half Moon Bay, Valzelia](Faltera/Hyritia/Half Moon Bay, Valzelia.md)|It's a bay|
-|[Port Exhas, Trinity Bay, Valzelia](Faltera/Hyritia/Port Exhas, Trinity Bay, Valzelia.md)|Home to the Exhas Merchants and Trading Co.|
+|[[Faltera/Hyritia/Celestial Peak, Valzelia\|Celestial Peak, Valzelia]]|Capital of Hyritia|
+|[[Faltera/Hyritia/Half Moon Bay, Valzelia\|Half Moon Bay, Valzelia]]|It's a bay|
+|[[Faltera/Hyritia/Port Exhas, Trinity Bay, Valzelia\|Port Exhas, Trinity Bay, Valzelia]]|Home to the Exhas Merchants and Trading Co.|

@@ -33,9 +33,9 @@ The royal family of Dagdra is still recovering from the [[History of Faltera/313
 ## Places: 
 |City|Blurb|
 |---|---|
-|[Alvar](Faltera/Dagdra/Alvar.md)|Capital of Dagdra|
-|[Crescent Grove](Faltera/Dagdra/Crescent Grove.md)|Place of Yul's Temple|
-|[Halpyr](Faltera/Dagdra/Halpyr.md)|Home to Halpyr's Adventurers|
-|[Thalanrod](Faltera/Dagdra/Thalanrod.md)|The Overdark|
-|[Thalum](Faltera/Dagdra/Thalum.md)|Home to Thalum Mercenary Company|
-|[Windrest](Faltera/Dagdra/Windrest.md)|Port city|
+|[[Faltera/Dagdra/Alvar\|Alvar]]|Capital of Dagdra|
+|[[Faltera/Dagdra/Crescent Grove\|Crescent Grove]]|Place of Yul's Temple|
+|[[Faltera/Dagdra/Halpyr\|Halpyr]]|Home to Halpyr's Adventurers|
+|[[Faltera/Dagdra/Thalanrod\|Thalanrod]]|The Overdark|
+|[[Faltera/Dagdra/Thalum\|Thalum]]|Home to Thalum Mercenary Company|
+|[[Faltera/Dagdra/Windrest\|Windrest]]|Port city|

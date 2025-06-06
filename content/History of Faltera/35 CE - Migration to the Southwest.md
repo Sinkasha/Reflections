@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"title":"CE - Migration to the Southwest","cssclasses":""}
 ---
 
 #events

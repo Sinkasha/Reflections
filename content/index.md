@@ -11,7 +11,6 @@
 |[](History of Faltera/333 CE - Primrose L’dore Ascends the Fusillan Throne)|-|
 |[](History of Faltera/313 CE - The Assassination of the Dagdran Emperor Damian von Beryth III)|-|
 |[](History of Faltera/History of Faltera)|-|
-|[](History of Faltera/35 CE - Migration to the Southwest)|-|
 |[](History of Faltera/347 CE - Canonbury Manor Heist)|-|
 |[](History of Faltera/347 CE - Cave-In)|-|
 |[](History of Faltera/308 CE - The Plague of Demonic Chickens)|-|
@@ -34,7 +33,8 @@
 |[](History of Faltera/212 CE - The Hyritian Settlements form an Alliance)|-|
 |[](History of Faltera/207 CE - The Kingdom of Fusilla is broken into factions)|-|
 |[](History of Faltera/123 CE - Settlements in the Hyritian Isles form in Northern Faltera.)|-|
-|[](History of Faltera/1 CE - The Kingdom of Fusilla is established across Central Faltera.)|-|
+|[[History of Faltera/1 CE - The Kingdom of Fusilla is established across Central Faltera.\|1 CE - The Kingdom of Fusilla is established across Central Faltera.]]|-|
+|[[History of Faltera/35 CE - Migration to the Southwest\|CE - Migration to the Southwest]]|-|
 |[[Religion/The Elemental Gods\|The Elemental Gods]]|-|
 
 ## Country

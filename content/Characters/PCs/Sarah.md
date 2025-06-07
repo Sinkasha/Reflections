@@ -2,7 +2,7 @@
 {"publish":true,"title":"Sarah","cssclasses":""}
 ---
 
-# $\Sigma\alpha\rho\alpha$$
+# $\Sigma\alpha\rho\alpha$
 Max's Aasimar Paladin
 
 Joined the party in [[Session Notes - Reflections/07 - 2.6.2024 - The Count Dies, Goodbye Bugbear, Hello Sarah]]. 

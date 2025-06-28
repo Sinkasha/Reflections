@@ -6,7 +6,7 @@
 Upper Rank of [[Characters/NPCs/The Order of the Fish]]
 
 A tiefling with purplish blue skin and two slightly hidden horns. He has black markings on his left eye: 
-![[../../Images/Tiefling Dude's Eye.png|300]]
+![[Images/Tiefling Dude's Eye.png|300]]
 
 He was the bearer of the yellow [[Miscellaneous/The Fish Crystals\|fish crystal]]. 
 

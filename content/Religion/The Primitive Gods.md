@@ -5,7 +5,7 @@
 # The Primitive Gods
 
 According to Thetis, the 3 primitive gods have no direct lineage. The elemental gods are the closest things to a lineage that Azathoth has. 
-##### God of Death: Nyarlathotep
+### God of Death: Nyarlathotep
 *Depreciated God of Death*
 Nyarlathotep is the ancient god of death, controlling passage into the astral plane. Most of Nyarlathotep's worshippers were in modern day [[Faltera/Odema/The Holy State of Odema]] and the Beryth territory in [[Faltera/Dagdra/The Empire of Dagdra]]. Nyarlathotep is in the Far Realms, and sent an avatar to the Material Plane, who would've been a willing worshipper of them. 
 
@@ -21,7 +21,7 @@ Nyarlathotep has 8 Sinister Vows, who are super loyal followers of Nyarlathotep.
 3. King Hades, Ruler of the Plane of Hades, is the third vow of Nyarlathotep. In order to summon him, one must carry out a specific divine ritual. Its requirements include 3 severed heads, dried roots and ashes of the roots of a petricite tree in [[Faltera/Fusilla/The Kingdom of Fusilla#Geimshall Woods\|Geimshall Woods]]. The ritual takes 2 hours and requires immense concentration, hand gestures, and a summoning circle. According to [[Characters/NPCs/Astrid von Novis]], Hades is just a personification. 
 4. Ruin, the strongest Sinister Vow. He has the ability to destroy anything he comes in contact or near with. If his full power is regained, he could wipe out all of Faltera. 
 
-##### God of Life: Genesis
+### God of Life: Genesis
 *Depreciated God of Life*
 In their prime, Genesis was equal in power to Nyarlathotep. 
 Genesis's worshippers were mostly in the northern regions of Faltera, including Frostwind, Hyritia, and stretching into Fusilla. 

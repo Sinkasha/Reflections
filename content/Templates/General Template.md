@@ -1,6 +1,5 @@
 ---
-title: <%tp.file.title%>
-Blurb: 
-Type:
+{"publish":true,"title":"<%tp.file.title%>","cssclasses":""}
 ---
+
 # <%tp.file.title%>

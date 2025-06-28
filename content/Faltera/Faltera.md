@@ -5,7 +5,7 @@
 # Faltera
 In a pocket space in the multiverse, material plane.
 
-![[../Images/Map of Faltera.png]]
+![[Images/Map of Faltera.png]]
 
 ## Countries
 [[Faltera/Dagdra/The Empire of Dagdra]]

@@ -1,7 +1,7 @@
 ---
-title: Reflections Campaign
-publish: true
+{"publish":true,"title":"Reflections Campaign","cssclasses":""}
 ---
+
 
 # Reflections Campaign Index
 [[Session Notes - Reflections\|Session Notes]]

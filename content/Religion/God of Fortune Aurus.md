@@ -2,6 +2,7 @@
 {"publish":true,"title":"Aurus","cssclasses":""}
 ---
 
+
 # God of Fortune: Aurus
 *Neutral Good*
 

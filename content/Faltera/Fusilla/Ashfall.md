@@ -1,9 +1,7 @@
 ---
-title: Ashfall
-Blurb: Ashfall
-Type: Place
-publish: true
+{"publish":true,"title":"Ashfall","cssclasses":""}
 ---
+
 
 # Ashfall
 

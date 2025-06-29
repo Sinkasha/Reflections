@@ -1,9 +1,7 @@
 ---
-title: Travel Times
-Type: Reference
-Blurb: Travel times
-publish: true
+{"publish":true,"title":"Travel Times","cssclasses":""}
 ---
+
 
 # Travel Times
 

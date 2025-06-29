@@ -1,9 +1,7 @@
 ---
-title: Parli
-Blurb: Capital of Fusilla
-Type: Place
-publish: true
+{"publish":true,"title":"Parli","cssclasses":""}
 ---
+
 
 # Parli
 

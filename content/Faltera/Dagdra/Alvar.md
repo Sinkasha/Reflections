@@ -1,9 +1,7 @@
 ---
-title: Alvar
-Blurb: Capital of Dagdra
-Type: Place
-publish: true
+{"publish":true,"title":"Alvar","cssclasses":""}
 ---
+
 
 # Alvar
 

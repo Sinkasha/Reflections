@@ -1,8 +1,6 @@
 ---
-title: Half Moon Bay, Valzelia
-Blurb: It's a bay
-Type: Place
-publish: true
+{"publish":true,"title":"Half Moon Bay, Valzelia","cssclasses":""}
 ---
+
 
 # Half Moon Bay

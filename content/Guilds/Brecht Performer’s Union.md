@@ -1,9 +1,7 @@
 ---
-title: Brecht Performer's Union
-Type: Guild
-Blurb: Largest, most prestigious union of performers
-publish: true
+{"publish":true,"title":"Brecht Performer's Union","cssclasses":""}
 ---
+
 
 # Brecht Performer’s Union
 

@@ -1,14 +1,12 @@
 ---
-title: Melina Fiskov
-Blurb: Head of Fiskov Family
-Type: NPC
-publish: true
+{"publish":true,"title":"Melina Fiskov","cssclasses":""}
 ---
+
 
 # Melina Fiskov
 
-Head of [[The Kingdom of Fusilla#Fiskov Family|Fiskov Family]]
+Head of [[Faltera/Fusilla/The Kingdom of Fusilla#Fiskov Family\|Fiskov Family]]
 
-Current head of [[Halpyr’s Adventurers]].
+Current head of [[Guilds/Halpyr’s Adventurers]].
 
-She has been sent to [[The Empire of Dagdra#Windrest|Windrest]] a fair bit as part of being in an adventurer's guild.
+She has been sent to [[Faltera/Dagdra/The Empire of Dagdra#Windrest\|Windrest]] a fair bit as part of being in an adventurer's guild.

@@ -1,8 +1,7 @@
 ---
-title: Watatsumi
-Type: Items
-publish: true
+{"publish":true,"title":"Watatsumi","cssclasses":""}
 ---
+
 
 ## Watatsumi
 
@@ -19,4 +18,4 @@ Water Mastery: Twice per long rest, you may choose to cast one of the following 
 - Water Walk
 - Wall of Water
 
-Acquired [[14 - 5.23.2024 - FISH CRYSTALS#^7de2bf|here]] by [[Yul]].
+Acquired [[Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS#^7de2bf\|here]] by [[Characters/PCs/Yul]].

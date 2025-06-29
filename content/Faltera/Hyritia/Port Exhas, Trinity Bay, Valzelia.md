@@ -1,10 +1,8 @@
 ---
-title: Port Exhas, Trinity Bay, Valzelia
-Blurb: Home to the Exhas Merchants and Trading Co.
-Type: Place
-publish: true
+{"publish":true,"title":"Port Exhas, Trinity Bay, Valzelia","cssclasses":""}
 ---
+
 
 # Port Exhas, Trinity Bay, Valzelia
 
-Home to the [[Exhas Merchants and Trading Co.]].
+Home to the [[Guilds/Exhas Merchants and Trading Co.]].

@@ -2,6 +2,7 @@
 {"publish":true,"title":"Yddris","cssclasses":""}
 ---
 
+
 # God of Life: Yddris
 *Lawful Neutral*
 

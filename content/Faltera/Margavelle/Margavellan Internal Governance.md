@@ -1,9 +1,7 @@
 ---
-title: Margavellan Internal Governance
-Blurb: Margavellan Leadership
-Type: Political
-publish: true
+{"publish":true,"title":"Margavellan Internal Governance","cssclasses":""}
 ---
+
 
 # Margavellan Internal Governance
 

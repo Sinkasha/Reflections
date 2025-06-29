@@ -1,9 +1,7 @@
 ---
-title: Dude 2
-Blurb: Upper Rank of the Order of the Fish
-Type: NPC
-publish: true
+{"publish":true,"title":"Dude 2","cssclasses":""}
 ---
+
 
 # Dude 2
 

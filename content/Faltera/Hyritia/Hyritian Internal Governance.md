@@ -1,9 +1,7 @@
 ---
-title: Hyritian Internal Governance
-Blurb: Hyritian Leadership
-Type: Political
-publish: true
+{"publish":true,"title":"Hyritian Internal Governance","cssclasses":""}
 ---
+
 
 # Hyritian Internal Governance
 

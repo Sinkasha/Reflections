@@ -1,9 +1,7 @@
 ---
-title: The Hyritian Alliance
-Type: Country
-Blurb: Hyritia
-publish: true
+{"publish":true,"title":"The Hyritian Alliance","cssclasses":""}
 ---
+
 
 # The Hyritian Alliance
 
@@ -17,10 +15,10 @@ publish: true
 > | Capital                     | Celestial Peak                                                        |
 > | Economic System             | Capitalism                                                            |
 > | Primary Exports             | Ice, tools, processed metals, processed stone, coal, crystals         |
-> | Preferred Trade             | [[The Kingdom of Fusilla\|Fusilla]], [[The Empire of Dagdra\|Dagdra]] |
+> | Preferred Trade             | [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]], [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]] |
 > | Prominent Natural Resources | Ice, ores, gems, crystals, coal                                       |
 >
-> #### [[Hyritian Internal Governance]]
+> #### [[Faltera/Hyritia/Hyritian Internal Governance]]
 >
 > | Title                | Name            |
 > | -------------------- | --------------- |

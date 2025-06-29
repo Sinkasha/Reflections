@@ -1,9 +1,7 @@
 ---
-title: Fusillan Internal Governance
-Blurb: Fusillan Leadership
-Type: Political
-publish: true
+{"publish":true,"title":"Fusillan Internal Governance","cssclasses":""}
 ---
+
 
 # Fusillan Internal Governance
 

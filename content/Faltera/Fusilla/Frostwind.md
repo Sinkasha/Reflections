@@ -1,9 +1,7 @@
 ---
-title: Frostwind
-Blurb: Cold
-Type: Place
-publish: true
+{"publish":true,"title":"Frostwind","cssclasses":""}
 ---
+
 
 # Frostwind
 

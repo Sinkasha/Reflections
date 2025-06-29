@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nautica","cssclasses":""}
 ---
 
+
 # God of the Ocean: Nautica
 *Chaotic Neutral*
 

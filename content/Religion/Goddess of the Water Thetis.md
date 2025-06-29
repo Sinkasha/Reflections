@@ -2,6 +2,7 @@
 {"publish":true,"title":"Thetis","cssclasses":""}
 ---
 
+
 # Goddess of the Water Thetis
 
 Thetis appreciates offerings of mortal sentimental value. Thetis's essence has been contained within a Sapphire by another unknown God, likely [[Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] from this snippet of conversation: 

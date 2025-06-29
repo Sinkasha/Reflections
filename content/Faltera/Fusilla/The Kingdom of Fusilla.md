@@ -1,9 +1,7 @@
 ---
-title: The Kingdom of Fusilla
-Blurb: Fusilla
-Type: Country
-publish: true
+{"publish":true,"title":"The Kingdom of Fusilla","cssclasses":""}
 ---
+
 
 # The Kingdom of Fusilla 
 > [!info]+
@@ -13,7 +11,7 @@ publish: true
 > | Capital | Parli |
 > | Economic System | Feudalism |
 > | Primary Exports | Processed metals (iron, steel, copper, etc.), weapons |
-> | Preferred Trade | [[The Grand Duchy of Margavelle\|Margavelle]], [[The Hyritian Alliance\|Hyritia]] |
+> | Preferred Trade | [[Faltera/Margavelle/The Grand Duchy of Margavelle\|Margavelle]], [[Faltera/Hyritia/The Hyritian Alliance\|Hyritia]] |
 > | Prominent Natural Resources | Iron ore, copper ore, coal, stone, aluminum ore, gold ore, mana crystals, rubies, emeralds, etc. |
 > #### [[Faltera/Fusilla/Fusillan Internal Governance]]
 > | Title | Name |

@@ -1,9 +1,7 @@
 ---
-title: Tango d'Oro
-Blurb: Capital of Odema
-Type: Place
-publish: true
+{"publish":true,"title":"Tango d'Oro","cssclasses":""}
 ---
+
 
 # Tango d'Oro
 

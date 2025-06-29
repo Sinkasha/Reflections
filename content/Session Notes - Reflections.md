@@ -1,7 +1,7 @@
 ---
-title: Session Notes
-publish: true
+{"publish":true,"title":"Session Notes","cssclasses":""}
 ---
+
 
 # Session Notes
 

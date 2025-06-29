@@ -1,8 +1,7 @@
 ---
-title: Windrest Order Base TP Circle
-Type: Teleportation Circle
-publish: true
+{"publish":true,"title":"Windrest Order Base TP Circle","cssclasses":""}
 ---
+
 
 ## Windrest Order Base TP Circle
 

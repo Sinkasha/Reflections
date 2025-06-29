@@ -1,9 +1,7 @@
 ---
-title: Mar S'den
-Blurb: Matthew's Human Wizard
-Type: PC
-publish: true
+{"publish":true,"title":"Mar S'den","cssclasses":""}
 ---
+
 
 # Mar S'den
 

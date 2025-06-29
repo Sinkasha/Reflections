@@ -2,6 +2,7 @@
 {"publish":true,"title":"Clarus","cssclasses":""}
 ---
 
+
 # God of the Sun: Clarus
 *Chaotic Good*
 

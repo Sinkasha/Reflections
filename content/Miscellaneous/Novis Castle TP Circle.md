@@ -1,8 +1,7 @@
 ---
-title: Novis Castle TP Circle
-Type: Teleportation Circle
-publish: true
+{"publish":true,"title":"Novis Castle TP Circle","cssclasses":""}
 ---
+
 
 # Vasara Adventuring Guild Headquarters TP Circle
 

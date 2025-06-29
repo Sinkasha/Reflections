@@ -1,10 +1,8 @@
 ---
-title: Halpyr
-Blurb: Home to Halpyr's Adventurers
-Type: Place
-publish: true
+{"publish":true,"title":"Halpyr","cssclasses":""}
 ---
+
 
 # Halpyr
 
-Home to [[Halpyr’s Adventurers]].
+Home to [[Guilds/Halpyr’s Adventurers]].

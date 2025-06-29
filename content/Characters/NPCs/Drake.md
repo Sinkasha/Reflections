@@ -1,12 +1,10 @@
 ---
-title: Drake
-Blurb: Bro's dead
-Type: NPC
-publish: true
+{"publish":true,"title":"Drake","cssclasses":""}
 ---
+
 
 # Drake
 
-A warlock. Was wielding [[Spellcleaver]] before he died.
+A warlock. Was wielding [[Miscellaneous/Spellcleaver]] before he died.
 
-Backstabbed by [[Jeice]].
+Backstabbed by [[Characters/NPCs/Jeice]].

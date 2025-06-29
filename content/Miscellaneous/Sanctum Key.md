@@ -1,11 +1,10 @@
 ---
-title: Sanctum Key
-Type: Keys
-publish: true
+{"publish":true,"title":"Sanctum Key","cssclasses":""}
 ---
+
 
 ## Sanctum Key
 
-Discovered [[06 - 1.25.2024 - The Count's Balls#^f23f3c|here]]. A copper plated key that's slightly rusted, related to [[The Fish Crystals]]. It has a vaguely fish-like pattern on it.
+Discovered [[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^f23f3c\|here]]. A copper plated key that's slightly rusted, related to [[Miscellaneous/The Fish Crystals]]. It has a vaguely fish-like pattern on it.
 
-It's currently in [[Nim]]'s hands. Used in [[14 - 5.23.2024 - FISH CRYSTALS]] to open a chest containing the last two [[The Fish Crystals|fish crystals]].
+It's currently in [[Characters/PCs/Nim]]'s hands. Used in [[Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS]] to open a chest containing the last two [[Miscellaneous/The Fish Crystals\|fish crystals]].

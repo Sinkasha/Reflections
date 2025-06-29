@@ -2,6 +2,7 @@
 {"publish":true,"title":"Stergeiz","cssclasses":""}
 ---
 
+
 # God of the Stars: Stergeiz
 *Neutral Good*
 

@@ -1,14 +1,11 @@
 ---
-title: Lucht
-Blurb: God of Order
-Type: Religion
-publish: true
+{"publish":true,"title":"Lucht","cssclasses":""}
 ---
 
 # God of Order: Lucht
+*Lawful Neutral*
 
-_Lawful Neutral_
+![[Images/God of Order Symbol.png|100]]
 
-![[God of Order Symbol.png|100]]
+The manifestation of pure order. May have a shrine in [[Faltera/Fusilla/The Kingdom of Fusilla#Frostwind\|Frostwind]]. 
 
-The manifestation of pure order. May have a shrine in [[The Kingdom of Fusilla#Frostwind|Frostwind]].

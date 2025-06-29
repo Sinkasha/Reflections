@@ -1,10 +1,7 @@
 ---
-title: God of Unknown Prometheus
-Blurb: God of ???
-Type: Religion
-publish: true
+{"publish":true,"title":"God of Unknown Prometheus","cssclasses":""}
 ---
 
 # God of Unknown Prometheus
 
-[[Goddess of the Water Thetis|Thetis]] mentioned him as her brother.
+[[Religion/Goddess of the Water Thetis\|Thetis]] mentioned him as her brother. 

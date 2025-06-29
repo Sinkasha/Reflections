@@ -1,7 +1,5 @@
 ---
-Date: 0001-01-01
-publish: true
-title: 1 CE - The Kingdom of Fusilla is established across Central Faltera.
+{"publish":true,"title":"1 CE - The Kingdom of Fusilla is established across Central Faltera.","cssclasses":""}
 ---
 
 #events

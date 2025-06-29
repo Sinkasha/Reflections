@@ -39,7 +39,8 @@ Each island is sovereign, however, the Hyritian Alliance is treated internationa
 Every election cycle, the head chair is voted on, and one can be the head chair until they are kicked out of their island chair. Each island operates slightly differently, with different laws and each with their own inquisitor.
 
 ## Places
-
-```dataviewjs
-dv.table(["City", "Blurb"], dv.pages('"Faltera/Hyritia" and -"Faltera/Hyritia/The Hyritian Alliance.md" and -"Faltera/Hyritia/Hyritian Internal Governance.md"').sort(a => a.title).map(a => [a.file.link, a.blurb]))
-```
+|City|Blurb|
+|---|---|
+|[[Faltera/Hyritia/Celestial Peak, Valzelia\|Celestial Peak, Valzelia]]|Capital of Hyritia|
+|[[Faltera/Hyritia/Half Moon Bay, Valzelia\|Half Moon Bay, Valzelia]]|It's a bay|
+|[[Faltera/Hyritia/Port Exhas, Trinity Bay, Valzelia\|Port Exhas, Trinity Bay, Valzelia]]|Home to the Exhas Merchants and Trading Co.|

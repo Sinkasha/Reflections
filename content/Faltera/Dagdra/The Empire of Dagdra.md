@@ -40,6 +40,12 @@ The royal family of Dagdra is still recovering from the [[313 CE - The Assassina
 
 ## Places:
 
-```dataviewjs
-dv.table(["City", "Blurb"], dv.pages('"Faltera/Dagdra" and -"Faltera/Dagdra/The Empire of Dagdra.md" and -"Faltera/Dagdra/Dagdran Internal Governance.md"').sort(a => a.title).map(a => [a.file.link, a.blurb]))
-```
+## Places: 
+|City|Blurb|
+|---|---|
+|[[Faltera/Dagdra/Alvar\|Alvar]]|Capital of Dagdra|
+|[[Faltera/Dagdra/Crescent Grove\|Crescent Grove]]|Place of Yul's Temple|
+|[[Faltera/Dagdra/Halpyr\|Halpyr]]|Home to Halpyr's Adventurers|
+|[[Faltera/Dagdra/Thalanrod\|Thalanrod]]|The Overdark|
+|[[Faltera/Dagdra/Thalum\|Thalum]]|Home to Thalum Mercenary Company|
+|[[Faltera/Dagdra/Windrest\|Windrest]]|Port city|

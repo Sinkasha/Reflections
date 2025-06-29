@@ -1,10 +1,5 @@
 ---
-title:
-Number:
-Date:
-Act: "2"
-gamedate:
-publish: true
+{"publish":true,"cssclasses":""}
 ---
 
 # Title

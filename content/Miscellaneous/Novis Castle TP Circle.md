@@ -6,5 +6,5 @@ publish: true
 
 # Vasara Adventuring Guild Headquarters TP Circle
 
-Teleport circle straight to Novis Castle, given to us by [[Astrid von Novis]].
-![[Novis Castle TP Circle.png|400]]
+Teleport circle straight to Novis Castle, given to us by [[Characters/NPCs/Astrid von Novis]]. 
+![[Images/Novis Castle TP Circle.png|400]]

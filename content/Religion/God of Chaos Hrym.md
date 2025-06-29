@@ -1,14 +1,10 @@
 ---
-title: Hrym
-Blurb: God of Chaos
-Type: Religion
-publish: true
+{"publish":true,"title":"Hrym","cssclasses":""}
 ---
 
 # God of Chaos: Hrym
+*Chaotic Neutral*
 
-_Chaotic Neutral_
+![[Images/God of Chaos Symbol.png|100]]
 
-![[God of Chaos Symbol.png|100]]
-
-The manifestation of pure chaotic instinct. They do not want to step on [[Religion of Faltera#God of Fortune Aurus|Aurus]]'s toes.
+The manifestation of pure chaotic instinct. They do not want to step on [[Religion of Faltera#God of Fortune Aurus\|Aurus]]'s toes. 

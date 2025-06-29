@@ -9,7 +9,7 @@ publish: true
 
 In a pocket space in the multiverse, material plane.
 
-![[Map of Faltera.png]]
+![[Images/Map of Faltera.png]]
 
 ## Countries
 

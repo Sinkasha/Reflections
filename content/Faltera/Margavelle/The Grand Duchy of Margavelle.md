@@ -33,6 +33,8 @@ publish: true
 The Grand Duchy of Margavelle is a smaller nation in Faltera. This nation has comparatively less influence in Faltera when compared to [[The Kingdom of Fusilla|Fusilla]] and [[The Empire of Dagdra|Dagdra]], but that is no reason to take this country lightly.
 
 ## Places
+|City|Blurb|
+|---|---|
 
 ```dataviewjs
 dv.table(["City", "Blurb"], dv.pages('"Faltera/Margavelle" and -"Faltera/Margavelle/The Grand Duchy of Margavelle.md" and -"Faltera/Margavelle/Margavellan Internal Governance.md"').sort(a => a.title).map(a => [a.file.link, a.blurb]))

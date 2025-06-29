@@ -1,7 +1,5 @@
 ---
-Date: 0035-01-01
-publish: true
-title: CE - Migration to the Southwest
+{"publish":true,"title":"CE - Migration to the Southwest","cssclasses":""}
 ---
 
 #events

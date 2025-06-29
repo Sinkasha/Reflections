@@ -1,14 +1,10 @@
 ---
-title: Lucius
-Blurb: God of Greed
-Type: Religion
-publish: true
+{"publish":true,"title":"Lucius","cssclasses":""}
 ---
 
 # God of Greed: Lucius
+*Chaotic Neutral*
 
-_Chaotic Neutral_
-
-![[God of Greed Symbol.png|100]]
+![[Images/God of Greed Symbol.png|100]]
 
 The manifestation of human greed and hubris.

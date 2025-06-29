@@ -7,7 +7,8 @@ publish: true
 
 # Tiefling Dude
 
-Upper Rank of [[The Order of the Fish]]
+A tiefling with purplish blue skin and two slightly hidden horns. He has black markings on his left eye: 
+![[Images/Tiefling Dude's Eye.png|300]]
 
 A tiefling with purplish blue skin and two slightly hidden horns. He has black markings on his left eye:
 ![[Tiefling Dude's Eye.png|300]]

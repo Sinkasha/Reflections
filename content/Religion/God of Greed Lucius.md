@@ -4,8 +4,10 @@ Blurb: God of Greed
 Type: Religion
 publish: true
 ---
+
 # God of Greed: Lucius
-*Chaotic Neutral*
+
+_Chaotic Neutral_
 
 ![[God of Greed Symbol.png|100]]
 

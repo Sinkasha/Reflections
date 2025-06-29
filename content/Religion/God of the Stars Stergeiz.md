@@ -4,8 +4,10 @@ Blurb: God of the Stars
 Type: Religion
 publish: true
 ---
+
 # God of the Stars: Stergeiz
-*Neutral Good*
+
+_Neutral Good_
 
 ![[God of the Stars Symbol.png|100]]
 

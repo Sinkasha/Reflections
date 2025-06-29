@@ -1,17 +1,23 @@
 ---
-title: 
-Number: 
-Date: 
+title:
+Number:
+Date:
 Act: "2"
-gamedate: 
+gamedate:
 publish: true
 ---
+
 # Title
+
 ## Session
+
 ##### TLDR
-- 
-- PCs Involved: 
-	- 
-- Previous session: 
-##### Important Points: 
-### Starting Loc. 
+
+-
+- PCs Involved:
+  -
+- Previous session:
+
+##### Important Points:
+
+### Starting Loc.

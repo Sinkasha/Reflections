@@ -1,8 +1,11 @@
 ---
 publish: true
 ---
+
 # History of Faltera
-## Present Day - Year 347 CE 
+
+## Present Day - Year 347 CE
+
 ```dataviewjs
 dv.table(["Event"], dv.pages("#events").sort(a => a.date).map(a => [a.file.link]))
 ```

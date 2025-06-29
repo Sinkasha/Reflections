@@ -4,8 +4,10 @@ Blurb: God of Life
 Type: Religion
 publish: true
 ---
+
 # God of Life: Yddris
-*Lawful Neutral*
+
+_Lawful Neutral_
 
 ![[God of Life Symbol.png|100]]
 

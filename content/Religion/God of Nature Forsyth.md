@@ -4,8 +4,10 @@ Blurb: God of Nature
 Type: Religion
 publish: true
 ---
+
 # God of Nature: Forsyth
-*Lawful Good*
+
+_Lawful Good_
 
 ![[God of Nature Symbol.png|100]]
 

@@ -4,10 +4,13 @@ Type: Reference
 Blurb: Travel times
 publish: true
 ---
+
 # Travel Times
+
 Note: Distances assumes you are traveling by Horse drawn carriage. A railroad system is currently being built from Everholden to Parli to Ashfall. Long-distance infrastructure is a new innovation in Faltera, and as such, not much infrastructure exists yet! However, it is possible that you will see these innovations during your travels. Assume the travel time is reflexive; i.e. it takes roughly the same time both ways.
 
 ## Land
+
 Parli - Everholden: 3-4 days
 Parli - Ashfall: 4 days
 Parli - Lake Novis: 4 days
@@ -26,11 +29,16 @@ Frostwind (City) - Frostwind Territory (East) - 20 days
 Parli - Southern Geimshall Woods: 7 days
 
 ## Sea
-*Pray to Nautica and you'll be fine.*
+
+_Pray to Nautica and you'll be fine._
+
 #### Domestic
+
 Vasara - Slateport: 2 days
 Vasara - Havenridge Bay: 6 days
+
 #### International
+
 Vasara - Half Moon Bay: 5 days
 Vasara - Trinity Bay: 7 days
 Vasara - Anangham: 5 days

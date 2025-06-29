@@ -5,12 +5,13 @@ Type: Reference
 Blurb: Excalidraw Diagram
 publish: true
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 Cave in at Canonbury, Fusilla ^ELmO7KLW
 
 The Portal ^a7AD6am2
@@ -109,8 +110,8 @@ Nyx ^pzyknYRf
 
 [[Religion of Faltera#God of Life Yddris|Yddris]] ^vX9me6U6
 
-[[Religion of Faltera#God of Death Nyx|Nyx]] 
- ^ZGw7XmzQ
+[[Religion of Faltera#God of Death Nyx|Nyx]]
+^ZGw7XmzQ
 
 May have split into ^tjlaaB8n
 
@@ -155,7 +156,7 @@ God of Consciousness: Azathoth ^NMSuMjFA
 God of Chaos: Hrym ^z236vjHt
 
 [[Religion of Faltera#God of Chaos Hrym|Hrym]]
- ^dipPl93O
+^dipPl93O
 
 Goddess of Honesty: Veritus ^lR5GGuCp
 
@@ -194,10 +195,13 @@ Goddess of Water: Thetis ^aoWLS6iT
 [[Religion of Faltera]] ^w4m0fEXZ
 
 ## Element Links
+
 a7AD6am2: [[03 - 1.13.2023 - The Portal]]
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGAAYEmjoghH0EDihmbgBtcDBQMBKIEm4IfQAlAHU2ZwAtKuYASVwAawAzZgAFADYAKU6YXAAVFtSSyFhECsDsKI5lYMnS
 
@@ -663,4 +667,5 @@ rgEAG6s0agPi1dEn4SAOGgXIGLb8ACXxlACKAAABRFWsLIUwTJOWwNSYAASg1A68DDE/sHWwpABSTuAH
 
 T4SwKm0egBEecC2TOydYRgQycgJjnCAtjEUg84CAAA==
 ```
+
 %%

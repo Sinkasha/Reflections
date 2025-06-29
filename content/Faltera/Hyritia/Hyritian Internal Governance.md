@@ -4,7 +4,9 @@ Blurb: Hyritian Leadership
 Type: Political
 publish: true
 ---
+
 # Hyritian Internal Governance
+
 **Head Chair**
 The Head Chair is simply the leader of the chairs, and can overrule the judgment of the other two. Annually, the people of the Alliance come together to vote on the new Head Chair, whose term will be a single year in the elevated position. A Chair can be Head Chair for as many years as they are voted into the position for.
 

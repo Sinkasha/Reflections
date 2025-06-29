@@ -1,6 +1,7 @@
 ---
 title: <%tp.file.title%>
 Blurb: 
-Type:
+Type: 
+publish: true
 ---
 # <%tp.file.title%>

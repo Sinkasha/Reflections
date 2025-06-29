@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"Margavellan Internal Governance","cssclasses":""}
+title: Margavellan Internal Governance
+Blurb: Margavellan Leadership
+Type: Political
+publish: true
 ---
-
 # Margavellan Internal Governance
 
 **The High Council** consists of the five main lords of the oligarchy. Ultimately, decisions are made by these five during these bimonthly meetings. Position, however, does matter in the end, as not all seats are created equal. 

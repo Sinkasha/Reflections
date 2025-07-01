@@ -3,6 +3,7 @@
 ---
 
 
+
 # The Fish Crystals
 
 Belongs to [[Characters/NPCs/The Order of the Fish]]. There are 7 total in the colors of the rainbow and one white. They are keys to pedestals in [[Faltera/Dagdra/The Empire of Dagdra#Windrest\|Windrest]].

@@ -3,6 +3,7 @@
 ---
 
 
+
 # Assal Artisans Guild
 
 Headmaster: Parrago Alexestria

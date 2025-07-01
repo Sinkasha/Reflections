@@ -3,6 +3,7 @@
 ---
 
 
+
 #events
 
 ## 214 CE - The Subjugation of [[Characters/NPCs/Duessel Sarde]]

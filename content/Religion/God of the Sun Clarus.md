@@ -3,6 +3,7 @@
 ---
 
 
+
 # God of the Sun: Clarus
 *Chaotic Good*
 

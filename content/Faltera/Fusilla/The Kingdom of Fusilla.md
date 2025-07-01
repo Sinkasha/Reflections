@@ -3,6 +3,7 @@
 ---
 
 
+
 # The Kingdom of Fusilla 
 > [!info]+
 > | Type |  Info |

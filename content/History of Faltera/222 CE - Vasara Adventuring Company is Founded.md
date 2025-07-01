@@ -3,6 +3,7 @@
 ---
 
 
+
 #events
 
 ## 222 CE - [[Guilds/Vasara Adventuring Company]] is Founded

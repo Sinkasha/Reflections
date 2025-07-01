@@ -3,6 +3,7 @@
 ---
 
 
+
 # Assal
 
 Home to the [[Guilds/Assal Artisans Guild]].

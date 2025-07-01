@@ -3,6 +3,7 @@
 ---
 
 
+
 ## Sanctum Key
 
 Discovered [[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^f23f3c\|here]]. A copper plated key that's slightly rusted, related to [[Miscellaneous/The Fish Crystals]]. It has a vaguely fish-like pattern on it.

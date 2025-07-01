@@ -3,6 +3,7 @@
 ---
 
 
+
 # Horace Frostdir
 
 [[Characters/NPCs/Astrid von Novis]]'s apprentice

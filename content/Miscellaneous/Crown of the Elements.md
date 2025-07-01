@@ -3,6 +3,7 @@
 ---
 
 
+
 ## Crown of the Elements
 
 Mentioned by [[Characters/NPCs/Hugo Starling]] [[Session Notes - Reflections/18 - 7.10.24 - A Fan-ducking-tastic Reunion#^5dbf5c\|here]].

@@ -3,6 +3,7 @@
 ---
 
 
+
 #events
 
 ## 215 CE - [[Characters/NPCs/The Council of Archmages]] is Formed

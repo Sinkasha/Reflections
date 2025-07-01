@@ -3,6 +3,7 @@
 ---
 
 
+
 # Vasara Adventuring Company
 
 Acting Chair: [[Characters/NPCs/Seliph Orsterra]]

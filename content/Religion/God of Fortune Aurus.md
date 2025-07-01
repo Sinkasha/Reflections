@@ -3,6 +3,7 @@
 ---
 
 
+
 # God of Fortune: Aurus
 *Neutral Good*
 

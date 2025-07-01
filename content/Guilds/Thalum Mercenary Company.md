@@ -3,6 +3,7 @@
 ---
 
 
+
 # Thalum Mercenary Company
 
 Commander: Cassandra Selevir (AKA Silver Selevir, 13-time champion)

@@ -3,6 +3,7 @@
 ---
 
 
+
 # Thalum
 
 Home to [[Guilds/Thalum Mercenary Company]].

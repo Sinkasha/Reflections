@@ -3,6 +3,7 @@
 ---
 
 
+
 # Dagdran Internal Governance
 
 The Emperor, the Legions, and the Ministers have monthly council meetings discussing the state of the Empire. These are not necessarily meant to be policy meetings, although that may happen during these should the need arise.

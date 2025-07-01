@@ -3,6 +3,7 @@
 ---
 
 
+
 # God of Death: Nyarlathotep
 *Depreciated God of Death*
 Nyarlathotep is the ancient god of death, controlling passage into the astral plane. Most of Nyarlathotep's worshippers were in modern day [[Faltera/Odema/The Holy State of Odema]] and the Beryth territory in [[Faltera/Dagdra/The Empire of Dagdra]]. Nyarlathotep is in the Far Realms, and sent an avatar to the Material Plane, who would've been a willing worshipper of them. 

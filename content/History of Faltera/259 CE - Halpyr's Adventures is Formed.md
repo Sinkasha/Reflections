@@ -3,6 +3,7 @@
 ---
 
 
+
 #events
 
 ## 259 CE - [[Guilds/Halpyr’s Adventurers]] is Formed

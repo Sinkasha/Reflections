@@ -3,6 +3,7 @@
 ---
 
 
+
 # Everholden
 
 North of Parli. Hugo got the orange [[Miscellaneous/The Fish Crystals\|fish crystal]] here.

@@ -3,6 +3,7 @@
 ---
 
 
+
 # Hugo Starling
 
 [[Characters/NPCs/Horace Frostdir]]'s Apprentice

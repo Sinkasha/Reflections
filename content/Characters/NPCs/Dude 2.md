@@ -3,6 +3,7 @@
 ---
 
 
+
 # Dude 2
 
 [[Characters/NPCs/Hugo Starling]] stole an orange [[Miscellaneous/The Fish Crystals\|fish]] from him. He has black markings on his right eye: 

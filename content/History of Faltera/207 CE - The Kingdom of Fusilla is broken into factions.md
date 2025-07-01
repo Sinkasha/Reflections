@@ -3,6 +3,7 @@
 ---
 
 
+
 #events
 
 ## 207 CE - [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]] is broken into factions

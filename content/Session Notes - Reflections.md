@@ -3,6 +3,7 @@
 ---
 
 
+
 # Session Notes
 
 |Session|Name|In-Game Date|Date|

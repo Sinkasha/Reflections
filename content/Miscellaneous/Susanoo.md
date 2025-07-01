@@ -3,6 +3,7 @@
 ---
 
 
+
 # Susanoo
 
 The white fan has powers of storms imbued into it. Legend has it, [[Religion of Faltera#God of the Ocean Nautica\|Nautica]] used this fan to create a torrential storm that let to fertile soil. This fan has the appearance of a white and gray storm cloud, and is sharp at the points. Its unattuned state is a marble-esque white fan.

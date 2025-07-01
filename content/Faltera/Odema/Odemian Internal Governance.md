@@ -3,6 +3,7 @@
 ---
 
 
+
 # Odemian Internal Governance
 
 **Hierophant**:

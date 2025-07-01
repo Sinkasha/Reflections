@@ -3,6 +3,7 @@
 ---
 
 
+
 ## Aqua's Teardrop
 
 Discovered [[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss#^023a86\|here]]. It turns the royal castle of [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]] into a flying castle.

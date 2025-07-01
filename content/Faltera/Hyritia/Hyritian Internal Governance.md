@@ -3,6 +3,7 @@
 ---
 
 
+
 # Hyritian Internal Governance
 
 **Head Chair**

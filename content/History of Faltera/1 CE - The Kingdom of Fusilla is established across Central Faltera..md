@@ -3,6 +3,7 @@
 ---
 
 
+
 #events
 
 ## 1 CE - [[Faltera/Fusilla/The Kingdom of Fusilla]] is established across Central Faltera.

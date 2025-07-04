@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Astrid von Novis","cssclasses":""}
+{"publish":true,"title":"Astrid von Novis","modified":"2025-06-29T13:46:48.872-07:00","cssclasses":""}
 ---
 
 
@@ -18,4 +18,4 @@ She placed a shard of [[Miscellaneous/The Mirror of Enveloping Darkness]] inside
 
 She is the highest ranking member of the [[Guilds/Vasara Adventuring Company]].
 
-She believes that she can take on Hades, [[Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep]]'s 3rd vow.
+She believes that she can take on Hades, [[Religion/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep]]'s 3rd vow.

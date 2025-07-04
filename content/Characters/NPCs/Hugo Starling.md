@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hugo Starling","cssclasses":""}
+{"publish":true,"title":"Hugo Starling","modified":"2025-06-29T13:46:48.879-07:00","cssclasses":""}
 ---
 
 

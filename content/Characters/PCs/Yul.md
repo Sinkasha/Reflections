@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Yul","cssclasses":""}
+{"publish":true,"title":"Yul","modified":"2025-06-29T13:46:48.891-07:00","cssclasses":""}
 ---
 
 
@@ -11,7 +11,7 @@ Rachel's Tiefling Cleric, AKA Banana
 A banana.
 Freed by [[Characters/PCs/Nim]] at [[Faltera/Dagdra/The Empire of Dagdra#Crescent Grove\|Crescent Grove]]. Originally sealed by [[Characters/NPCs/The Council of Archmages]].
 
-She gains her powers from [[Religion of Faltera#God of Life Yddris\|Yddris]]. Apparently her blood is poisonous.
+She gains her powers from [[Religion/Religion of Faltera#God of Life Yddris\|Yddris]]. Apparently her blood is poisonous.
 
 According to [[Characters/NPCs/Count Canonbury]], Yul was sealed in the ruins and is possibly a cursed blood puppet ([[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^45371e\|here]]). Her blood is poisonous
 

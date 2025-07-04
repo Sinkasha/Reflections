@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Fish Crystals","cssclasses":""}
+{"publish":true,"title":"The Fish Crystals","modified":"2025-06-29T13:46:48.946-07:00","cssclasses":""}
 ---
 
 
@@ -22,4 +22,4 @@ A blue fish was found with [[Characters/NPCs/Mikhail]], whom the party killed an
 
 A purple and white fish was found in the dungeon in [[Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS]]. It was in a chest that was unlocked with the [[Miscellaneous/Sanctum Key]] accessible via elevator.
 
-The 7 fish crystals unlocked a room with a shrine of a very fish like humanoid holding a trident, made of white marble with a golden inscription stating it is a god of [[Religion of Faltera#God of the Ocean Nautica\|Nautica]]. The statue accepted one of the swirly portal orbs as an offering. After a 10 minute ritual, it turned into [[Miscellaneous/Susanoo]] and [[Miscellaneous/Watatsumi]], a legendary pair of ocean serpent fans.
+The 7 fish crystals unlocked a room with a shrine of a very fish like humanoid holding a trident, made of white marble with a golden inscription stating it is a god of [[Religion/Religion of Faltera#God of the Ocean Nautica\|Nautica]]. The statue accepted one of the swirly portal orbs as an offering. After a 10 minute ritual, it turned into [[Miscellaneous/Susanoo]] and [[Miscellaneous/Watatsumi]], a legendary pair of ocean serpent fans.

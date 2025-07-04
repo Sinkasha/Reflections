@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Brecht Performer's Union","cssclasses":""}
+{"publish":true,"title":"Brecht Performer's Union","modified":"2025-06-29T13:46:48.915-07:00","cssclasses":""}
 ---
 
 

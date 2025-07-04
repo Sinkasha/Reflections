@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ellery Woddlespin","cssclasses":""}
+{"publish":true,"title":"Ellery Woddlespin","modified":"2025-06-29T13:46:48.876-07:00","cssclasses":""}
 ---
 
 

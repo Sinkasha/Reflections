@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Flowchart","cssclasses":""}
+{"publish":true,"title":"Flowchart","modified":"2025-06-29T13:46:48.893-07:00","cssclasses":""}
 ---
 
 
@@ -66,7 +66,7 @@ Causes creation of ^wU76kfaq
 
 God of Death: Nyarlathotep ^gjLafNOW
 
-[[Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep]] ^1A1rBK2u
+[[Religion/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep]] ^1A1rBK2u
 
 Possessed ^QEdRdtBR
 
@@ -80,7 +80,7 @@ Sealed ^Qywq5Sh0
 
 God of Life: Genesis ^oRey2szh
 
-[[Religion of Faltera#God of Life: Unnamed\|God of Life]] ^EQeLvaF1
+[[Religion/Religion of Faltera#God of Life: Unnamed\|God of Life]] ^EQeLvaF1
 
 Fought ^99uq3h7j
 
@@ -106,9 +106,9 @@ Yddris ^TJLqXEmj
 
 Nyx ^pzyknYRf
 
-[[Religion of Faltera#God of Life Yddris\|Yddris]] ^vX9me6U6
+[[Religion/Religion of Faltera#God of Life Yddris\|Yddris]] ^vX9me6U6
 
-[[Religion of Faltera#God of Death Nyx\|Nyx]]
+[[Religion/Religion of Faltera#God of Death Nyx\|Nyx]]
 ^ZGw7XmzQ
 
 May have split into ^tjlaaB8n
@@ -135,7 +135,7 @@ Freed ^kTBueAKr
 
 God of the Ocean: Nautica ^moBLQOKJ
 
-[[Religion of Faltera#God of the Ocean Nautica\|Nautica]] ^UUVgc92r
+[[Religion/Religion of Faltera#God of the Ocean Nautica\|Nautica]] ^UUVgc92r
 
 Hides shrine to ^dEpi5e6c
 
@@ -149,11 +149,11 @@ Helped kill ^2VNQscX1
 
 God of Consciousness: Azathoth ^NMSuMjFA
 
-[[Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] ^SUfnRmSf
+[[Religion/Religion of Faltera#God of Consciousness Azathoth\|Azathoth]] ^SUfnRmSf
 
 God of Chaos: Hrym ^z236vjHt
 
-[[Religion of Faltera#God of Chaos Hrym\|Hrym]]
+[[Religion/Religion of Faltera#God of Chaos Hrym\|Hrym]]
 ^dipPl93O
 
 Goddess of Honesty: Veritus ^lR5GGuCp
@@ -186,11 +186,11 @@ The Crown of the Elements ^jL2Oj5Pt
 
 Helped make ^a8LlchOW
 
-[[Religion of Faltera#Goddess of Honesty Vertius\|Vertius]] ^kVyFTCDw
+[[Religion/Religion of Faltera#Goddess of Honesty Vertius\|Vertius]] ^kVyFTCDw
 
 Goddess of Water: Thetis ^aoWLS6iT
 
-[[Religion of Faltera]] ^w4m0fEXZ
+[[Religion/Religion of Faltera]] ^w4m0fEXZ
 
 ## Element Links
 

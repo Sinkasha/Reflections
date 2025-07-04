@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Thalum Mercenary Company","cssclasses":""}
+{"publish":true,"title":"Thalum Mercenary Company","modified":"2025-06-29T13:46:48.918-07:00","cssclasses":""}
 ---
 
 

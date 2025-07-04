@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Assal Artisans Guild","cssclasses":""}
+{"publish":true,"title":"Assal Artisans Guild","modified":"2025-06-29T13:46:48.915-07:00","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Dagdran Internal Governance","cssclasses":""}
+{"publish":true,"title":"Dagdran Internal Governance","modified":"2025-06-29T13:46:48.895-07:00","cssclasses":""}
 ---
 
 
@@ -16,7 +16,7 @@ The Emperor, the Legions, and the Ministers have monthly council meetings discus
 
 **The Minister of Domestic Affairs** is in charge of proposing laws and maintaining internal peace and prosperity. They usually stick to their demesne and the capital city, and deal with keeping order through domestic policy.
 
-**The Minister of Religion** is in charge of maintaining the Church and the teachings of the gods. The gods of highest regard are the God of War, the [[Religion of Faltera#God of the Sun Clarus\|God of the Sun]], the God of the Forge, and the God of Truth. There is little religious discrimination, however the Minister of Religion generally keeps the teachings standardized. This is the least influential position among the ministers as religion is comparatively not as important in the Empire.
+**The Minister of Religion** is in charge of maintaining the Church and the teachings of the gods. The gods of highest regard are the God of War, the [[Religion/Religion of Faltera#God of the Sun Clarus\|God of the Sun]], the God of the Forge, and the God of Truth. There is little religious discrimination, however the Minister of Religion generally keeps the teachings standardized. This is the least influential position among the ministers as religion is comparatively not as important in the Empire.
 
 **The Minister of Medicine** …
 

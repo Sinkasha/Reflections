@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Fusillan Internal Governance","cssclasses":""}
+{"publish":true,"title":"Fusillan Internal Governance","modified":"2025-06-29T13:46:48.902-07:00","cssclasses":""}
 ---
 
 

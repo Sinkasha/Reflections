@@ -1,29 +1,68 @@
 ---
-{"publish":true,"title":"Session Notes","cssclasses":""}
+{"publish":true,"title":"Session Notes","modified":"2025-07-02T20:04:34.302-07:00","cssclasses":""}
 ---
 
-
-
-# Session Notes
+## Act 0
 
 |Session|Name|In-Game Date|Date|
 |---|---|---|---|
-|1|[[Session Notes - Reflections/01 - 10.21.2022 - Night Market\|Night Market]]|March 31, 0347|October 21, 2022|
-|2|[[Session Notes - Reflections/02 - 11.6.2022 - Investigating the Cave In\|Investigating the Cave In]]|April 01, 0347|November 06, 2022|
-|3|[[Session Notes - Reflections/03 - 1.13.2023 - The Portal\|The Portal]]|April 01, 0347|January 13, 2023|
-|4|[[Session Notes - Reflections/04 - 2.17.2023 - Personal Trials\|Personal Trials]]|April 01, 0347|February 17, 2023|
-|5|[[Session Notes - Reflections/05 - 1.18.2024 - Canonbury Manor Heist\|Canonbury Manor Heist]]|April 03, 0347|January 18, 2024|
-|6|[[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls\|The Count's Balls]]|April 03, 0347|January 25, 2024|
-|7|[[Session Notes - Reflections/07 - 2.6.2024 - The Count Dies, Goodbye Bugbear, Hello Sarah\|The Count Dies, Goodbye Bugbear, Hello Sarah]]|April 03, 0347|February 06, 2024|
-|8|[[Session Notes - Reflections/08 - 2.29.2024 - A Journey of Self-Discovery \(for half the table\|A Journey of Self-Discovery (for half the table)]])|April 07, 0347|February 29, 2024|
-|9|[[Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions\|The Consequences of Our Actions]]|April 08, 0347|April 04, 2024|
-|10|[[Session Notes - Reflections/10 - 04.11.2024 - God\|God]]|April 08, 0347|April 11, 2024|
-|11|[[Session Notes - Reflections/11 - 04.18.2024 - Glorp and Garlic Bread\|Glorp and Garlic Bread]]|April 11, 0347|April 18, 2024|
-|12|[[Session Notes - Reflections/12 - 04.25.2024 - A Journey of Self-Discovery Part 2\|A Journey of Self-Discovery Part 2]]|April 11, 0347|April 25, 2024|
-|13|[[Session Notes - Reflections/13 - 5.02.2024 - Weed Patty\|Weed Patty]]|April 12, 0347|May 02, 2024|
-|14|[[Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS\|FISH CRYSTALS]]|April 12, 0347|May 23, 2024|
-|15|[[Session Notes - Reflections/15 - 5.30.2024 - The Vault Part 1\|The Vault Part 1]]|April 12, 0347|May 30, 2024|
-|16|[[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss\|The Big Boss]]|April 12, 0347|June 07, 2024|
+|0|[](Session Notes - Reflections/02 - 11.6.2022 - Investigating the Cave In)|-|-|
+|0|[](Session Notes - Reflections/04 - 2.17.2023 - Personal Trials)|-|-|
+|0|[](Session Notes - Reflections/03 - 1.13.2023 - The Portal)|-|-|
+|0|[](Session Notes - Reflections/05 - 1.18.2024 - Canonbury Manor Heist)|-|-|
+|0|[](Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls)|-|-|
+|0|[](Session Notes - Reflections/07 - 2.6.2024 - The Count Dies, Goodbye Bugbear, Hello Sarah)|-|-|
+|0|[](Session Notes - Reflections/08 - 2.29.2024 - A Journey of Self-Discovery \(for half the table\))|-|-|
+|0|[](Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions)|-|-|
+|0|[](Session Notes - Reflections/10 - 04.11.2024 - God)|-|-|
+|0|[](Session Notes - Reflections/11 - 04.18.2024 - Glorp and Garlic Bread)|-|-|
+|0|[](Session Notes - Reflections/13 - 5.02.2024 - Weed Patty)|-|-|
+|0|[](Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS)|-|-|
+|0|[](Session Notes - Reflections/12 - 04.25.2024 - A Journey of Self-Discovery Part 2)|-|-|
+|0|[](Session Notes - Reflections/15 - 5.30.2024 - The Vault Part 1)|-|-|
+|0|[](Session Notes - Reflections/16 - 06.07.2024 - The Big Boss)|-|-|
+|0|[](Session Notes - Reflections/18 - 7.10.24 - A Fan-ducking-tastic Reunion)|-|-|
+|0|[](Session Notes - Reflections/17 - 07.03.2024 - The Aftermath)|-|-|
+|0|[](Session Notes - Reflections/19 - 7.31.2024 - Travelling to Everholden)|-|-|
+|0|[](Session Notes - Reflections/20 - 8.7.2024 - Chat is this real)|-|-|
+|0|[](Session Notes - Reflections/22 - 11.05.2024 - Mined the Lapis Lazuli)|-|-|
+|0|[](Session Notes - Reflections/21 - 8.22.2024 - Killed a Fake Dragon)|-|-|
+|0|[](Session Notes - Reflections/23 - 11.13.2024 - Yul Fucks Around)|-|-|
+|0|[](Session Notes - Reflections/25 - 02.06.2025 - Shipwrecked)|-|-|
+|0|[](Session Notes - Reflections/24 - 02.01.2025 - Yul Finds Out)|-|-|
+|0|[](Session Notes - Reflections/26 - 04.01.2025 - 水)|-|-|
+|0|[](Session Notes - Reflections/29 - 05.19.2025 - Oh no we murdered someone!)|-|-|
+|0|[](Session Notes - Reflections/28 - 05.12.2025 - God Damn It, Gaybriel Part 2)|-|-|
+|0|[](Session Notes - Reflections/27 - 04.23.2025 - God Damn It, Gaybriel)|-|-|
+|0|[](Session Notes - Reflections/30 - 05.28.2025 - Tabitha's Terrible Trolling)|-|-|
+|0|[](Session Notes - Reflections/31 - 07.02.2025 - )|-|-|
+
+## Act 1
+
+|Session|Name|In-Game Date|Date|
+|---|---|---|---|
+|1|[](Session Notes - Reflections/01 - 10.21.2022 - Night Market)|-|-|
+
+# Session Notes
+
+| Session | Name                                                                                                                                                 | In-Game Date   | Date              |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------------- |
+| 1       | [[Session Notes - Reflections/01 - 10.21.2022 - Night Market\|Night Market]]                                                                         | March 31, 0347 | October 21, 2022  |
+| 2       | [[Session Notes - Reflections/02 - 11.6.2022 - Investigating the Cave In\|Investigating the Cave In]]                                                | April 01, 0347 | November 06, 2022 |
+| 3       | [[Session Notes - Reflections/03 - 1.13.2023 - The Portal\|The Portal]]                                                                              | April 01, 0347 | January 13, 2023  |
+| 4       | [[Session Notes - Reflections/04 - 2.17.2023 - Personal Trials\|Personal Trials]]                                                                    | April 01, 0347 | February 17, 2023 |
+| 5       | [[Session Notes - Reflections/05 - 1.18.2024 - Canonbury Manor Heist\|Canonbury Manor Heist]]                                                        | April 03, 0347 | January 18, 2024  |
+| 6       | [[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls\|The Count's Balls]]                                                                | April 03, 0347 | January 25, 2024  |
+| 7       | [[Session Notes - Reflections/07 - 2.6.2024 - The Count Dies, Goodbye Bugbear, Hello Sarah\|The Count Dies, Goodbye Bugbear, Hello Sarah]]           | April 03, 0347 | February 06, 2024 |
+| 8       | [[Session Notes - Reflections/08 - 2.29.2024 - A Journey of Self-Discovery \(for half the table\|A Journey of Self-Discovery (for half the table)]]) | April 07, 0347 | February 29, 2024 |
+| 9       | [[Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions\|The Consequences of Our Actions]]                                    | April 08, 0347 | April 04, 2024    |
+| 10      | [[Session Notes - Reflections/10 - 04.11.2024 - God\|God]]                                                                                           | April 08, 0347 | April 11, 2024    |
+| 11      | [[Session Notes - Reflections/11 - 04.18.2024 - Glorp and Garlic Bread\|Glorp and Garlic Bread]]                                                     | April 11, 0347 | April 18, 2024    |
+| 12      | [[Session Notes - Reflections/12 - 04.25.2024 - A Journey of Self-Discovery Part 2\|A Journey of Self-Discovery Part 2]]                             | April 11, 0347 | April 25, 2024    |
+| 13      | [[Session Notes - Reflections/13 - 5.02.2024 - Weed Patty\|Weed Patty]]                                                                              | April 12, 0347 | May 02, 2024      |
+| 14      | [[Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS\|FISH CRYSTALS]]                                                                        | April 12, 0347 | May 23, 2024      |
+| 15      | [[Session Notes - Reflections/15 - 5.30.2024 - The Vault Part 1\|The Vault Part 1]]                                                                  | April 12, 0347 | May 30, 2024      |
+| 16      | [[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss\|The Big Boss]]                                                                         | April 12, 0347 | June 07, 2024     |
 
 ## Act 2
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Council of Archmages","cssclasses":""}
+{"publish":true,"title":"The Council of Archmages","modified":"2025-06-29T13:46:48.884-07:00","cssclasses":""}
 ---
 
 

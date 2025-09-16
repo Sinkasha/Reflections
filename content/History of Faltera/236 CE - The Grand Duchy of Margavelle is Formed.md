@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"236 CE","modified":"2025-07-04T15:41:31.454-07:00","cssclasses":""}
+{"publish":true,"title":"236 CE","modified":"2025-07-12T14:18:56.678-07:00","cssclasses":""}
 ---
 
 # 236 CE - [[Faltera/Margavelle/The Grand Duchy of Margavelle]] is Formed

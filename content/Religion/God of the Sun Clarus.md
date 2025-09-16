@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Clarus","modified":"2025-06-29T13:46:48.956-07:00","cssclasses":""}
+{"publish":true,"title":"Clarus","modified":"2025-07-13T17:11:13.837-07:00","cssclasses":""}
 ---
-
-
 
 # God of the Sun: Clarus
 *Chaotic Good*

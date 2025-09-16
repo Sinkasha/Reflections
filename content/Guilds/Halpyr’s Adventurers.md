@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Halpyr's Adventurers","modified":"2025-06-29T13:46:48.918-07:00","cssclasses":""}
+{"publish":true,"title":"Halpyr's Adventurers","modified":"2025-07-12T14:25:13.611-07:00","cssclasses":""}
 ---
 
 

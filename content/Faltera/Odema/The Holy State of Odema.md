@@ -1,12 +1,10 @@
 ---
-{"publish":true,"title":"The Holy State of Odema","modified":"2025-06-29T13:46:48.914-07:00","cssclasses":""}
+{"publish":true,"title":"The Holy State of Odema","modified":"2025-07-13T17:08:44.783-07:00","cssclasses":""}
 ---
-
-
 
 # The Holy State of Odema
 
-> [!infobox | n-th right]
+> [!info]+
 >
 > ##### Information
 >
@@ -28,9 +26,9 @@
 
 The Holy State of Odema is a wealthy country which exports gold, most of which is used in currency around Faltera. Odema has a longstanding positive relationship with [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]], even from the early days of the revolution. As a result, [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]] sees Odema as an overly-religious thorn in Faltera’s side, however the leverage Odema has over gold could destroy economies worldwide, so nations are forced to play nice.
 
-Currently people of the Holy State of Odema primarily worship the gods of [[Religion/Religion of Faltera#God of the Sun Clarus\|Sun]], [[Religion/Religion of Faltera#God of Fortune Aurus\|Fortune]], and [[Religion/Religion of Faltera#God of Order Lucht\|Order]].
+Currently people of the Holy State of Odema primarily worship the gods of [[Religion/God of the Sun Clarus\|Sun]], [[Religion/God of Fortune Aurus\|Fortune]], and [[Religion/God of Order Lucht\|Order]].
 
 ## Places
-|City|Blurb|
+|Place|Blurb|
 |---|---|
-|[[Faltera/Odema/Tango d'Oro\|Tango d'Oro]]|Capital of Odema|
+|[[Faltera/Odema/Tango d'Oro\|Tango d'Oro, Odema]]|The capital of Odema|

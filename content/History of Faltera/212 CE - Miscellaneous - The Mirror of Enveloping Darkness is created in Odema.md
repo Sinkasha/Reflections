@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"212 CE","modified":"2025-07-04T15:33:37.977-07:00","cssclasses":""}
+{"publish":true,"title":"212 CE","modified":"2025-07-12T14:18:11.802-07:00","cssclasses":""}
 ---
 
 # 212 CE - [[Miscellaneous/The Mirror of Enveloping Darkness]] is created in [[Faltera/Odema/The Holy State of Odema\|Odema]]

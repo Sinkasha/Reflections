@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Derrick Fiskov","modified":"2025-06-29T13:46:48.874-07:00","cssclasses":""}
+{"publish":true,"title":"Derrick Fiskov","modified":"2025-07-12T19:19:47.309-07:00","cssclasses":""}
 ---
-
-
 
 # Derrick Fiskov
 
@@ -12,4 +10,4 @@ Currently traveling with the party after they cure him of his curse.
 
 His cousin is [[Characters/NPCs/Melina Fiskov]]. He has a sister, [[Characters/NPCs/Fae Fiskov]], who was originally entrusted with the [[Miscellaneous/Silver Key with Fusillan Flag\|silver key]].
 
-Derrick and his sister Fae used to live together in [[Faltera/Fusilla/The Kingdom of Fusilla#Parli\|Parli]], working as blacksmiths. Derrick ran the shop. However, after the Fusillan government stopped wanting to ship weapons, Derrick left and moved to [[Faltera/Fusilla/The Kingdom of Fusilla#Ashfall\|Ashfall]] while Fae stayed behind.
+Derrick and his sister Fae used to live together in [[Faltera/Fusilla/Parli]], working as blacksmiths. Derrick ran the shop. However, after the Fusillan government stopped wanting to ship weapons, Derrick left and moved to [[Faltera/Fusilla/Ashfall]] while Fae stayed behind.

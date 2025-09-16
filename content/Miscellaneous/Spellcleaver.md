@@ -1,10 +1,8 @@
 ---
-{"publish":true,"title":"Spellcleaver","modified":"2025-06-29T13:46:48.943-07:00","cssclasses":""}
+{"publish":true,"title":"Spellcleaver","modified":"2025-07-19T02:37:04.174-07:00","cssclasses":""}
 ---
 
-
-
-## Spellcleaver
+# Spellcleaver
 
 A mystical blade forged by [[Characters/NPCs/Ellery Woddlespin]] as a research and development project while prototyping Dynamo. It has two forms: Sheathed and Unsheathed.
 

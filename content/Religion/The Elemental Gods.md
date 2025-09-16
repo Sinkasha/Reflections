@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"The Elemental Gods","modified":"2025-06-29T13:46:48.958-07:00","cssclasses":""}
+{"publish":true,"title":"The Elemental Gods","modified":"2025-07-13T17:11:46.556-07:00","cssclasses":""}
 ---
-
-
 
 # The Elemental Gods
 

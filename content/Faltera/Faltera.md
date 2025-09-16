@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Faltera","modified":"2025-06-29T13:46:48.898-07:00","cssclasses":""}
+{"publish":true,"title":"Faltera","modified":"2025-07-19T02:43:07.458-07:00","cssclasses":""}
 ---
-
 
 
 # Faltera

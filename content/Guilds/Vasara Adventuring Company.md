@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Vasara Adventuring Company","modified":"2025-06-29T13:46:48.920-07:00","cssclasses":""}
+{"publish":true,"title":"Vasara Adventuring Company","modified":"2025-07-12T14:26:07.492-07:00","cssclasses":""}
 ---
 
 
@@ -18,5 +18,4 @@ It was founded by Roland Vasara, in honor of his elder brother [[Characters/PCs/
 - [[Characters/PCs/Bloo]]
 - [[Characters/PCs/Sarah]]
 - [[Characters/PCs/Nim]]
-- [[Characters/PCs/Yul]]
--
+- [[Characters/PCs/Yul]] 

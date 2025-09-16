@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Aeros","modified":"2025-06-29T13:46:48.955-07:00","cssclasses":""}
+{"publish":true,"title":"Aeros","modified":"2025-07-13T17:10:00.626-07:00","cssclasses":""}
 ---
-
-
 
 # God of the Sky: Aeros
 *Chaotic Neutral*

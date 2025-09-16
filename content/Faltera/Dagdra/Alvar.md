@@ -1,11 +1,7 @@
 ---
-{"publish":true,"title":"Alvar","modified":"2025-06-29T13:46:48.894-07:00","cssclasses":""}
+{"publish":true,"title":"Alvar, Dagdra","modified":"2025-07-13T16:45:40.954-07:00","cssclasses":""}
 ---
-
-
 
 # Alvar
 
-_The Capital of Dagdra_
-
-Alvar is forested with very large mountains, rivers in the back, and dense forests surrounding it.
+The capital of [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]], Alvar is forested with very large mountains, rivers in the back, and dense forests surrounding it.

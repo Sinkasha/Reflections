@@ -1,14 +1,12 @@
 ---
-{"publish":true,"title":"Fiskov Family","modified":"2025-06-29T13:46:48.877-07:00","cssclasses":""}
+{"publish":true,"title":"Fiskov Family","modified":"2025-07-12T19:23:56.736-07:00","cssclasses":""}
 ---
-
-
 
 # Fiskov Family
 
 A family of elves.
 
-An important family who was entrusted with an [[Miscellaneous/Silver Key with Fusillan Flag\|important key]] which is one of two keys required to open a vault in [[Faltera/Fusilla/The Kingdom of Fusilla#Parli\|Parli]].
+An important family who was entrusted with an [[Miscellaneous/Silver Key with Fusillan Flag\|important key]] which is one of two keys required to open a vault in [[Faltera/Fusilla/Parli]].
 
 ##### Known Members:
 

@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Celestial Peak, Valzelia","modified":"2025-06-29T13:46:48.908-07:00","cssclasses":""}
+{"publish":true,"title":"Celestial Peak, Valzelia, Hyritia","modified":"2025-07-13T16:58:07.573-07:00","cssclasses":""}
 ---
-
-
 
 # Celestial Peak, Valzelia
 

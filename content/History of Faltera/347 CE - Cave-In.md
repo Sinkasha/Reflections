@@ -1,12 +1,8 @@
 ---
-{"publish":true,"modified":"2025-07-04T15:28:40.022-07:00","cssclasses":""}
+{"publish":true,"title":"347 CE","modified":"2025-07-12T14:19:51.867-07:00","cssclasses":""}
 ---
 
-
-
-#events
-
-## 347 CE - Cave-In
+# 347 CE - Cave-In
 
 From [[Session Notes - Reflections/02 - 11.6.2022 - Investigating the Cave In]]. The party meets each other and investigates the cave-in and saves all the people trapped within.
 

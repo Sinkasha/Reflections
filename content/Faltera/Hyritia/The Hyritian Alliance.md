@@ -1,12 +1,10 @@
 ---
-{"publish":true,"title":"The Hyritian Alliance","modified":"2025-06-29T13:46:48.911-07:00","cssclasses":""}
+{"publish":true,"title":"The Hyritian Alliance","modified":"2025-07-13T17:08:53.189-07:00","cssclasses":""}
 ---
-
-
 
 # The Hyritian Alliance
 
-> [!infobox | n-th right]
+> [!info]+
 >
 > ##### Information
 >
@@ -38,8 +36,8 @@ Each island is sovereign, however, the Hyritian Alliance is treated internationa
 Every election cycle, the head chair is voted on, and one can be the head chair until they are kicked out of their island chair. Each island operates slightly differently, with different laws and each with their own inquisitor.
 
 ## Places
-|City|Blurb|
+|Place|Blurb|
 |---|---|
-|[[Faltera/Hyritia/Celestial Peak, Valzelia\|Celestial Peak, Valzelia]]|Capital of Hyritia|
-|[[Faltera/Hyritia/Half Moon Bay, Valzelia\|Half Moon Bay, Valzelia]]|It's a bay|
-|[[Faltera/Hyritia/Port Exhas, Trinity Bay, Valzelia\|Port Exhas, Trinity Bay, Valzelia]]|Home to the Exhas Merchants and Trading Co.|
+|[[Faltera/Hyritia/Celestial Peak, Valzelia\|Celestial Peak, Valzelia, Hyritia]]|-|
+|[[Faltera/Hyritia/Half Moon Bay, Valzelia\|Half Moon Bay, Valzelia, Hyritia]]|-|
+|[[Faltera/Hyritia/Port Exhas, Trinity Bay, Valzelia\|Port Exhas, Trinity Bay, Valzelia, Hyritia]]|Home to the Exhas Merchants and Trading Co.|

@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Nyarlathotep","modified":"2025-06-29T13:46:48.950-07:00","cssclasses":""}
+{"publish":true,"title":"Nyarlathotep","modified":"2025-07-13T17:10:17.203-07:00","cssclasses":""}
 ---
-
-
 
 # God of Death: Nyarlathotep
 *Depreciated God of Death*

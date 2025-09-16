@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Hugo Starling","modified":"2025-06-29T13:46:48.879-07:00","cssclasses":""}
+{"publish":true,"title":"Hugo Starling","modified":"2025-07-12T19:26:20.605-07:00","cssclasses":""}
 ---
-
-
 
 # Hugo Starling
 

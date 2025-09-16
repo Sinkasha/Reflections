@@ -1,10 +1,8 @@
 ---
-{"publish":true,"title":"Watatsumi","modified":"2025-06-29T13:46:48.948-07:00","cssclasses":""}
+{"publish":true,"title":"Watatsumi","modified":"2025-07-19T02:41:55.291-07:00","cssclasses":""}
 ---
 
-
-
-## Watatsumi
+# Watatsumi
 
 The blue fan has powers of the water, giving this fan a suspended liquid shape until you change it. You have the ability to freeze and unfreeze the water to the shape of the fan itself. This cannot extend the range of this weapon to reach, however. Its unattuned state is a deep blue, crystal-esque fan.
 

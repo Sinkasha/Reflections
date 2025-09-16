@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Assal Artisans Guild","modified":"2025-06-29T13:46:48.915-07:00","cssclasses":""}
+{"publish":true,"title":"Assal Artisans Guild","modified":"2025-07-12T14:24:03.762-07:00","cssclasses":""}
 ---
-
-
 
 # Assal Artisans Guild
 

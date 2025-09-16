@@ -7,35 +7,35 @@
 |Session|Name|In-Game Date|Date|
 |---|---|---|---|
 |0|[](Session Notes - Reflections/02 - 11.6.2022 - Investigating the Cave In)|-|-|
-|0|[](Session Notes - Reflections/04 - 2.17.2023 - Personal Trials)|-|-|
 |0|[](Session Notes - Reflections/03 - 1.13.2023 - The Portal)|-|-|
+|0|[](Session Notes - Reflections/04 - 2.17.2023 - Personal Trials)|-|-|
 |0|[](Session Notes - Reflections/05 - 1.18.2024 - Canonbury Manor Heist)|-|-|
 |0|[](Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls)|-|-|
 |0|[](Session Notes - Reflections/07 - 2.6.2024 - The Count Dies, Goodbye Bugbear, Hello Sarah)|-|-|
 |0|[](Session Notes - Reflections/08 - 2.29.2024 - A Journey of Self-Discovery \(for half the table\))|-|-|
-|0|[](Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions)|-|-|
 |0|[](Session Notes - Reflections/10 - 04.11.2024 - God)|-|-|
+|0|[](Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions)|-|-|
 |0|[](Session Notes - Reflections/11 - 04.18.2024 - Glorp and Garlic Bread)|-|-|
-|0|[](Session Notes - Reflections/13 - 5.02.2024 - Weed Patty)|-|-|
 |0|[](Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS)|-|-|
-|0|[](Session Notes - Reflections/12 - 04.25.2024 - A Journey of Self-Discovery Part 2)|-|-|
 |0|[](Session Notes - Reflections/15 - 5.30.2024 - The Vault Part 1)|-|-|
+|0|[](Session Notes - Reflections/13 - 5.02.2024 - Weed Patty)|-|-|
+|0|[](Session Notes - Reflections/12 - 04.25.2024 - A Journey of Self-Discovery Part 2)|-|-|
+|0|[](Session Notes - Reflections/17 - 07.03.2024 - The Aftermath)|-|-|
 |0|[](Session Notes - Reflections/16 - 06.07.2024 - The Big Boss)|-|-|
 |0|[](Session Notes - Reflections/18 - 7.10.24 - A Fan-ducking-tastic Reunion)|-|-|
-|0|[](Session Notes - Reflections/17 - 07.03.2024 - The Aftermath)|-|-|
-|0|[](Session Notes - Reflections/19 - 7.31.2024 - Travelling to Everholden)|-|-|
 |0|[](Session Notes - Reflections/20 - 8.7.2024 - Chat is this real)|-|-|
-|0|[](Session Notes - Reflections/22 - 11.05.2024 - Mined the Lapis Lazuli)|-|-|
 |0|[](Session Notes - Reflections/21 - 8.22.2024 - Killed a Fake Dragon)|-|-|
+|0|[](Session Notes - Reflections/19 - 7.31.2024 - Travelling to Everholden)|-|-|
 |0|[](Session Notes - Reflections/23 - 11.13.2024 - Yul Fucks Around)|-|-|
+|0|[](Session Notes - Reflections/22 - 11.05.2024 - Mined the Lapis Lazuli)|-|-|
 |0|[](Session Notes - Reflections/25 - 02.06.2025 - Shipwrecked)|-|-|
 |0|[](Session Notes - Reflections/24 - 02.01.2025 - Yul Finds Out)|-|-|
+|0|[](Session Notes - Reflections/28 - 05.12.2025 - God Damn It, Gaybriel Part 2)|-|-|
+|0|[](Session Notes - Reflections/30 - 05.28.2025 - Tabitha's Terrible Trolling)|-|-|
 |0|[](Session Notes - Reflections/26 - 04.01.2025 - 水)|-|-|
 |0|[](Session Notes - Reflections/29 - 05.19.2025 - Oh no we murdered someone!)|-|-|
-|0|[](Session Notes - Reflections/28 - 05.12.2025 - God Damn It, Gaybriel Part 2)|-|-|
-|0|[](Session Notes - Reflections/27 - 04.23.2025 - God Damn It, Gaybriel)|-|-|
-|0|[](Session Notes - Reflections/30 - 05.28.2025 - Tabitha's Terrible Trolling)|-|-|
 |0|[](Session Notes - Reflections/31 - 07.02.2025 - )|-|-|
+|0|[](Session Notes - Reflections/27 - 04.23.2025 - God Damn It, Gaybriel)|-|-|
 
 ## Act 1
 

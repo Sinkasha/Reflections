@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Fusillan Internal Governance","modified":"2025-06-29T13:46:48.902-07:00","cssclasses":""}
+{"publish":true,"title":"Fusillan Internal Governance","modified":"2025-07-13T17:09:25.354-07:00","cssclasses":""}
 ---
-
-
 
 # Fusillan Internal Governance
 

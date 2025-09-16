@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Everholden","modified":"2025-06-29T13:46:48.901-07:00","cssclasses":""}
+{"publish":true,"title":"Everholden, Fusilla","modified":"2025-07-13T16:47:46.408-07:00","cssclasses":""}
 ---
-
-
 
 # Everholden
 

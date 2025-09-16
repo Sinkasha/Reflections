@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Assal","modified":"2025-06-29T13:46:48.900-07:00","cssclasses":""}
+{"publish":true,"title":"Assal, Fusilla","modified":"2025-07-13T16:47:09.626-07:00","cssclasses":""}
 ---
-
-
 
 # Assal
 

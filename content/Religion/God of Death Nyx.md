@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Nyx","modified":"2025-06-29T13:46:48.951-07:00","cssclasses":""}
+{"publish":true,"title":"Nyx","modified":"2025-07-13T17:10:22.152-07:00","cssclasses":""}
 ---
-
-
 
 # God of Death: Nyx
 *Lawful Neutral*

@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Margavellan Internal Governance","modified":"2025-06-29T13:46:48.911-07:00","cssclasses":""}
+{"publish":true,"title":"Margavellan Internal Governance","modified":"2025-07-13T17:09:30.652-07:00","cssclasses":""}
 ---
-
-
 
 # Margavellan Internal Governance
 

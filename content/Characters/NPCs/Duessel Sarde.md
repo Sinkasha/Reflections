@@ -1,14 +1,12 @@
 ---
-{"publish":true,"title":"Duessel Sarde","modified":"2025-06-29T13:46:48.875-07:00","cssclasses":""}
+{"publish":true,"title":"Duessel Sarde","modified":"2025-07-12T19:21:11.470-07:00","cssclasses":""}
 ---
-
-
 
 # Duessel Sarde
 
 Revolutionary Leader AKA the "Shadebringer"
 
-Duessel Sarde is possibly a descendent of a clan that worshipped [[Religion/Religion of Faltera#Nyarlathotep\|Nyarlathotep]].
+Duessel Sarde is possibly a descendent of a clan that worshipped [[Religion/God of Death Nyarlathotep\|Nyarlathotep]].
 
 In [[History of Faltera/213 CE - The Leader of the Revolutionaries Succumbs to the Mirror\|213 CE]], [[Miscellaneous/The Mirror of Enveloping Darkness]] is presented to him by two mysterious Odemian mages. Nyarlathotep attempts to possess him, leading to Duessel going berserk and causing the [[History of Faltera/213 CE - The Falteran Massacre\|The Falteran Massacre]].
 

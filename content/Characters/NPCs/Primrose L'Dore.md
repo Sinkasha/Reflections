@@ -1,12 +1,10 @@
 ---
-{"publish":true,"title":"Primrose L'Dore","modified":"2025-06-29T13:46:48.883-07:00","cssclasses":""}
+{"publish":true,"title":"Primrose L'Dore","modified":"2025-07-12T19:39:51.009-07:00","cssclasses":""}
 ---
-
-
 
 # Primrose L'Dore
 
-The Queen of [[Faltera/Fusilla/The Kingdom of Fusilla]].
+The Queen of [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]].
 
 ##### Relationships
 

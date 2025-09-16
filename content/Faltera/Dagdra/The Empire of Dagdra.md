@@ -1,12 +1,10 @@
 ---
-{"publish":true,"title":"The Empire of Dagdra","modified":"2025-06-29T13:46:48.897-07:00","cssclasses":""}
+{"publish":true,"title":"The Empire of Dagdra","modified":"2025-07-13T17:08:59.938-07:00","cssclasses":""}
 ---
-
-
 
 # The Empire of Dagdra
 
-> [!infobox | n-th right]
+> [!info]+
 >
 > ##### Information
 >
@@ -38,13 +36,11 @@ Dagdra is an extremely strong military power, very prominent in the world since 
 The royal family of Dagdra is still recovering from the [[History of Faltera/313 CE - The Assassination of the Dagdran Emperor Damian von Beryth III\|assassination of the previous emperor]].
 
 ## Places:
-
-## Places: 
-|City|Blurb|
+|Place|Blurb|
 |---|---|
-|[[Faltera/Dagdra/Alvar\|Alvar]]|Capital of Dagdra|
-|[[Faltera/Dagdra/Crescent Grove\|Crescent Grove]]|Place of Yul's Temple|
-|[[Faltera/Dagdra/Halpyr\|Halpyr]]|Home to Halpyr's Adventurers|
-|[[Faltera/Dagdra/Thalanrod\|Thalanrod]]|The Overdark|
-|[[Faltera/Dagdra/Thalum\|Thalum]]|Home to Thalum Mercenary Company|
-|[[Faltera/Dagdra/Windrest\|Windrest]]|Port city|
+|[[Faltera/Dagdra/Alvar\|Alvar, Dagdra]]|The capital of Dagdra|
+|[[Faltera/Dagdra/Crescent Grove\|Crescent Grove, Dagdra]]|Yul's sealing place|
+|[[Faltera/Dagdra/Halpyr\|Halpyr, Dagdra]]|Home to Halpyr's Adventurers|
+|[[Faltera/Dagdra/Thalanrod\|Thalanrod, Dagdra]]|The Overdark|
+|[[Faltera/Dagdra/Thalum\|Thalum, Dagdra]]|Home to Thalum Mercenary Company|
+|[[Faltera/Dagdra/Windrest\|Windrest, Dagdra]]|A fishy port city|

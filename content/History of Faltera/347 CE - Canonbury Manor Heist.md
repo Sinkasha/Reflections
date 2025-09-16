@@ -1,11 +1,7 @@
 ---
-{"publish":true,"modified":"2025-07-04T15:28:40.014-07:00","cssclasses":""}
+{"publish":true,"title":"347 CE","modified":"2025-07-12T14:19:48.544-07:00","cssclasses":""}
 ---
 
-
-
-#events
-
-## 347 CE - Canonbury Manor Heist
+# 347 CE - Canonbury Manor Heist
 
 From [[Session Notes - Reflections/05 - 1.18.2024 - Canonbury Manor Heist]]. The party infiltrates and steals [[Characters/NPCs/Count Canonbury]]'s balls.

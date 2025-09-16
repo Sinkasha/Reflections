@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Bugbear","modified":"2025-06-29T13:46:48.872-07:00","cssclasses":""}
+{"publish":true,"title":"Bugbear","modified":"2025-07-12T19:17:26.699-07:00","cssclasses":""}
 ---
-
-
 
 # Bugbear
 

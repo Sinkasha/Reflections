@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Genesis","modified":"2025-06-29T13:46:48.952-07:00","cssclasses":""}
+{"publish":true,"title":"Genesis","modified":"2025-07-13T17:10:34.908-07:00","cssclasses":""}
 ---
-
-
 
 # God of Life Genesis
 

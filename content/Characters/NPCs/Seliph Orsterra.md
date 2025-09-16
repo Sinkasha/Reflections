@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Seliph Orsterra","modified":"2025-06-29T13:46:48.883-07:00","cssclasses":""}
+{"publish":true,"title":"Seliph Orsterra","modified":"2025-07-12T19:40:21.593-07:00","cssclasses":""}
 ---
-
-
 
 # Seliph Orsterra
 
@@ -13,4 +11,3 @@ Met during [[Session Notes - Reflections/01 - 10.21.2022 - Night Market\|Night M
 Relationships:
 
 - Friends with [[Characters/PCs/Sarah]], likes to clown Seliph
--

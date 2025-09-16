@@ -1,14 +1,12 @@
 ---
-{"publish":true,"title":"Edwin","modified":"2025-06-29T13:46:48.875-07:00","cssclasses":""}
+{"publish":true,"title":"Edwin","modified":"2025-07-12T19:22:14.492-07:00","cssclasses":""}
 ---
-
-
 
 # Edwin
 
 _Samurai Duck_
 
-A samurai duck, met during [[Session Notes - Reflections/03 - 1.13.2023 - The Portal]] after the party went through a portal and then [[Characters/PCs/Bloo]] broke the dimension within and was promptly stabbed by Edwin. He was later named Edwin by [[Characters/PCs/Quill]] and joined the party with Quill. His land was once refuge for people from [[Faltera/Dagdra/The Empire of Dagdra#Thalanrod\|Thalanrod]].
+A samurai duck, met during [[Session Notes - Reflections/03 - 1.13.2023 - The Portal]] after the party went through a portal and then [[Characters/PCs/Bloo]] broke the dimension within and was promptly stabbed by Edwin. He was later named Edwin by [[Characters/PCs/Quill]] and joined the party with Quill. His land was once refuge for people from [[Faltera/Dagdra/Thalanrod]].
 
 In [[Session Notes - Reflections/04 - 2.17.2023 - Personal Trials]] he slices open another domain and gives all the party members a personal trial, resulting in a reward of a fancy weapon.
 

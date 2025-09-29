@@ -1,15 +1,9 @@
 ---
-{"publish":true,"title":"Reflections Campaign","modified":"2025-09-28T20:04:20.603-07:00","cssclasses":""}
+{"publish":true,"title":"Reflections Campaign","modified":"2025-09-28T20:27:10.353-07:00","cssclasses":""}
 ---
 
 # Reflections Campaign Index
 [[Session Notes - Reflections\|Session Notes]] 
-
-## -
-
-|Name|Blurb|
-|---|---|
-|[](DnD Spells)|-|
 
 ## Country
 

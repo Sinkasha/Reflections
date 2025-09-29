@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Susanoo","modified":"2025-07-19T02:38:37.450-07:00","cssclasses":""}
+{"publish":true,"title":"Susanoo","modified":"2025-09-16T09:45:17.080-07:00","cssclasses":""}
 ---
 
 # Susanoo
@@ -8,7 +8,7 @@ The white fan has powers of storms imbued into it. Legend has it, [[Religion/God
 
 Nonmagical Damage: 1d4 slashing
 **When Attuned:**
-Requires a Command Word\*
+Requires a Command Word
 Damage: 1d6 lightning + 1d4 slashing
 Stormcaller: Once per long rest, you can cast the spell Call Lightning
 

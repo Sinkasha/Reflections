@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Fish Crystals","modified":"2025-07-19T02:40:22.130-07:00","cssclasses":""}
+{"publish":true,"title":"The Fish Crystals","modified":"2025-09-28T19:41:10.997-07:00","cssclasses":""}
 ---
 
 # The Fish Crystals
@@ -10,7 +10,7 @@ Nim's college may have had a secret fish cult.
 
 The red herring was discovered in [[Characters/NPCs/Count Canonbury]]'s Manor by the party ([[Session Notes - Reflections/05 - 1.18.2024 - Canonbury Manor Heist#^65b59d\|here]]). Count Canonbury mentions that he needs to meet up with the other fish bearers ([[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^97a761\|here]]). The count is adamant about _not_ breaking the fish crystals ([[Session Notes - Reflections/07 - 2.6.2024 - The Count Dies, Goodbye Bugbear, Hello Sarah#^b483c1\|here]]). The [[Miscellaneous/Sanctum Key]] that was discovered on his body ([[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^f23f3c\|here]]) is related to the fish.
 
-The green fish was discovered in a glowing green amulet acquired while on the trip to Ashfall [[Session Notes - Reflections/08 - 2.29.2024 - A Journey of Self-Discovery (for half the table)#^bf0c60\|here]]. Along with this crystal was a map of Windrest in southeastern [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]]. [[Characters/PCs/Nim]] has been there. It points to an area that Nim had thought suspicious during her visit.
+The green fish was discovered in a glowing green amulet acquired while on the trip to Ashfall [[Session Notes - Reflections/08 - 2.29.2024 - A Journey of Self-Discovery for half the table#^bf0c60\|here]]. Along with this crystal was a map of Windrest in southeastern [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]]. [[Characters/PCs/Nim]] has been there. It points to an area that Nim had thought suspicious during her visit.
 
 A yellow fish was discovered on [[Characters/NPCs/Jeice]]'s body [[Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^961ee1\|here]]. Also on his body was a card with both the LoL callsign and fish emblem, which just said "The Order will Prevail".
 

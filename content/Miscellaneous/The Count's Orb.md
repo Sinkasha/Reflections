@@ -1,10 +1,9 @@
 ---
-{"publish":true,"title":"The Count's Orb","modified":"2025-07-19T02:38:55.903-07:00","cssclasses":""}
+{"publish":true,"title":"The Count's Orb","modified":"2025-09-16T09:45:34.586-07:00","cssclasses":""}
 ---
 
 # The Count's Orb
-
-_Colloquially referred to as the Count's balls_
+*AKA The Count's Balls*
 
 Discovered in [[Characters/NPCs/Count Canonbury]]'s Manor by the party ([[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^487ae4\|here]]). The orb was created to house a rift which allowed people to enter the Material Plane from the Fae Wild. This is a one-way portal.
 

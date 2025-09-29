@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Watatsumi","modified":"2025-07-19T02:41:55.291-07:00","cssclasses":""}
+{"publish":true,"title":"Watatsumi","modified":"2025-09-16T09:45:52.367-07:00","cssclasses":""}
 ---
 
 # Watatsumi
@@ -8,7 +8,7 @@ The blue fan has powers of the water, giving this fan a suspended liquid shape u
 
 Nonmagical Damage: 1d4 slashing
 **When Attuned:**
-Requires a Command Word\*
+Requires a Command Word
 Damage: 1d6 cold + 1d4 slashing when frozen, 1d6 fire + 1d4 force when the fan is made of steam.
 Shape Fan: As a bonus action, you may choose how to shape the fan, and whether or not the fan is ice, liquid water, or steam.
 Water Mastery: Twice per long rest, you may choose to cast one of the following spells as an action:

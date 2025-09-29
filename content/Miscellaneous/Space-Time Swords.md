@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Space-Time Swords","modified":"2025-07-19T02:36:18.460-07:00","cssclasses":""}
+{"publish":true,"title":"Space-Time Swords","modified":"2025-09-16T09:43:48.780-07:00","cssclasses":""}
 ---
 
 # Space-Time Swords
@@ -8,7 +8,6 @@ Swords that can cut through the fabric of space time. Legend says that there was
 
 Created by [[Characters/NPCs/Ellery Woddlespin]]
 
-##### Known Owners:
-
+### Known Owners:
 - [[Characters/NPCs/Edwin]]
 - [[Characters/NPCs/Tiefling Dude]]

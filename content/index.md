@@ -1,9 +1,15 @@
 ---
-{"publish":true,"title":"Reflections Campaign","modified":"2025-07-19T02:29:28.737-07:00","cssclasses":""}
+{"publish":true,"title":"Reflections Campaign","modified":"2025-09-28T20:04:20.603-07:00","cssclasses":""}
 ---
 
 # Reflections Campaign Index
 [[Session Notes - Reflections\|Session Notes]] 
+
+## -
+
+|Name|Blurb|
+|---|---|
+|[](DnD Spells)|-|
 
 ## Country
 
@@ -77,6 +83,7 @@
 |[[Characters/NPCs/Mikhail\|Mikhail]]|Upper Rank of the Order of the Fish|
 |[[Characters/NPCs/Petra von Alspar\|Petra von Alspar]]|League member|
 |[[Characters/NPCs/Primrose L'Dore\|Primrose L'Dore]]|The Queen of Fusilla|
+|[[Characters/NPCs/Roland Vasara\|Roland Vasara]]|Founder of VAC|
 |[[Characters/NPCs/Seliph Orsterra\|Seliph Orsterra]]|Acting Chair of VAC|
 |[[Characters/NPCs/The Council of Archmages\|The Council of Archmages]]|-|
 |[[Characters/NPCs/The Order of the Fish\|The Order of the Fish]]|-|
@@ -88,14 +95,14 @@
 
 |Name|Blurb|
 |---|---|
-|[[Characters/PCs/Amoiváda\|Amoiváda]]|-|
-|[[Characters/PCs/Bloo\|Bloo]]|-|
+|[[Characters/PCs/Amoiváda\|Amoiváda]]|Faustine's Blob Druid|
+|[[Characters/PCs/Bloo\|Bloo]]|Sherri's Blob Sorcerer|
 |[[Characters/PCs/Lyra\|Lyra]]|-|
 |[[Characters/PCs/Mar S'den\|Mar S'den]]|-|
 |[[Characters/PCs/Nim\|Nim]]|-|
-|[[Characters/PCs/Quill\|Quill]]|-|
+|[[Characters/PCs/Quill\|Quill]]|Anvi's Duck Robed Rogue|
 |[[Characters/PCs/Sarah\|Sarah]]|-|
-|[[Characters/PCs/Skaga\|Skaga]]|-|
+|[[Characters/PCs/Skaga\|Skaga]]|Audrey's Owlin Paladin|
 |[[Characters/PCs/Yul\|Yul]]|-|
 
 ## Place
@@ -105,7 +112,7 @@
 |[[Faltera/Dagdra/Alvar\|Alvar, Dagdra]]|The capital of Dagdra|
 |[[Faltera/Fusilla/Ashfall\|Ashfall, Fusilla]]|-|
 |[[Faltera/Fusilla/Assal\|Assal, Fusilla]]|Home to the Assal Artisans Guild|
-|[[Faltera/Fusilla/Canonbury\|Canonbury, Fusilla]]|-|
+|[[Faltera/Fusilla/Canonbury\|Canonbury, Fusilla]]|Mining settlement|
 |[[Faltera/Hyritia/Celestial Peak, Valzelia\|Celestial Peak, Valzelia, Hyritia]]|-|
 |[[Faltera/Dagdra/Crescent Grove\|Crescent Grove, Dagdra]]|Yul's sealing place|
 |[[Faltera/Fusilla/Everholden\|Everholden, Fusilla]]|-|
@@ -153,7 +160,6 @@
 |[[Religion/God of the Sun Clarus\|Clarus]]|God of the Sun|
 |[[Religion/God of Nature Forsyth\|Forsyth]]|God of Nature|
 |[[Religion/God of Life Genesis\|Genesis]]|God of Life|
-|[[Religion/God of Unknown Prometheus\|God of Unknown Prometheus]]|God of Unknown|
 |[[Religion/God of Chaos Hrym\|Hrym]]|God of Chaos|
 |[[Religion/God of Order Lucht\|Lucht]]|God of Order|
 |[[Religion/God of Greed Lucius\|Lucius]]|God of Greed|
@@ -161,6 +167,7 @@
 |[[Religion/God of the Ocean Nautica\|Nautica]]|God of the Ocean|
 |[[Religion/God of Death Nyarlathotep\|Nyarlathotep]]|God of Death|
 |[[Religion/God of Death Nyx\|Nyx]]|God of Death|
+|[[Religion/God of Unknown Prometheus\|Prometheus]]|God of Unknown|
 |[[Religion/God of the Stars Stergeiz\|Stergeiz]]|God of the Stars|
 |[[Religion/The Elemental Gods\|The Elemental Gods]]|-|
 |[[Religion/The Major Gods\|The Major Gods]]|-|
@@ -186,4 +193,4 @@ Also the Holy State are assholes apparently.
 
 ##### Notes
 
-- Fish related economics at ports Half Moon and Trinity Bay'
+- Fish related economics at ports Half Moon and Trinity Bay

@@ -1,10 +1,9 @@
 ---
-{"publish":true,"title":"Astrid von Novis","modified":"2025-07-12T19:16:33.295-07:00","cssclasses":""}
+{"publish":true,"title":"Astrid von Novis","modified":"2025-09-28T20:07:32.060-07:00","cssclasses":""}
 ---
 
 # Astrid von Novis
-
-An Archmage AKA the "Jade Dragon"
+*An Archmage AKA the "Jade Dragon"*
 
 A tall stern-looking elf woman.
 

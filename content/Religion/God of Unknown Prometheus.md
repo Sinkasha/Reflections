@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"God of Unknown Prometheus","modified":"2025-07-13T17:11:22.324-07:00","cssclasses":""}
+{"publish":true,"title":"Prometheus","modified":"2025-09-28T20:13:30.320-07:00","cssclasses":""}
 ---
 
 # God of Unknown Prometheus

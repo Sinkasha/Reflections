@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Halpyr's Adventurers","modified":"2025-07-12T14:25:13.611-07:00","cssclasses":""}
+{"publish":true,"title":"Halpyr's Adventurers","modified":"2025-09-16T09:42:38.403-07:00","cssclasses":""}
 ---
-
-
 
 # Halpyr’s Adventurers
 

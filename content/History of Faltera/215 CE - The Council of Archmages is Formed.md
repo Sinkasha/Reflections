@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"216 CE","modified":"2025-07-12T14:18:48.759-07:00","cssclasses":""}
+{"publish":true,"title":"216 CE","modified":"2025-07-12T14:18:50.000-07:00","cssclasses":""}
 ---
 
 # 215 CE - [[Characters/NPCs/The Council of Archmages]] is Formed

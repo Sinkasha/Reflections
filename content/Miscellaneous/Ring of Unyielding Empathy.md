@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ring of Unyielding Empathy","modified":"2025-07-19T02:33:17.854-07:00","cssclasses":""}
+{"publish":true,"title":"Ring of Unyielding Empathy","modified":"2025-07-19T02:33:18.000-07:00","cssclasses":""}
 ---
 
 # Ring of Unyielding Empathy

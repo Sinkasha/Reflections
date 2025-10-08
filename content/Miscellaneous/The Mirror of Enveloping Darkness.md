@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Mirror of Enveloping Darkness","modified":"2025-07-19T02:41:20.050-07:00","cssclasses":""}
+{"publish":true,"title":"The Mirror of Enveloping Darkness","modified":"2025-07-19T02:41:22.000-07:00","cssclasses":""}
 ---
 
 # The Mirror of Enveloping Darkness

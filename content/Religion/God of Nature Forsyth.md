@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Forsyth","modified":"2025-07-13T17:10:44.139-07:00","cssclasses":""}
+{"publish":true,"title":"Forsyth","modified":"2025-07-13T17:10:46.000-07:00","cssclasses":""}
 ---
 
 # God of Nature: Forsyth

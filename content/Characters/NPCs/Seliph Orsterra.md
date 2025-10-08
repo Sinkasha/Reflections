@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Seliph Orsterra","modified":"2025-09-16T10:10:25.721-07:00","cssclasses":""}
+{"publish":true,"title":"Seliph Orsterra","modified":"2025-09-16T10:10:26.000-07:00","cssclasses":""}
 ---
 
 # Seliph Orsterra

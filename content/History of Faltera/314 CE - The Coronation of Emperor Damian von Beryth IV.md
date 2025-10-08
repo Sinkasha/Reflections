@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"314 CE","modified":"2025-07-12T14:19:36.497-07:00","cssclasses":""}
+{"publish":true,"title":"314 CE","modified":"2025-07-12T14:19:38.000-07:00","cssclasses":""}
 ---
 
 # 314 CE - The Coronation of Emperor Damian von Beryth IV

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hyritian Internal Governance","modified":"2025-07-13T17:09:27.999-07:00","cssclasses":""}
+{"publish":true,"title":"Hyritian Internal Governance","modified":"2025-07-13T17:09:28.000-07:00","cssclasses":""}
 ---
 
 # Hyritian Internal Governance

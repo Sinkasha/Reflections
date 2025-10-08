@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Thetis","modified":"2025-07-13T17:11:36.875-07:00","cssclasses":""}
+{"publish":true,"title":"Thetis","modified":"2025-07-13T17:11:38.000-07:00","cssclasses":""}
 ---
 
 # Goddess of the Water: Thetis

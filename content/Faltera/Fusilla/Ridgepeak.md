@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ridgepeak, Fusilla","modified":"2025-07-13T16:55:54.591-07:00","cssclasses":""}
+{"publish":true,"title":"Ridgepeak, Fusilla","modified":"2025-07-13T16:55:56.000-07:00","cssclasses":""}
 ---
 
 # Ridgepeak

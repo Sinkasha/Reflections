@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Grand Duchy of Margavelle","modified":"2025-07-13T17:08:48.830-07:00","cssclasses":""}
+{"publish":true,"title":"The Grand Duchy of Margavelle","modified":"2025-07-13T17:08:50.000-07:00","cssclasses":""}
 ---
 
 # The Grand Duchy of Margavelle

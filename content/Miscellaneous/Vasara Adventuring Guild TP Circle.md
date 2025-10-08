@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Vasara Adventuring Guild Headquarters TP Circle","modified":"2025-07-19T02:41:46.773-07:00","cssclasses":""}
+{"publish":true,"title":"Vasara Adventuring Guild Headquarters TP Circle","modified":"2025-07-19T02:41:48.000-07:00","cssclasses":""}
 ---
 
 # Vasara Adventuring Guild Headquarters TP Circle

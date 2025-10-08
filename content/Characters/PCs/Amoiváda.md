@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Amoiváda","modified":"2025-09-16T09:54:19.300-07:00","cssclasses":""}
+{"publish":true,"title":"Amoiváda","modified":"2025-09-16T09:54:20.000-07:00","cssclasses":""}
 ---
 
 # Amoiváda

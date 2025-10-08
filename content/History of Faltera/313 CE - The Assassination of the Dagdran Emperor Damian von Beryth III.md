@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"313 CE","modified":"2025-07-12T14:19:33.807-07:00","cssclasses":""}
+{"publish":true,"title":"313 CE","modified":"2025-07-12T14:19:34.000-07:00","cssclasses":""}
 ---
 
 # 313 CE - The Assassination of the Dagdran Emperor Damian von Beryth III

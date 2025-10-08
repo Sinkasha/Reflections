@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hrym","modified":"2025-07-13T17:10:06.559-07:00","cssclasses":""}
+{"publish":true,"title":"Hrym","modified":"2025-07-13T17:10:08.000-07:00","cssclasses":""}
 ---
 
 # God of Chaos: Hrym

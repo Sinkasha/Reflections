@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Parli, Fusilla","modified":"2025-07-13T16:50:58.869-07:00","cssclasses":""}
+{"publish":true,"title":"Parli, Fusilla","modified":"2025-07-13T16:51:00.000-07:00","cssclasses":""}
 ---
 
 # Parli

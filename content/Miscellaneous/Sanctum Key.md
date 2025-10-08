@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Sanctum Key","modified":"2025-07-19T02:33:49.736-07:00","cssclasses":""}
+{"publish":true,"title":"Sanctum Key","modified":"2025-07-19T02:33:50.000-07:00","cssclasses":""}
 ---
 
 # Sanctum Key

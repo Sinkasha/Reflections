@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Gabriel","modified":"2025-09-28T20:15:09.743-07:00","cssclasses":""}
+{"publish":true,"title":"Gabriel","modified":"2025-09-28T20:15:10.000-07:00","cssclasses":""}
 ---
 
 # Gabriel

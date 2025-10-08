@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Skaga","modified":"2025-09-16T09:54:54.574-07:00","cssclasses":""}
+{"publish":true,"title":"Skaga","modified":"2025-09-16T09:54:56.000-07:00","cssclasses":""}
 ---
 
 # Skaga

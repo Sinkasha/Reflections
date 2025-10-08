@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Spicy Pointy Red Hat","modified":"2025-07-19T02:37:23.522-07:00","cssclasses":""}
+{"publish":true,"title":"Spicy Pointy Red Hat","modified":"2025-07-19T02:37:24.000-07:00","cssclasses":""}
 ---
 
 # Spicy Pointy Red Hat

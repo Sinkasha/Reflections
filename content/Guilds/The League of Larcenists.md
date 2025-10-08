@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The League of Larcenists","modified":"2025-09-16T09:42:55.384-07:00","cssclasses":""}
+{"publish":true,"title":"The League of Larcenists","modified":"2025-09-16T09:42:56.000-07:00","cssclasses":""}
 ---
 
 # The League of Larcenists

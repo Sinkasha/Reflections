@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Veritus","modified":"2025-07-13T17:11:28.219-07:00","cssclasses":""}
+{"publish":true,"title":"Veritus","modified":"2025-07-13T17:11:30.000-07:00","cssclasses":""}
 ---
 
 # Goddess of Honesty: Veritus

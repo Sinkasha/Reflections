@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Roland Vasara","modified":"2025-09-16T09:52:56.906-07:00","cssclasses":""}
+{"publish":true,"title":"Roland Vasara","modified":"2025-09-16T09:52:58.000-07:00","cssclasses":""}
 ---
 
 # Roland Vasara

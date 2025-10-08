@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"288 CE","modified":"2025-07-12T14:19:08.670-07:00","cssclasses":""}
+{"publish":true,"title":"288 CE","modified":"2025-07-12T14:19:10.000-07:00","cssclasses":""}
 ---
 
 # 288 CE - [[Faltera/Margavelle/The Grand Duchy of Margavelle\|Margavelle]]’s Music Exports Skyrocket

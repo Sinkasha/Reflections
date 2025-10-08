@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ellery Woddlespin","modified":"2025-07-12T19:22:53.355-07:00","cssclasses":""}
+{"publish":true,"title":"Ellery Woddlespin","modified":"2025-07-12T19:22:54.000-07:00","cssclasses":""}
 ---
 
 # Ellery Woddlespin

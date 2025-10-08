@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Reflections Campaign","modified":"2025-09-28T20:27:10.353-07:00","cssclasses":""}
+{"publish":true,"title":"Reflections Campaign","modified":"2025-09-28T20:27:12.000-07:00","cssclasses":""}
 ---
 
 # Reflections Campaign Index
@@ -60,7 +60,7 @@
 |[[Characters/NPCs/Bugbear\|Bugbear]]|Max's Retired Bugbear Ranger|
 |[[Characters/NPCs/Count Canonbury\|Count Canonbury]]|The Dead Count|
 |[[Characters/NPCs/Derrick Fiskov\|Derrick Fiskov]]|The Formerly Cursed Shopkeeper|
-|[[Characters/NPCs/Drake\|Drake]]|-|
+|[[Characters/NPCs/Drake\|Drake]]|Warlock|
 |[[Characters/NPCs/Dude 2\|Dude 2]]|-|
 |[[Characters/NPCs/Duessel Sarde\|Duessel Sarde]]|Revolutionary Leader AKA the "Shadebringer"|
 |[[Characters/NPCs/Edwin\|Edwin]]|Samurai Duck|

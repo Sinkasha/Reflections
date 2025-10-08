@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Marcan Beakoup","modified":"2025-09-16T10:13:18.134-07:00","cssclasses":""}
+{"publish":true,"title":"Marcan Beakoup","modified":"2025-09-16T10:13:20.000-07:00","cssclasses":""}
 ---
 
 # Marcan Beakoup

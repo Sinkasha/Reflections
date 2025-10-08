@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Horace Frostdir","modified":"2025-07-12T19:25:24.063-07:00","cssclasses":""}
+{"publish":true,"title":"Horace Frostdir","modified":"2025-07-12T19:25:26.000-07:00","cssclasses":""}
 ---
 
 # Horace Frostdir

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"289 CE","modified":"2025-07-12T14:19:12.478-07:00","cssclasses":""}
+{"publish":true,"title":"289 CE","modified":"2025-07-12T14:19:14.000-07:00","cssclasses":""}
 ---
 
 # 289 CE - [[Guilds/Brecht Performer’s Union]] is Established

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Kingdom of Fusilla","modified":"2025-07-13T17:08:39.391-07:00","cssclasses":""}
+{"publish":true,"title":"The Kingdom of Fusilla","modified":"2025-07-13T17:08:40.000-07:00","cssclasses":""}
 ---
 
 # The Kingdom of Fusilla 
@@ -30,7 +30,7 @@ Fusilla has a formidable global presence in Faltera. Being at the forefront of d
 |---|---|
 |[[Faltera/Fusilla/Ashfall\|Ashfall, Fusilla]]|-|
 |[[Faltera/Fusilla/Assal\|Assal, Fusilla]]|Home to the Assal Artisans Guild|
-|[[Faltera/Fusilla/Canonbury\|Canonbury, Fusilla]]|-|
+|[[Faltera/Fusilla/Canonbury\|Canonbury, Fusilla]]|Mining settlement|
 |[[Faltera/Fusilla/Everholden\|Everholden, Fusilla]]|-|
 |[[Faltera/Fusilla/Frostwind\|Frostwind, Fusilla]]|Cold|
 |[[Faltera/Fusilla/Geimshall Woods\|Geimshall Woods, Fusilla]]|Woods|

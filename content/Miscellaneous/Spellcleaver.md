@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Spellcleaver","modified":"2025-09-16T09:44:42.121-07:00","cssclasses":""}
+{"publish":true,"title":"Spellcleaver","modified":"2025-09-16T09:44:44.000-07:00","cssclasses":""}
 ---
 
 # Spellcleaver

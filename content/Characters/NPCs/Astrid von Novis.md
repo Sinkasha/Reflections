@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Astrid von Novis","modified":"2025-09-28T20:07:32.060-07:00","cssclasses":""}
+{"publish":true,"title":"Astrid von Novis","modified":"2025-09-28T20:07:34.000-07:00","cssclasses":""}
 ---
 
 # Astrid von Novis

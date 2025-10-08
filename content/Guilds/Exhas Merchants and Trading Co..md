@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Exhas Merchants and Trading Co.","modified":"2025-09-16T09:42:31.456-07:00","cssclasses":""}
+{"publish":true,"title":"Exhas Merchants and Trading Co.","modified":"2025-09-16T09:42:32.000-07:00","cssclasses":""}
 ---
 
 # Exhas Merchants and Trading Co.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"1 CE","modified":"2025-07-12T14:12:30.582-07:00","cssclasses":""}
+{"publish":true,"title":"1 CE","modified":"2025-07-12T14:12:32.000-07:00","cssclasses":""}
 ---
 
 # 1 CE - [[Faltera/Fusilla/The Kingdom of Fusilla]] is established across Central Faltera.

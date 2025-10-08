@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Vasara Adventuring Company","modified":"2025-09-16T10:13:26.121-07:00","cssclasses":""}
+{"publish":true,"title":"Vasara Adventuring Company","modified":"2025-09-16T10:13:28.000-07:00","cssclasses":""}
 ---
 
 # Vasara Adventuring Company

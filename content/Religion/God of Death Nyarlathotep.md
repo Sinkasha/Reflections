@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Nyarlathotep","modified":"2025-07-13T17:10:17.203-07:00","cssclasses":""}
+{"publish":true,"title":"Nyarlathotep","modified":"2025-07-13T17:10:18.000-07:00","cssclasses":""}
 ---
 
 # God of Death: Nyarlathotep

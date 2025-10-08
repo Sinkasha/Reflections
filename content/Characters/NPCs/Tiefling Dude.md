@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Tiefling Dude","modified":"2025-07-12T19:51:17.890-07:00","cssclasses":""}
+{"publish":true,"title":"Tiefling Dude","modified":"2025-07-12T19:51:18.000-07:00","cssclasses":""}
 ---
 
 # Tiefling Dude

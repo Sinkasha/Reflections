@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"312 CE","modified":"2025-07-12T14:19:28.659-07:00","cssclasses":""}
+{"publish":true,"title":"312 CE","modified":"2025-07-12T14:19:30.000-07:00","cssclasses":""}
 ---
 
 # 312 CE - [[Guilds/The League of Larcenists]] Make their First Public Appearance

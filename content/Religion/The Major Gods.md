@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Major Gods","modified":"2025-07-13T17:11:45.248-07:00","cssclasses":""}
+{"publish":true,"title":"The Major Gods","modified":"2025-07-13T17:11:46.000-07:00","cssclasses":""}
 ---
 
 # The Major Gods

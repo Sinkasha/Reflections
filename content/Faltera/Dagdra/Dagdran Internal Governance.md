@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Dagdran Internal Governance","modified":"2025-07-13T17:09:22.705-07:00","cssclasses":""}
+{"publish":true,"title":"Dagdran Internal Governance","modified":"2025-07-13T17:09:24.000-07:00","cssclasses":""}
 ---
 
 # Dagdran Internal Governance

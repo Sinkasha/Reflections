@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Derrick Fiskov","modified":"2025-07-12T19:19:47.309-07:00","cssclasses":""}
+{"publish":true,"title":"Derrick Fiskov","modified":"2025-07-12T19:19:48.000-07:00","cssclasses":""}
 ---
 
 # Derrick Fiskov

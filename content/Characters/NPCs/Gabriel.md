@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Gabriel","modified":"2025-09-28T20:15:10.000-07:00","cssclasses":""}
+{"publish":true,"title":"Gabriel","modified":"2025-10-20T16:36:37.990-07:00","cssclasses":""}
 ---
 
 # Gabriel
@@ -8,4 +8,10 @@ Supposedly from the [[Guilds/Thalum Mercenary Company]], sent as an envoy of the
 
 He is not humanoid (Hold Person does not work on him).
 
-He appears to be allied with [[Religion/God of Death Nyarlathotep\|Nyarlathotep]], hence why he was trying to stop the party from reviving Thetis. Thetis says Gabriel is a lot more dangerous than you think.
+He appears to be allied with [[Religion/God of Death Nyarlathotep\|Nyarlathotep]], hence why he was trying to stop the party from reviving Thetis. Thetis says Gabriel is a lot more dangerous than we think. The persona of Gabriel is just a mask that he wears. 
+
+When we see Gabriel at the tea party in [[Session Notes - Reflections/32 - 07.23.2025 - Tea Party]], he was radiating black and purple aura with a singular black wing on his left side and a long spear on his right. On his left hand, there was a black (onyx or polished obsidian) ring. Gabriel employed [[Characters/NPCs/Tabitha]]. 
+
+Gabriel wants [[Characters/PCs/Yul]]. Reason unknown. 
+
+Gabriel may be Ruin's chosen one. 

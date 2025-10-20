@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Exhas Merchants and Trading Co.","modified":"2025-09-16T09:42:32.000-07:00","cssclasses":""}
+{"publish":true,"title":"Exhas Merchants and Trading Co.","modified":"2025-10-20T16:27:12.859-07:00","cssclasses":""}
 ---
 
 # Exhas Merchants and Trading Co.
@@ -10,4 +10,4 @@ Based in [[Faltera/Hyritia/The Hyritian Alliance#Port Exhas\|Port Exhas, Valzeli
 
 The 5 most important people in the guild are known as keyholders. Each keyholder is in charge of a different domain of expertise. 
 
-**Metalwork Keyholder**: Wilfred Dongle
+**Metalwork Keyholder**: [[Characters/NPCs/Wilfred Dongle]]

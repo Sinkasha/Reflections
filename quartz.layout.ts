@@ -34,12 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-        { 
-          Component: Component., 
-          justify: "start"
-        },
-        
+        { Component: Component.ReaderMode() },        
       ],
     }),
     Component.Explorer(),

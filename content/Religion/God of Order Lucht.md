@@ -1,9 +1,10 @@
 ---
 publish: true
 title: Lucht
-Type: Religion
-Blurb: God of Order
+modified: 2025-07-13T17:10:50.000-07:00
+cssclasses: ""
 ---
+
 # God of Order: Lucht
 *Lawful Neutral*
 

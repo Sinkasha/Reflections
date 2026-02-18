@@ -1,9 +1,10 @@
 ---
 publish: true
 title: Nautica
-Type: Religion
-Blurb: God of the Ocean
+modified: 2025-07-13T17:10:58.000-07:00
+cssclasses: ""
 ---
+
 # God of the Ocean: Nautica
 *Chaotic Neutral*
 

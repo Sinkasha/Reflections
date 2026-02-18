@@ -1,15 +1,16 @@
 ---
 publish: true
 title: Petra von Alspar
-Type: NPC
-Blurb: League member
+modified: 2025-07-12T19:39:26.000-07:00
+cssclasses: ""
 ---
+
 # Petra von Alspar
 
-[[The League of Larcenists]] member
+[[Guilds/The League of Larcenists]] member
 
-An elf, daughter of a noble from [[The Empire of Dagdra|Dagdra]].
+An elf, daughter of a noble from [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]].
 
-Petra attacked the party on their way from Ashfall to Parli [[09 - 4.04.2024 - The Consequences of Our Actions#COMBAT?|here]].
+Petra attacked the party on their way from Ashfall to Parli [[Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#COMBAT?\|here]].
 
-Petra also attacked the party [[16 - 06.07.2024 - The Big Boss#Combat v. Petra|here]] and was pushed from the floating platform down into the [[Geimshall Woods]]. It is unknown whether she is dead or alive. (Likely dead)
+Petra also attacked the party [[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss#Combat v. Petra\|here]] and was pushed from the floating platform down into the [[Faltera/Fusilla/Geimshall Woods]]. It is unknown whether she is dead or alive. (Likely dead)

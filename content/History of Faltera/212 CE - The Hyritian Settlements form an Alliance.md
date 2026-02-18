@@ -1,10 +1,10 @@
 ---
 publish: true
 title: 212 CE
-Type: Events
-Blurb: The Hyritian Settlements form an Alliance
-date: 0212-01-02
+modified: 2025-07-12T14:18:20.000-07:00
+cssclasses: ""
 ---
+
 # 212 CE - The Hyritian Settlements form an Alliance
 
-By lead of Valzelia, the peoples of the Hyritian Isles form a political and economic [[The Hyritian Alliance|alliance]], sensing a shift in the geopolitical climate of Faltera. 
+By lead of Valzelia, the peoples of the Hyritian Isles form a political and economic [[Faltera/Hyritia/The Hyritian Alliance\|alliance]], sensing a shift in the geopolitical climate of Faltera. 

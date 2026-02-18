@@ -1,9 +1,10 @@
 ---
 publish: true
 title: Travel Times
-Type: Reference
-Blurb: Weeeeee
+modified: 2025-09-28T20:31:44.000-07:00
+cssclasses: ""
 ---
+
 # Travel Times
 
 Note: Distances assumes you are traveling by Horse drawn carriage. A railroad system is currently being built from Everholden to Parli to Ashfall. Long-distance infrastructure is a new innovation in Faltera, and as such, not much infrastructure exists yet! However, it is possible that you will see these innovations during your travels. Assume the travel time is reflexive; i.e. it takes roughly the same time both ways.

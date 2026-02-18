@@ -1,9 +1,10 @@
 ---
 publish: true
 title: Nim's TP Circle
-Type: TP Circle
-Blurb: Fishy circle
+modified: 2025-07-19T02:32:40.000-07:00
+cssclasses: ""
 ---
+
 # Nim's TP Circle
 
-Found in [[Faltera/Dagdra/The Empire of Dagdra#Windrest\|Windrest]] base which belongs to [[The Order of the Fish]].
+Found in [[Faltera/Dagdra/The Empire of Dagdra#Windrest\|Windrest]] base which belongs to [[Characters/NPCs/The Order of the Fish]].

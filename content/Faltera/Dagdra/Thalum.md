@@ -1,11 +1,12 @@
 ---
 publish: true
 title: Thalum, Dagdra
-Type: Place
-Blurb: Home to Thalum Mercenary Company
+modified: 2025-07-13T16:45:36.000-07:00
+cssclasses: ""
 ---
+
 
 
 # Thalum
 
-Home to [[Thalum Mercenary Company]].
+Home to [[Guilds/Thalum Mercenary Company]].

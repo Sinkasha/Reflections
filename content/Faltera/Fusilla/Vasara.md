@@ -1,9 +1,10 @@
 ---
 publish: true
 title: Vasara, Fusilla
-Type: Place
-Blurb: Home to the VAC
+modified: 2025-07-13T16:55:54.000-07:00
+cssclasses: ""
 ---
+
 # Vasara
 
-Home to the [[Vasara Adventuring Company]].
+Home to the [[Guilds/Vasara Adventuring Company]].

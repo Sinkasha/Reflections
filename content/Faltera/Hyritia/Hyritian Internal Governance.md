@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.539-08:00
-cssclasses: ""
+Title: Hyritian Internal Governance
+Type: Political
+Blurb:
 ---
-
 # Hyritian Internal Governance
 
 **Head Chair**

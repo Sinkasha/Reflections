@@ -1,12 +1,12 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.975-08:00
-cssclasses: ""
+Title: Veritus
+Type: Religion
+Blurb: Goddess of Honesty
 ---
-
 # Goddess of Honesty: Veritus
 *Unknown*
 
-She died fighting two of [[Religion/Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep's]] generals, Abyss and Emptiness. She seems to [[Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^d269fb\|know]] something important about Nyarlathotep. 
+She died fighting two of [[Religion of Faltera#God of Death Nyarlathotep\|Nyarlathotep's]] generals, Abyss and Emptiness. She seems to [[Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^d269fb\|know]] something important about Nyarlathotep. 
 "Only a scant few know that honesty's true hue is a deep sea blue"
 "the blue blood of magic flows, the red essence of life flows, the restoration of purple flows"

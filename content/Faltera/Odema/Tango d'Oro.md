@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.576-08:00
-cssclasses: ""
+Title: Tango d'Oro, Odema
+Type: Place
+Blurb: The capital of Odema
 ---
-
 # Tango d'Oro
 
 Capital of Odema, sometimes known as "Golden River".

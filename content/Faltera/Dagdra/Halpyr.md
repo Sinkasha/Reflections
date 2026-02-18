@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.370-08:00
-cssclasses: ""
+Title: Halpyr, Dagdra
+Type: Place
+Blurb: Home to Halpyr's Adventurers
 ---
-
 # Halpyr
 
-Home to [[Guilds/Halpyr’s Adventurers]].
+Home to [[Halpyr’s Adventurers]].

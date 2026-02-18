@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.928-08:00
-cssclasses: ""
+Title: Yddris
+Type: Religion
+Blurb: God of Life
 ---
-
 # God of Life: Yddris
 *Lawful Neutral*
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.483-08:00
-cssclasses: ""
+Title: Ridgepeak, Fusilla
+Type: Place
+Blurb:
 ---
-
 # Ridgepeak
 
-Mountainous region in northeastern Fusilla. Has a temple from [[Characters/NPCs/The Council of Archmages]].
+Mountainous region in northeastern Fusilla. Has a temple from [[The Council of Archmages]].

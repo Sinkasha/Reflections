@@ -1,7 +1,7 @@
 ---
+Title: <%tp.file.title%>
+Type:
+Blurb:
 publish: true
-modified: 2026-02-17T18:17:16.110-08:00
-cssclasses: ""
 ---
-
 # <%tp.file.title%>

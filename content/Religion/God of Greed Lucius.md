@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.916-08:00
-cssclasses: ""
+Title: Lucius
+Type: Religion
+Blurb: God of Greed
 ---
-
 # God of Greed: Lucius
 *Chaotic Neutral*
 

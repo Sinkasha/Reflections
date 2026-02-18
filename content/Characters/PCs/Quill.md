@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.050-08:00
-cssclasses: ""
+Title: Quill
+Type: PC
+Blurb: Anvi's Duck Robed Rogue
 ---
-
 # Quill
 
-Wears a white duck looking robe. Quack. Besties with [[Characters/NPCs/Edwin]]. 
+Wears a white duck looking robe. Quack. Besties with [[Edwin]]. 

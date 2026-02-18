@@ -1,0 +1,13 @@
+---
+publish: true
+title: Clarus
+Type: Religion
+Blurb: God of the Sun
+---
+# God of the Sun: Clarus
+*Chaotic Good*
+
+![[Images/God of the Sun Symbol.png|100]]
+
+Embodying the radiance and warmth needed to sustain life, Clarus oversees much of the material plane and is the manifestation of the daytime. 
+

@@ -1,0 +1,11 @@
+---
+publish: true
+title: Crown of the Elements
+Type: Items
+Blurb: Created by Azathoth
+---
+# Crown of the Elements
+
+Mentioned by [[Hugo Starling]] [[18 - 7.10.24 - A Fan-ducking-tastic Reunion#^5dbf5c\|here]].
+A crown, created in part by [[God of Consciousness Azathoth|Azathoth]] and [[The Elemental Gods]].
+Various gemstones of each of the elemental gods can be combined into the crown which will bring Azathoth back ([[28 - 05.12.2025 - God Damn It, Gaybriel Part 2#^af0c1e\|here]]).

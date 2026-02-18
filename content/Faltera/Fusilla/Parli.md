@@ -1,9 +1,9 @@
 ---
 publish: true
-Title: Parli, Fusilla
-Type: Place
-Blurb: The capital of Fusilla
+modified: 2026-02-17T18:17:15.478-08:00
+cssclasses: ""
 ---
+
 # Parli
 
 The capital of Fusilla. It is a circular city with 4 outer districts and 3 inner districts surrounding a large castle. Large walls surround the city. Between the outer and inner districts is a moat with bridges connecting the neighboring districts. In the center sits the Aquamarine Castle, which is heavily secured and guarded with only one major entrance in the Opal District.

@@ -1,11 +1,11 @@
 ---
 publish: true
-Title: Amoiváda
-Type: PC
-Blurb: Faustine's Blob Druid
+modified: 2026-02-17T18:17:14.989-08:00
+cssclasses: ""
 ---
+
 # Amoiváda
 
 Faustine's Blob Druid
 
-Blorb. A traveler part of the [[Brecht Performer’s Union]].
+Blorb. A traveler part of the [[Guilds/Brecht Performer’s Union]].

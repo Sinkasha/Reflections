@@ -1,9 +1,9 @@
 ---
 publish: true
-Title: The Hyritian Alliance
-Type: Country
-Blurb: Hyritia
+modified: 2026-02-17T18:17:15.552-08:00
+cssclasses: ""
 ---
+
 # The Hyritian Alliance
 
 > [!info]+
@@ -16,15 +16,15 @@ Blurb: Hyritia
 > | Capital                     | Celestial Peak                                                        |
 > | Economic System             | Capitalism                                                            |
 > | Primary Exports             | Ice, tools, processed metals, processed stone, coal, crystals         |
-> | Preferred Trade             | [[The Kingdom of Fusilla\|Fusilla]], [[The Empire of Dagdra\|Dagdra]] |
+> | Preferred Trade             | [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]], [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]] |
 > | Prominent Natural Resources | Ice, ores, gems, crystals, coal                                       |
 >
-> #### [[Hyritian Internal Governance]]
+> #### [[Faltera/Hyritia/Hyritian Internal Governance]]
 >
 > | Title                | Name            |
 > | -------------------- | --------------- |
 > | **Head Chair**       | Ismaire Selenia |
-> | Chief Inquisitor | [[Draythus Alacard]] | 
+> | Chief Inquisitor | [[Characters/NPCs/Draythus Alacard]] | 
 > | Valzelian Chair      | Ismaire Selenia |
 > | Valzelian Inquisitor | Gerald Fisbach  |
 > | Wovrese Chair        | blank           |
@@ -39,6 +39,8 @@ Each island is sovereign, however, the Hyritian Alliance is treated internationa
 Every election cycle, the head chair is voted on, and one can be the head chair until they are kicked out of their island chair. Each island operates slightly differently, with different laws and each with their own inquisitor.
 
 ## Places
-```dataviewjs
-dv.table(["Place", "Blurb"], dv.pages('"Faltera/Hyritia" and -"Faltera/Hyritia/The Hyritian Alliance.md" and -"Faltera/Hyritia/Hyritian Internal Governance.md"').sort(a => a.title).map(a => [dv.fileLink(a.file.path,false,[a.title]), a.blurb]))
-```
+|Place|Blurb|
+|---|---|
+|[[Faltera/Hyritia/Celestial Peak, Valzelia\|Celestial Peak, Valzelia, Hyritia]]|-|
+|[[Faltera/Hyritia/Half Moon Bay, Valzelia\|Half Moon Bay, Valzelia, Hyritia]]|-|
+|[[Faltera/Hyritia/Port Exhas, Trinity Bay, Valzelia\|Port Exhas, Trinity Bay, Valzelia, Hyritia]]|Home to the Exhas Merchants and Trading Co.|

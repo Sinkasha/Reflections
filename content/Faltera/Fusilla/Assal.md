@@ -1,9 +1,9 @@
 ---
 publish: true
-Title: Assal, Fusilla
-Type: Place
-Blurb: Home to the Assal Artisans Guild
+modified: 2026-02-17T18:17:15.427-08:00
+cssclasses: ""
 ---
+
 # Assal
 
-Home to the [[Assal Artisans Guild]].
+Home to the [[Guilds/Assal Artisans Guild]].

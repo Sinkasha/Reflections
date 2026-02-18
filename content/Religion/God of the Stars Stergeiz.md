@@ -1,9 +1,9 @@
 ---
 publish: true
-Title: Stergeiz
-Type: Religion
-Blurb: God of the Stars
+modified: 2026-02-17T18:17:15.964-08:00
+cssclasses: ""
 ---
+
 # God of the Stars: Stergeiz
 *Neutral Good*
 

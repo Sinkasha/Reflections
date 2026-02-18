@@ -1,11 +1,11 @@
 ---
 publish: true
-Title: Drake
-Type: NPC
-Blurb: Warlock
+modified: 2026-02-17T18:17:14.671-08:00
+cssclasses: ""
 ---
+
 # Drake
 
-A warlock. Was wielding [[Spellcleaver]] before he died.
+A warlock. Was wielding [[Miscellaneous/Spellcleaver]] before he died.
 
-Backstabbed by [[Jeice]].
+Backstabbed by [[Characters/NPCs/Jeice]].

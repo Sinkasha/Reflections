@@ -1,9 +1,10 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.783-08:00
-cssclasses: ""
+Title: 35 CE
+Type: Events
+Blurb: Migration to the Southwest
+date: 0035-01-01
 ---
-
 # 35 CE - Migration to the Southwest
 
-People settle in Southwestern Faltera ([[Faltera/Margavelle/The Grand Duchy of Margavelle\|Margavelle]] area).
+People settle in Southwestern Faltera ([[The Grand Duchy of Margavelle|Margavelle]] area).

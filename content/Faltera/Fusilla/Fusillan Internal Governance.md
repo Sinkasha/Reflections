@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.455-08:00
-cssclasses: ""
+Title: Fusillan Internal Governance
+Type: Political
+Blurb:
 ---
-
 # Fusillan Internal Governance
 
 **The Ruling Monarch** has the highest authority, and can veto or execute any law as seen fit. There are internal policies and regulations regarding the frequency the Monarch can abuse this power, but given the teachings of Fusilla, this hardly goes overused, at least in the eyes of the people. The Monarch receives suggestions for laws by the Parliamentary Regent. The Monarch also acts as the head of the Fusillan Military.

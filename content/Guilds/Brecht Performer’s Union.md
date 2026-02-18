@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.590-08:00
-cssclasses: ""
+Title: Brecht Performer's Union
+Type: Guilds
+Blurb: Performers
 ---
-
 # Brecht Performer’s Union
 
 President: Francois Plowright (famous singer)

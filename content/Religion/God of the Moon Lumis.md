@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.948-08:00
-cssclasses: ""
+Title: Lumis
+Type: Religion
+Blurb: God of the Moon
 ---
-
 # God of the Moon: Lumis
 *Chaotic Good*
 

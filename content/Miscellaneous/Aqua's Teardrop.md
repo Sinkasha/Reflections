@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.788-08:00
-cssclasses: ""
+Title: Aqua's Teardrop
+Type: Items
+Blurb: Time Manipulation Item
 ---
-
 # Aqua's Teardrop
 
 Discovered [[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss#^023a86\|here]]. It turns the royal castle of [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]] into a flying castle.

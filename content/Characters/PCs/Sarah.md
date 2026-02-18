@@ -1,9 +1,9 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.061-08:00
-cssclasses: ""
+Title: Sarah
+Type: PC
+Blurb:
 ---
-
 
 
 # $\Sigma\alpha\rho\alpha$

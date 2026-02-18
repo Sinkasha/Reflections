@@ -1,19 +1,19 @@
 ---
 publish: true
-Title: Azathoth
-Type: Religion
-Blurb: God of Consciousness
+modified: 2026-02-17T18:17:15.896-08:00
+cssclasses: ""
 ---
+
 # God of Consciousness Azathoth
 _Ancestor to the Gods of Human Nature_
 
-One of the progenitor gods, the primitive god of consciousness, which gave creatures consciousness and intelligence. They find humanity intriguing. The God of Consciousness does not like [[God of Death Nyarlathotep\|Nyarlathotep]] who believes he should be the only one with sentience and intelligence and swears to go for Azathoth's head. Furthermore, one can't be conscious when they are dead. He is equal in power to Nyarlathotep. He finds humanity endearing with their odd displays of gratitude (Yul's banana). 
+One of the progenitor gods, the primitive god of consciousness, which gave creatures consciousness and intelligence. They find humanity intriguing. The God of Consciousness does not like [[Religion/God of Death Nyarlathotep\|Nyarlathotep]] who believes he should be the only one with sentience and intelligence and swears to go for Azathoth's head. Furthermore, one can't be conscious when they are dead. He is equal in power to Nyarlathotep. He finds humanity endearing with their odd displays of gratitude (Yul's banana). 
 
 > This is delightful, I was certainly correct for granting consciousness to your kind, for you act with such odd displays of gratitude, I enjoy this object you call a banana. 
 
-Assisted in creating the [[Crown of the Elements]]. According to [[Goddess of the Water Thetis|Thetis]], Azathoth entrusted the elementals with bringing him back, accurately predicting his demise to Nyarlathotep. He entrusted some of his power into the elemental gods so that they may be wakened. Each gemstone of the elementals hold a fraction of our power so that his crown can bring Azathoth back.
+Assisted in creating the [[Miscellaneous/Crown of the Elements]]. According to [[Religion/Goddess of the Water Thetis\|Thetis]], Azathoth entrusted the elementals with bringing him back, accurately predicting his demise to Nyarlathotep. He entrusted some of his power into the elemental gods so that they may be wakened. Each gemstone of the elementals hold a fraction of our power so that his crown can bring Azathoth back.
 
-At some point in time he split himself into multiple gods, now known as the [[The Major Gods#Gods of Human Nature|Gods of Human Nature]]. The four that are common knowledge are chaos, order, fortune, and greed, but it's believed among academics who research this he has more parts. [[Nim]] knows of two others, Benevolence and Malice. Due to the presence of the 10 pillars in the ruin in [[Everholden]] which also has Azathoth's bust, it is likely that he split himself into 10 gods. However, based on the [[21 - 8.22.2024 - Killed a Fake Dragon#^fa89eb\|vision]] that was seen when sitting on the throne in Everholden, Azathoth split himself into 9 clay statues. The inscriptions on the [[20 - 8.7.2024 - Chat is this real#^b4bb68\|pillars]] are (the gods in the parentheses are guesses as to which god relates to which inscription and unless bolded are not confirmed):
+At some point in time he split himself into multiple gods, now known as the [[Religion/The Major Gods#Gods of Human Nature\|Gods of Human Nature]]. The four that are common knowledge are chaos, order, fortune, and greed, but it's believed among academics who research this he has more parts. [[Characters/PCs/Nim]] knows of two others, Benevolence and Malice. Due to the presence of the 10 pillars in the ruin in [[Faltera/Fusilla/Everholden]] which also has Azathoth's bust, it is likely that he split himself into 10 gods. However, based on the [[Session Notes - Reflections/21 - 8.22.2024 - Killed a Fake Dragon#^fa89eb\|vision]] that was seen when sitting on the throne in Everholden, Azathoth split himself into 9 clay statues. The inscriptions on the [[Session Notes - Reflections/20 - 8.7.2024 - Chat is this real#^b4bb68\|pillars]] are (the gods in the parentheses are guesses as to which god relates to which inscription and unless bolded are not confirmed):
 
 1. As it is divinely ordained all shall be mine _(Greed)_
 2. The true beauty of life lies in its structure _(Order)_

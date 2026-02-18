@@ -1,9 +1,9 @@
 ---
 publish: true
-Title: Aurus
-Type: Religion
-Blurb: God of Fortune
+modified: 2026-02-17T18:17:15.913-08:00
+cssclasses: ""
 ---
+
 # God of Fortune: Aurus
 *Neutral Good*
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-Title: Thalanrod, Dagdra
-Type: Place
-Blurb: The Overdark
+modified: 2026-02-17T18:17:15.380-08:00
+cssclasses: ""
 ---
+
 # Thalanrod
 
 Also known as the Overdark.

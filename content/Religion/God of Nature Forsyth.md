@@ -1,9 +1,9 @@
 ---
 publish: true
-Title: Forsyth
-Type: Religion
-Blurb: God of Nature
+modified: 2026-02-17T18:17:15.934-08:00
+cssclasses: ""
 ---
+
 # God of Nature: Forsyth
 *Lawful Good*
 

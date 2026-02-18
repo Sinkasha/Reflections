@@ -1,5 +1,5 @@
 ---
-title: Invisibility
+Title: Invisibility
 Level: 2
 Range: Touch
 ---

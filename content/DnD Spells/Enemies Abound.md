@@ -1,5 +1,5 @@
 ---
-title: Enemies Abound
+Title: Enemies Abound
 Level: 3
 Range: 120 feet
 ---

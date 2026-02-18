@@ -1,10 +1,9 @@
 ---
 publish: true
-title: Mar S'den
-modified: 2025-07-12T19:14:44.000-07:00
-cssclasses: ""
+Title: Mar S'den
+Type: PC
+Blurb:
 ---
-
 
 
 # Mar S'den

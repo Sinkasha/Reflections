@@ -1,5 +1,5 @@
 ---
-title: Sending
+Title: Sending
 Level: 3
 Range: Unlimited
 ---

@@ -1,5 +1,5 @@
 ---
-title: Silvery Barbs
+Title: Silvery Barbs
 Level: 1
 Range: 60 feet
 ---

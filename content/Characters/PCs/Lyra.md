@@ -1,14 +1,13 @@
 ---
 publish: true
-title: Lyra
-modified: 2026-02-17T13:52:07.559-08:00
-cssclasses: ""
+Title: Lyra
+Type: PC
+Blurb: Laura's Gambling Half-Elf Sorcerer
 ---
-
 # Lyra
 
 Laura's Gambling Half-Elf Sorcerer
 
-She loves gambling. Her father is [[Characters/NPCs/Horace Frostdir]]. The human side of her family were the Goldrunes, unrelated to the city of Goldrune in Dagdra. She is from Gongaga, [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]].
+She loves gambling. Her father is [[Horace Frostdir]]. The human side of her family were the Goldrunes, unrelated to the city of Goldrune in Dagdra. She is from Gongaga, [[The Empire of Dagdra|Dagdra]].
 
-Descendent of [[Religion/God of Chaos Hrym]].
+Descendent of [[God of Chaos Hrym]].

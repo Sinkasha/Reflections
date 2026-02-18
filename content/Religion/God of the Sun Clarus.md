@@ -1,10 +1,9 @@
 ---
 publish: true
-title: Clarus
-modified: 2025-07-13T17:11:14.000-07:00
-cssclasses: ""
+Title: Clarus
+Type: Religion
+Blurb: God of the Sun
 ---
-
 # God of the Sun: Clarus
 *Chaotic Good*
 

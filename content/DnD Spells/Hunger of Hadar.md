@@ -1,5 +1,5 @@
 ---
-title: Hunger of Hadar
+Title: Hunger of Hadar
 Level: 3
 Range: 150 feet
 ---

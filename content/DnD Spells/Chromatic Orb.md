@@ -1,5 +1,5 @@
 ---
-title: Chromatic Orb
+Title: Chromatic Orb
 Level: 1
 Range: 90 feet
 ---

@@ -1,5 +1,5 @@
 ---
-title: Prestidigitation
+Title: Prestidigitation
 Level: 0
 Range: 10 feet
 ---

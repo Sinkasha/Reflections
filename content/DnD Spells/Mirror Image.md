@@ -1,5 +1,5 @@
 ---
-title: Mirror Image
+Title: Mirror Image
 Level: 2
 Range: Self
 ---

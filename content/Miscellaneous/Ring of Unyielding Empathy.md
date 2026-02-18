@@ -1,14 +1,13 @@
 ---
 publish: true
-title: Ring of Unyielding Empathy
-modified: 2025-07-19T02:33:18.000-07:00
-cssclasses: ""
+Title: Ring of Unyielding Empathy
+Type: Items
+Blurb: Cursed Ring?
 ---
-
 # Ring of Unyielding Empathy
 
 While wearing the ring, you have advantage on Insight and Persuasion checks. Furthermore, if a creature other than yourself within 60 feet of you gets healed that you can see, you get healed for 50% of the amount they got healed.
 
 You can attune to the ring.
 
-The ring is cursed. While wearing it, [[Characters/PCs/Sarah]] feels a name, "Luke Valenbar" become familiar and felt a connection towards them and could even speak to them.
+The ring is cursed. While wearing it, [[Sarah]] feels a name, "Luke Valenbar" become familiar and felt a connection towards them and could even speak to them.

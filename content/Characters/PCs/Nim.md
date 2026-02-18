@@ -1,10 +1,9 @@
 ---
 publish: true
-title: Nim
-modified: 2025-07-12T19:14:44.000-07:00
-cssclasses: ""
+Title: Nim
+Type: PC
+Blurb:
 ---
-
 
 
 # Nim

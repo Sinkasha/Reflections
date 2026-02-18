@@ -1,5 +1,5 @@
 ---
-title: Dissonant Whispers
+Title: Dissonant Whispers
 Level: 1
 Range: 60 feet
 ---

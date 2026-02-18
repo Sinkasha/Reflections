@@ -1,5 +1,5 @@
 ---
-title: Tasha's Mind Whip
+Title: Tasha's Mind Whip
 Level: 2
 Range: 90 feet
 ---

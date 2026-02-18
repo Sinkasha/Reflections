@@ -1,5 +1,5 @@
 ---
-title: Light
+Title: Light
 Level: 0
 Range: Touch
 ---

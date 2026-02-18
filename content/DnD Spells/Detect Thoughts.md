@@ -1,5 +1,5 @@
 ---
-title: Detect Thoughts
+Title: Detect Thoughts
 Level: 2
 Range: Self
 ---

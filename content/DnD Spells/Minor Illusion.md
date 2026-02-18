@@ -1,5 +1,5 @@
 ---
-title: Minor Illusion
+Title: Minor Illusion
 Level: 0
 Range: 30 feet
 ---

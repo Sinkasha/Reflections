@@ -1,10 +1,9 @@
 ---
 publish: true
-title: Geimshall Woods, Fusilla
-modified: 2026-02-17T14:20:52.856-08:00
-cssclasses: ""
+Title: Geimshall Woods, Fusilla
+Type: Place
+Blurb: Magical Woods
 ---
-
 # Geimshall Woods
 
-Where [[Characters/PCs/Bloo]] awoke. Has a petricite tree which is believed to not hail from this world. There is a sanctuary within these woods that [[Characters/NPCs/Violet]] walked into that feels incredibly familiar to Bloo. There is a reason why Bloo awoke here.
+Where [[Bloo]] awoke. Has a petricite tree which is believed to not hail from this world. There is a sanctuary within these woods that [[Violet]] walked into that feels incredibly familiar to Bloo. There is a reason why Bloo awoke here.

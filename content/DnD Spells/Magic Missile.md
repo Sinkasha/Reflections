@@ -1,5 +1,5 @@
 ---
-title: Magic Missile
+Title: Magic Missile
 Level: 1
 Range: 120 feet
 ---

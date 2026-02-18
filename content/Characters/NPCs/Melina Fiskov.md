@@ -1,14 +1,13 @@
 ---
 publish: true
-title: Melina Fiskov
-modified: 2025-07-12T19:38:22.000-07:00
-cssclasses: ""
+Title: Melina Fiskov
+Type: NPC
+Blurb: Head of Fiskov Family
 ---
-
 # Melina Fiskov
 
-Head of [[Characters/NPCs/Fiskov Family]]
+Head of [[Fiskov Family]]
 
-Current head of [[Guilds/Halpyr’s Adventurers]].
+Current head of [[Halpyr’s Adventurers]].
 
-She has been sent to [[Faltera/Dagdra/Windrest]] a fair bit as part of being in an adventurer's guild.
+She has been sent to [[Windrest]] a fair bit as part of being in an adventurer's guild.

@@ -1,10 +1,9 @@
 ---
+Title: The Cloak of Water Immersion
+Type: Items
+Blurb: Become Puddle
 publish: true
-title: The Cloak of Water Immersion
-modified: 2025-10-20T15:30:37.914-07:00
-cssclasses: ""
 ---
-
 # The Cloak of Water Immersion
 *A navy blue colored cloak*
 

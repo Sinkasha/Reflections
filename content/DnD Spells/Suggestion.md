@@ -1,5 +1,5 @@
 ---
-title: Suggestion
+Title: Suggestion
 Level: 2
 Range: 30 feet
 ---

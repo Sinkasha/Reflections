@@ -1,5 +1,5 @@
 ---
-title: Misty Step
+Title: Misty Step
 Level: 2
 Range: Self
 ---

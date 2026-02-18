@@ -1,5 +1,5 @@
 ---
-title: Mind Sliver
+Title: Mind Sliver
 Level: 0
 Range: 60 feet
 ---

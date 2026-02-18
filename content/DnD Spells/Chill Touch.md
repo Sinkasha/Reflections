@@ -1,5 +1,5 @@
 ---
-title: Chill Touch
+Title: Chill Touch
 Level: 0
 Range: 120 feet
 ---

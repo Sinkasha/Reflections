@@ -1,5 +1,5 @@
 ---
-title: Mage Hand
+Title: Mage Hand
 Level: 0
 Range: 30 feet
 ---

@@ -1,5 +1,5 @@
 ---
-title: Arms of Hadar
+Title: Arms of Hadar
 Level: 1
 Range: Self (10-foot radius)
 ---

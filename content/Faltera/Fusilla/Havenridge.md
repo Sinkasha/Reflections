@@ -1,12 +1,11 @@
 ---
 publish: true
-title: Havenridge, Fusilla
-modified: 2025-07-13T16:50:20.000-07:00
-cssclasses: ""
+Title: Havenridge, Fusilla
+Type: Place
+Blurb: Related to Lyra's heritage
 ---
-
 
 
 # Havenridge
 
-Related to [[Characters/PCs/Lyra]]'s heritage.
+Related to [[Lyra]]'s heritage.

@@ -1,5 +1,5 @@
 ---
-title: Religion of Faltera
+Title: Religion of Faltera
 Type: Reference
 Blurb: Religion of Faltera
 ---

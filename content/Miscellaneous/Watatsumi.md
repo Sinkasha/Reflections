@@ -1,10 +1,9 @@
 ---
 publish: true
-title: Watatsumi
-modified: 2025-09-16T09:45:54.000-07:00
-cssclasses: ""
+Title: Watatsumi
+Type: Items
+Blurb: Water Fan
 ---
-
 # Watatsumi
 
 The blue fan has powers of the water, giving this fan a suspended liquid shape until you change it. You have the ability to freeze and unfreeze the water to the shape of the fan itself. This cannot extend the range of this weapon to reach, however. Its unattuned state is a deep blue, crystal-esque fan.
@@ -20,4 +19,4 @@ Water Mastery: Twice per long rest, you may choose to cast one of the following 
 - Water Walk
 - Wall of Water
 
-Acquired [[Session Notes - Reflections/14 - 5.23.2024 - FISH CRYSTALS#^7de2bf\|here]] by [[Characters/PCs/Yul]].
+Acquired [[14 - 5.23.2024 - FISH CRYSTALS#^7de2bf\|here]] by [[Yul]].

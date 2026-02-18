@@ -1,10 +1,9 @@
 ---
 publish: true
-title: The League of Larcenists
-modified: 2025-09-16T09:42:56.000-07:00
-cssclasses: ""
+Title: The League of Larcenists
+Type: Guilds
+Blurb: Thieves
 ---
-
 # The League of Larcenists
 
 Leaders unknown
@@ -20,5 +19,5 @@ Motto: "We steal but we do not kill, we do what's right for the world."
 There are rumors ([[Session Notes - Reflections/09 - 4.04.2024 - The Consequences of Our Actions#^13958c\|here]]) that the League is going to to target [[Faltera/Fusilla/The Kingdom of Fusilla#Parli\|Parli]].
 
 ### Known Members
-- [[Characters/NPCs/Jeice]]
-- [[Characters/NPCs/Petra von Alspar]]
+- [[Jeice]]
+- [[Petra von Alspar]]

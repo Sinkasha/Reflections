@@ -1,5 +1,5 @@
 ---
-title: Lightning Bolt
+Title: Lightning Bolt
 Level: 3
 Range: Self (100-foot line)
 ---

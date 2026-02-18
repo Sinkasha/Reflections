@@ -1,10 +1,9 @@
 ---
 publish: true
-title: Assal Artisans Guild
-modified: 2025-07-12T14:24:04.000-07:00
-cssclasses: ""
+Title: Assal Artisans Guild
+Type: Guilds
+Blurb: Artisans
 ---
-
 # Assal Artisans Guild
 
 Headmaster: Parrago Alexestria

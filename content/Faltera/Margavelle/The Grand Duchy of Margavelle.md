@@ -1,10 +1,9 @@
 ---
 publish: true
-title: The Grand Duchy of Margavelle
-modified: 2025-07-13T17:08:50.000-07:00
-cssclasses: ""
+Title: The Grand Duchy of Margavelle
+Type: Country
+Blurb: Margavelle
 ---
-
 # The Grand Duchy of Margavelle
 
 > [!info]+
@@ -17,10 +16,10 @@ cssclasses: ""
 > | Capital                     | Relfor                                                                  |
 > | Economic System             | Feudal Capitalism                                                       |
 > | Primary Exports             | Vegetables, Artisan Goods, Music and Instruments, Entertainment         |
-> | Preferred Trade             | [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]], [[Faltera/Odema/The Holy State of Odema\|Odema]] |
+> | Preferred Trade             | [[The Kingdom of Fusilla\|Fusilla]], [[The Holy State of Odema\|Odema]] |
 > | Prominent Natural Resources | Wood, wheat, potatoes, fruits, vegetables, crystals, gold               |
 >
-> #### [[Faltera/Margavelle/Margavellan Internal Governance]]
+> #### [[Margavellan Internal Governance]]
 >
 > | Title          | Name             |
 > | -------------- | ---------------- |
@@ -33,7 +32,6 @@ cssclasses: ""
 The Grand Duchy of Margavelle is a smaller nation in Faltera. This nation has comparatively less influence in Faltera when compared to [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]] and [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]], but that is no reason to take this country lightly.
 
 ## Places
-|Place|Blurb|
-|---|---|
-
-Dataview: No results to show for table query.
+```dataviewjs
+dv.table(["Place", "Blurb"], dv.pages('"Faltera/Margavelle" and -"Faltera/Margavelle/The Grand Duchy of Margavelle.md" and -"Faltera/Margavelle/Margavellan Internal Governance.md"').sort(a => a.title).map(a => [dv.fileLink(a.file.path,false,[a.title]), a.blurb]))
+```

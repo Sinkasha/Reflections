@@ -1,5 +1,5 @@
 ---
-title: Detect Magic
+Title: Detect Magic
 Level: 1
 Range: Self
 ---

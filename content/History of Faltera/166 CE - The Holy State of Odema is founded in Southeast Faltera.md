@@ -1,10 +1,10 @@
 ---
 publish: true
-title: 166 CE
-modified: 2025-07-12T14:18:00.000-07:00
-cssclasses: ""
+Title: 166 CE
+Type: Events
+Blurb: The Holy State of Odema is founded in Southeast Faltera
+date: 0166-01-01
 ---
+# 166 CE - [[The Holy State of Odema]] is founded in Southeast Faltera
 
-# 166 CE - [[Faltera/Odema/The Holy State of Odema]] is founded in Southeast Faltera
-
-A devout nation dedicated to the worship of the [[Religion/The Major Gods\|Pantheon]].
+A devout nation dedicated to the worship of the [[The Major Gods|Pantheon]].

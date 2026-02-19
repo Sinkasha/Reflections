@@ -1,10 +1,10 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:14.644-08:00
+modified: 2026-02-18T20:17:03.444-08:00
 cssclasses: ""
 ---
 
-# Count Canonbury
+# Count Leopold Canonbury
 *The Dead Count*
 
 An elf who was once a student of the magic academy trying to become a legendary inventor. He attempted to replicate the [[Miscellaneous/The Mirror of Enveloping Darkness]] without the bad side effects and says that the other side of his mirror is a person's own mindscape. Turns out it was portal to somewhere that projected the mindscape. He worked as a scientist for [[Characters/NPCs/The Order of the Fish]] and had been researching people coming into the Material Plane from the Fae Wild through [[Miscellaneous/The Count's Orb\|the orb]]. The count was investigating the various portals that are popping up everywhere due to the [[History of Faltera/271 CE - The Interplanar Expansion\|interplanar expansion]].

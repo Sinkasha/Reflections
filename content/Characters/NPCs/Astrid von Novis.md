@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:14.601-08:00
+modified: 2026-02-18T23:34:12.967-08:00
 cssclasses: ""
 ---
 
@@ -18,3 +18,5 @@ She placed a shard of [[Miscellaneous/The Mirror of Enveloping Darkness]] inside
 She is the highest ranking member of the [[Guilds/Vasara Adventuring Company]].
 
 She believes that she can take on Hades, [[Religion/God of Death Nyarlathotep\|Nyarlathotep]]'s 3rd vow.
+
+She initially sealed the woestrider (or fate strider/fate walker) at [[Faltera/Hyritia/Celestial Peak, Valzelia]]. 

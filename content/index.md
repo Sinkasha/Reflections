@@ -64,7 +64,7 @@ cssclasses: ""
 |[[Characters/NPCs/Bugbear\|Bugbear]]|Max's Retired Bugbear Ranger|
 |[[Characters/NPCs/Cassandra Selevir\|Cassandra Selevir]]|Head of Thalum Mercenary Company|
 |[[Characters/NPCs/Cedrick Feldspar\|Cedrick Feldspar]]|Shepherd at Everholden|
-|[[Characters/NPCs/Count Canonbury\|Count Canonbury]]|The Dead Count|
+|[[Characters/NPCs/Count Canonbury\|Count Leopold Canonbury]]|The Dead Count|
 |[[Characters/NPCs/Derrick Fiskov\|Derrick Fiskov]]|The Formerly Cursed Shopkeeper|
 |[[Characters/NPCs/Drake\|Drake]]|Warlock|
 |[[Characters/NPCs/Draythus Alacard\|Draythus Alacard]]|Chief Inquisitor of Hyritia|

@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:14.925-08:00
+modified: 2026-02-18T20:16:28.923-08:00
 cssclasses: ""
 ---
 
@@ -13,6 +13,8 @@ The Order is a political faction based in [[Faltera/Dagdra/Windrest]]. Their goa
 Related to [[Miscellaneous/The Fish Crystals]]. Not all members of the Order follow [[Religion/God of Death Nyarlathotep\|Nyarlathotep]], and the Nyarlathotep followers are using the Order. Nyarlathotep followers' and the Order's goals sort of align. [[Guilds/The League of Larcenists]] is a nonlethal branch of the Order. They are a distraction.
 
 The upper ranks of the Order all have markings on their face.
+
+The upper ranks are called the Upper Trinity. 
 
 ##### Known Members:
 

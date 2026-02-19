@@ -51,3 +51,4 @@ cssclasses: ""
 |36|[[Session Notes - Reflections/36 - 10.14.2025 - Dongling Around\|Dongling Around]]|April 22, 0347|October 14, 2025|
 |37|[[Session Notes - Reflections/37 - 10.21.2025 - Death to Dongle\|Death to Dongle]]|April 23, 0347|October 21, 2025|
 |38|[[Session Notes - Reflections/38 - 12.16.2025 - We May Have Fucked Up\|We May Have Fucked Up]]|April 23, 0347|December 16, 2025|
+|39|[[Session Notes - Reflections/39 - 02.18.2026 - THE ILLUSION DOTH NOT FOOL THEE TODAY\|THE ILLUSION DOTH NOT FOOL THEE TODAY]]|April 23, 0347|February 18, 2026|

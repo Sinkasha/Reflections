@@ -1,11 +1,12 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.630-08:00
-cssclasses: ""
 ---
 
 # History of Faltera
-## Present Day - Year 347 CE 
+
+## Present Day - Year 347 CE
+
 |Event|
 |---|
 |[[History of Faltera/1 CE - The Kingdom of Fusilla is established across Central Faltera.\|1 CE - The Kingdom of Fusilla is established across Central Faltera.]]|

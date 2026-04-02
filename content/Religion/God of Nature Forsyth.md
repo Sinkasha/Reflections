@@ -1,11 +1,11 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.934-08:00
-cssclasses: ""
 ---
 
 # God of Nature: Forsyth
-*Lawful Good*
+
+_Lawful Good_
 
 ![[Images/God of Nature Symbol.png|100]]
 

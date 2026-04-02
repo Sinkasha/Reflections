@@ -1,12 +1,11 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.788-08:00
-cssclasses: ""
 ---
 
 # Aqua's Teardrop
 
-Discovered [[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss#^023a86\|here]]. It turns the royal castle of [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]] into a flying castle.
+Discovered [[Session Notes - Reflections/16 - 06.07.2024 - The Big Boss#^023a86|here]]. It turns the royal castle of [[Faltera/Fusilla/The Kingdom of Fusilla|Fusilla]] into a flying castle.
 
 Astrid imbued some of her magic into it, it can be used to stop a frame of time whilst it retains its momentum.
 

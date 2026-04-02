@@ -1,11 +1,11 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.948-08:00
-cssclasses: ""
 ---
 
 # God of the Moon: Lumis
-*Chaotic Good*
+
+_Chaotic Good_
 
 ![[Images/God of the Moon Symbol.png|100]]
 

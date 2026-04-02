@@ -1,7 +1,6 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.562-08:00
-cssclasses: ""
 ---
 
 # The Grand Duchy of Margavelle
@@ -16,10 +15,10 @@ cssclasses: ""
 > | Capital                     | Relfor                                                                  |
 > | Economic System             | Feudal Capitalism                                                       |
 > | Primary Exports             | Vegetables, Artisan Goods, Music and Instruments, Entertainment         |
-> | Preferred Trade             | [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]], [[Faltera/Odema/The Holy State of Odema\|Odema]] |
+> | Preferred Trade             | [[The Kingdom of Fusilla|Fusilla]], [[The Holy State of Odema|Odema]] |
 > | Prominent Natural Resources | Wood, wheat, potatoes, fruits, vegetables, crystals, gold               |
 >
-> #### [[Faltera/Margavelle/Margavellan Internal Governance]]
+> #### [[Margavellan Internal Governance]]
 >
 > | Title          | Name             |
 > | -------------- | ---------------- |
@@ -29,9 +28,10 @@ cssclasses: ""
 > | President      | Zeledor Herewild |
 > | Lawspeaker     | Eve Beldinam     |
 
-The Grand Duchy of Margavelle is a smaller nation in Faltera. This nation has comparatively less influence in Faltera when compared to [[Faltera/Fusilla/The Kingdom of Fusilla\|Fusilla]] and [[Faltera/Dagdra/The Empire of Dagdra\|Dagdra]], but that is no reason to take this country lightly.
+The Grand Duchy of Margavelle is a smaller nation in Faltera. This nation has comparatively less influence in Faltera when compared to [[Faltera/Fusilla/The Kingdom of Fusilla|Fusilla]] and [[Faltera/Dagdra/The Empire of Dagdra|Dagdra]], but that is no reason to take this country lightly.
 
 ## Places
+
 |Place|Blurb|
 |---|---|
 

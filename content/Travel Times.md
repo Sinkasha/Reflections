@@ -1,7 +1,6 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:16.125-08:00
-cssclasses: ""
 ---
 
 # Travel Times
@@ -10,13 +9,13 @@ Note: Distances assumes you are traveling by Horse drawn carriage. A railroad sy
 
 ## Land
 
-Parli - Everholden: 3-4 days 
-Parli - Ashfall: 4 days 
-Parli - Lake Novis: 4 days 
-Parli - Salcrest: 6 days 
-Canonbury - Ashfall: 3 days 
-Vasara - Canonbury: 3 days 
-Vasara - Ashfall: 3 days 
+Parli - Everholden: 3-4 days
+Parli - Ashfall: 4 days
+Parli - Lake Novis: 4 days
+Parli - Salcrest: 6 days
+Canonbury - Ashfall: 3 days
+Vasara - Canonbury: 3 days
+Vasara - Ashfall: 3 days
 Ashfall - Calvinach: 5 days
 Vasara - Slateport: 4 days
 Slateport - Ridgepeak: 3 days

@@ -1,21 +1,18 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.082-08:00
-cssclasses: ""
 ---
-
-
 
 # Yul
 
 Rachel's Tiefling Cleric, AKA Banana
 
 A banana.
-Freed by [[Characters/PCs/Nim]] at [[Faltera/Dagdra/The Empire of Dagdra#Crescent Grove\|Crescent Grove]]. Originally sealed by [[Characters/NPCs/The Council of Archmages]].
+Freed by [[Characters/PCs/Nim]] at [[Faltera/Dagdra/The Empire of Dagdra#Crescent Grove|Crescent Grove]]. Originally sealed by [[Characters/NPCs/The Council of Archmages]].
 
-She gains her powers from [[Religion/Religion of Faltera#God of Life Yddris\|Yddris]]. Apparently her blood is poisonous.
+She gains her powers from [[Religion of Faltera#God of Life Yddris|Yddris]]. Apparently her blood is poisonous.
 
-According to [[Characters/NPCs/Count Canonbury]], Yul was sealed in the ruins and is possibly a cursed blood puppet ([[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^45371e\|here]]). Her blood is poisonous
+According to [[Characters/NPCs/Count Canonbury]], Yul was sealed in the ruins and is possibly a cursed blood puppet ([[Session Notes - Reflections/06 - 1.25.2024 - The Count's Balls#^45371e|here]]). Her blood is poisonous
 
 Using Detect Magic, one can detect faint Necromancy magic around the core of her body. She is not undead. Using Identify, one notices that there are no active spells affecting Yul, but she has a magical core that is not active but has traces of necromancy magic on it. Apparently it is supplementing the heart. Can feel some evil from her magical core.
 

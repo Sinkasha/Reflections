@@ -1,10 +1,7 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.061-08:00
-cssclasses: ""
 ---
-
-
 
 # $\Sigma\alpha\rho\alpha$
 
@@ -16,6 +13,6 @@ Sarah hates curses. Her primary goal is removing curses. She wants to remove all
 
 Sarah hates vengeful deities who are mostly likely to inflict curses.
 
-Sarah likes to yap. She was born in [[Faltera/Hyritia/The Hyritian Alliance#Celestial Peak\|Celestial Peak]] and used to live around [[Faltera/Fusilla/The Kingdom of Fusilla#Frostwind\|Frostwind]].
+Sarah likes to yap. She was born in [[Faltera/Hyritia/The Hyritian Alliance#Celestial Peak|Celestial Peak]] and used to live around [[Faltera/Fusilla/The Kingdom of Fusilla#Frostwind|Frostwind]].
 
 Sarah was previously engaged with [[Characters/NPCs/Allie]] but then Allie passed away.

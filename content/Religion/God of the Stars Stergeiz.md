@@ -1,11 +1,11 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.964-08:00
-cssclasses: ""
 ---
 
 # God of the Stars: Stergeiz
-*Neutral Good*
+
+_Neutral Good_
 
 ![[Images/God of the Stars Symbol.png|100]]
 

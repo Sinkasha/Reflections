@@ -1,7 +1,6 @@
 ---
 publish: true
 modified: 2026-02-17T18:17:15.812-08:00
-cssclasses: ""
 ---
 
 # Ring of Unyielding Empathy
@@ -10,4 +9,4 @@ While wearing the ring, you have advantage on Insight and Persuasion checks. Fur
 
 You can attune to the ring.
 
-The ring is cursed. While wearing it, [[Characters/PCs/Sarah]] feels a name, "Luke Valenbar" become familiar and felt a connection towards them and could even speak to them.
+The ring is cursed. While wearing it, [[Sarah]] feels a name, "Luke Valenbar" become familiar and felt a connection towards them and could even speak to them.

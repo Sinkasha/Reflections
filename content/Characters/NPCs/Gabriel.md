@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:14.757-08:00
+modified: 2026-04-12T17:11:22.382-07:00
 ---
 
 # Gabriel
@@ -15,4 +15,6 @@ When we see Gabriel at the tea party in [[32 - 07.23.2025 - Tea Party]], he was 
 
 Gabriel wants [[Yul]]. Reason unknown.
 
-Gabriel may be Ruin's chosen one.
+Gabriel is oathbound to not kill [[Bloo]], [[Sarah]], [[Nim]], or [[Yul]].
+
+Gabriel is the demigod Ruin.

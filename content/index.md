@@ -94,6 +94,7 @@ modified: 2026-02-17T18:17:16.127-08:00
 |[[Characters/NPCs/Tiefling Dude\|Tiefling Dude]]|-|
 |[[Characters/NPCs/Violet\|Violet]]|-|
 |[[Characters/NPCs/Wilfred Dongle\|Wilfred Dongle]]|Metalwork Keyholder|
+|[[Characters/NPCs/Yul Sister\|Yul Sister]]|Yul's sister?? Who this|
 
 ## PC
 

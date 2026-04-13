@@ -52,3 +52,4 @@ modified: 2026-02-17T18:17:16.007-08:00
 |38|[[Session Notes - Reflections/38 - 12.16.2025 - We May Have Fucked Up\|We May Have Fucked Up]]|April 23, 0347|December 16, 2025|
 |39|[[Session Notes - Reflections/39 - 02.18.2026 - THE ILLUSION DOTH NOT FOOL THEE TODAY\|THE ILLUSION DOTH NOT FOOL THEE TODAY]]|April 23, 0347|February 18, 2026|
 |40|[[Session Notes - Reflections/40 - 04.01.2026 - We're not stupid!\|We're not stupid!]]|April 23, 0347|April 01, 2026|
+|41|[[Session Notes - Reflections/41 - 04.07.2026 - The Medium Boss\|The Medium Boss]]|April 23, 0347|April 07, 2026|

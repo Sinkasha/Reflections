@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.902-08:00
+modified: 2026-04-12T17:12:02.935-07:00
 ---
 
 # God of Death: Nyarlathotep
@@ -22,7 +22,7 @@ Nyarlathotep has 8 Sinister Vows, who are super loyal followers of Nyarlathotep.
 1. Abyss, General/Apostle of Nyarlathotep, similar in role / function to Hades, but isn't a Plane, more so a conceptual being. It's more than just an all consuming abyss. [[Goddess of Honesty Veritus|Veritus]] is fighting Abyss, and according to Thetis, died to Emptiness while fighting them both. Abyss embodies emptiness.
 2. Emptyness, Veritus is fighting them too.
 3. King Hades, Ruler of the Plane of Hades, is the third vow of Nyarlathotep. In order to summon him, one must carry out a specific divine ritual. Its requirements include 3 severed heads, dried roots and ashes of the roots of a petricite tree in [[Geimshall Woods]]. The ritual takes 2 hours and requires immense concentration, hand gestures, and a summoning circle. According to [[Astrid von Novis]], Hades is just a personification.
-4. Ruin, the strongest Sinister Vow. He has the ability to destroy anything he comes in contact or near with. If his full power is regained, he could wipe out all of Faltera.
+4. Ruin, the strongest Sinister Vow. He has the ability to destroy anything he comes in contact or near with. If his full power is regained, he could wipe out all of Faltera. Is [[Gabriel]]
    Potentially his sigil:
    ![[Ruin Sigil.png|100]]
 

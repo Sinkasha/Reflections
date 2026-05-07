@@ -72,6 +72,7 @@ modified: 2026-02-17T18:17:16.127-08:00
 |[[Characters/NPCs/Duessel Sarde\|Duessel Sarde]]|Revolutionary Leader AKA the "Shadebringer"|
 |[[Characters/NPCs/Edwin\|Edwin]]|Samurai Duck|
 |[[Characters/NPCs/Ellery Woddlespin\|Ellery Woddlespin]]|Famous Weaponsmith|
+|[[Characters/NPCs/Emeric Thorne\|Emeric Thorne]]|Professor|
 |[[Characters/NPCs/Fae Fiskov\|Fae Fiskov]]|-|
 |[[Characters/NPCs/Fiskov Family\|Fiskov Family]]|A family of elves.|
 |[[Characters/NPCs/Gabriel\|Gabriel]]|-|
@@ -79,6 +80,7 @@ modified: 2026-02-17T18:17:16.127-08:00
 |[[Characters/NPCs/Horace Frostdir\|Horace Frostdir]]|Astrid von Novis's apprentice|
 |[[Characters/NPCs/Hugo Starling\|Hugo Starling]]|Horace Frostdir's Apprentice|
 |[[Characters/NPCs/Jeice\|Jeice]]|-|
+|[[Characters/NPCs/Lysanthir Elynir\|Lysanthir Elynir]]|Astrid von Novis's apprentice|
 |[[Characters/NPCs/Marcan Beakoup\|Marcan Beakoup]]|Matthew's Retired Arrakocra Paladin|
 |[[Characters/NPCs/Melina Fiskov\|Melina Fiskov]]|Head of Fiskov Family|
 |[[Characters/NPCs/Mikhail\|Mikhail]]|Upper Rank of the Order of the Fish|
@@ -94,7 +96,7 @@ modified: 2026-02-17T18:17:16.127-08:00
 |[[Characters/NPCs/Tiefling Dude\|Tiefling Dude]]|-|
 |[[Characters/NPCs/Violet\|Violet]]|-|
 |[[Characters/NPCs/Wilfred Dongle\|Wilfred Dongle]]|Metalwork Keyholder|
-|[[Characters/NPCs/Yul Sister\|Yul Sister]]|Yul's sister?? Who this|
+|[[Characters/NPCs/Yul Sister\|Yul Sister]]|Primrose|
 
 ## PC
 

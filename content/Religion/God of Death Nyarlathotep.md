@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-04-12T17:12:02.935-07:00
+modified: 2026-05-27T16:59:19.885-07:00
 ---
 
 # God of Death: Nyarlathotep
@@ -20,10 +20,12 @@ In modern day, [[The Order of the Fish]] worship Nyarlathotep.
 Nyarlathotep has 8 Sinister Vows, who are super loyal followers of Nyarlathotep. Not much is known about them as history has been intentionally obfuscated.
 
 1. Abyss, General/Apostle of Nyarlathotep, similar in role / function to Hades, but isn't a Plane, more so a conceptual being. It's more than just an all consuming abyss. [[Goddess of Honesty Veritus|Veritus]] is fighting Abyss, and according to Thetis, died to Emptiness while fighting them both. Abyss embodies emptiness.
-2. Emptyness, Veritus is fighting them too.
+2. Emptiness, Veritus is fighting them too. [[Violet]] is also fighting them
 3. King Hades, Ruler of the Plane of Hades, is the third vow of Nyarlathotep. In order to summon him, one must carry out a specific divine ritual. Its requirements include 3 severed heads, dried roots and ashes of the roots of a petricite tree in [[Geimshall Woods]]. The ritual takes 2 hours and requires immense concentration, hand gestures, and a summoning circle. According to [[Astrid von Novis]], Hades is just a personification.
 4. Ruin, the strongest Sinister Vow. He has the ability to destroy anything he comes in contact or near with. If his full power is regained, he could wipe out all of Faltera. Is [[Gabriel]]
    Potentially his sigil:
    ![[Ruin Sigil.png|100]]
+5. Plague
 
 According to [[Goddess of the Water Thetis|Thetis]], there are already 2 generals of Nyarlathotep in our plane, Ruin and Abyss.
+According to [[Professor Aldric Voss]] there are now 4 vows in our plane and active: Ruin, Abyss, Emptiness, and Plague.

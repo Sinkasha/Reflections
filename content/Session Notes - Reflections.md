@@ -54,3 +54,5 @@ modified: 2026-02-17T18:17:16.007-08:00
 |40|[[Session Notes - Reflections/40 - 04.01.2026 - We're not stupid!\|We're not stupid!]]|April 23, 0347|April 01, 2026|
 |41|[[Session Notes - Reflections/41 - 04.07.2026 - The Medium Boss\|The Medium Boss]]|April 23, 0347|April 07, 2026|
 |42|[[Session Notes - Reflections/42 - 04.22.2026 - Many Reunions Abound\|Many Reunions Abound]]|April 23, 0347|April 22, 2026|
+|43|[[Session Notes - Reflections/43 - 05.06.2026 - Conference\|Conference]]|April 25, 0347|May 06, 2026|
+|44|[[Session Notes - Reflections/44 - 05.20.2026 - Hee Hee\|Hee Hee!]]|April 25, 0347|May 20, 2026|

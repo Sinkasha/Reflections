@@ -86,6 +86,7 @@ modified: 2026-02-17T18:17:16.127-08:00
 |[[Characters/NPCs/Mikhail\|Mikhail]]|Upper Rank of the Order of the Fish|
 |[[Characters/NPCs/Petra von Alspar\|Petra von Alspar]]|League member|
 |[[Characters/NPCs/Primrose L'Dore\|Primrose L'Dore]]|The Queen of Fusilla|
+|[[Characters/NPCs/Professor Aldric Voss\|Professor Aldric Voss]]|Nim's professor.|
 |[[Characters/NPCs/Reverend Doctor Arlo Meadow\|Reverend Doctor Arlo Meadow]]|Cleric of Lumis|
 |[[Characters/NPCs/Roland Vasara\|Roland Vasara]]|Founder of VAC|
 |[[Characters/NPCs/Seliph Orsterra\|Seliph Orsterra]]|Acting Chair of VAC|
@@ -188,6 +189,7 @@ modified: 2026-02-17T18:17:16.127-08:00
 
 |Name|Blurb|
 |---|---|
+|[[Miscellaneous/Community Center Teleportation Circle\|Community Center Teleportation Circle]]|Ceiling Circle!|
 |[[Miscellaneous/Nim's TP Circle\|Nim's TP Circle]]|Fishy circle|
 |[[Miscellaneous/Novis Castle TP Circle\|Novis Castle TP Circle]]|Novis Castle|
 |[[Miscellaneous/Vasara Adventuring Guild TP Circle\|Vasara Adventuring Guild Headquarters TP Circle]]|VAC TP|

@@ -7,7 +7,7 @@ modified: 2026-02-18T02:17:16.007Z
 
 |Session|Name|In-Game Date|Date|
 |---|---|---|---|
-|46|\[]\(Session Notes - Reflections/46 - 09.02.2026 - title)|April 25, 0347|September 02, 2026|
+|46|[[Session Notes - Reflections/46 - 09.02.2026 - Conference\|Conference]]|April 25, 0347|September 02, 2026|
 
 ## Act 1
 
@@ -63,5 +63,5 @@ modified: 2026-02-18T02:17:16.007Z
 |43|[[Session Notes - Reflections/43 - 05.06.2026 - Conference\|Conference]]|April 25, 0347|May 06, 2026|
 |44|[[Session Notes - Reflections/44 - 05.20.2026 - Hee Hee\|Hee Hee!]]|April 25, 0347|May 20, 2026|
 |45|\[]\(Session Notes - Reflections/45 - 05.27.2026 - Title)|April 25, 0347|-|
-|47|\[]\(Session Notes - Reflections/47 - 09.16.2026 - title)|April 26, 0347|September 16, 2026|
-|47|\[]\(Session Notes - Reflections/48 - 09.26.2026 - Title)|April 27, 0347|September 26, 2026|
+|47|[[Session Notes - Reflections/47 - 09.16.2026 - Hello Woestrider\|Hello Woestrider]]|April 26, 0347|September 16, 2026|
+|48|[[Session Notes - Reflections/48 - 09.26.2026 - Fuck Grimnir\|Fuck Grimnir]]|April 27, 0347|September 26, 2026|

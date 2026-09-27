@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.992-08:00
+modified: 2026-05-28T04:29:54.810Z
 ---
 
 # The Elemental Gods
@@ -9,3 +9,5 @@ Gods of the primordial elements, predating and coexisting with the primitive god
 
 [[Goddess of the Water Thetis]]
 [[God of Unknown Prometheus]]
+[[Goddess of the Earth Gaia]]
+[[God of the Air Aether]]

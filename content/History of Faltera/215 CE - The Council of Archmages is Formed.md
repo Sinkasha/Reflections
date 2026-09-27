@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.692-08:00
+modified: 2026-02-18T02:17:15.692Z
 ---
 
 # 215 CE - [[The Council of Archmages]] is Formed

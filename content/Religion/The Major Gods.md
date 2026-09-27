@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.998-08:00
+modified: 2026-05-28T02:46:54.315Z
 ---
 
 # The Major Gods
@@ -25,7 +25,7 @@ These are the gods who govern natural forces of the universe, beyond the heavens
 
 ## Gods of Human Nature
 
-As humanity evolved, so too did the pantheon. The Gods of Human Nature, while not exclusive to humans necessarily, are a reflection of the sentient and more complex feelings of beings. These gods are split from [[Religion of Faltera#God of Consciousness Azathoth|Azathoth]].
+As humanity evolved, so too did the pantheon. The Gods of Human Nature, while not exclusive to humans necessarily, are a reflection of the sentient and more complex feelings of beings. These gods are split from [[God of Consciousness Azathoth|Azathoth]].
 
 - [[God of Greed Lucius]]
 - [[God of Fortune Aurus]]

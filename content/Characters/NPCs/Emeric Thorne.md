@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-06T19:05:59.955-07:00
+modified: 2026-05-07T02:05:59.955Z
 ---
 
 # Emeric Thorne

@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.652-08:00
+modified: 2026-02-18T02:17:15.652Z
 ---
 
 # 207 CE - [[Faltera/Fusilla/The Kingdom of Fusilla|Fusilla]] is broken into factions

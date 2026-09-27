@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:14.935-08:00
+modified: 2026-05-28T04:14:10.046Z
 ---
 
 # Theodore
@@ -11,4 +11,5 @@ Apparently [[Mikhail]] takes orders from him. He told Mikhail to "retrieve all r
 
 Is a disciple of [[Grimnir]]. Was killed [[16 - 06.07.2024 - The Big Boss#^9e06d4|here]] supposedly, but turns out it was a puppet similar to [[Yul]] and it also contained a shard of [[The Mirror of Enveloping Darkness]].
 
-His head is currently in Yul's possession
+His head is currently in Yul's possession.
+Sibling of Yul.

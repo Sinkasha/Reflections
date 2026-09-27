@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.686-08:00
+modified: 2026-02-18T02:17:15.686Z
 ---
 
 # 215 CE - Dagdra Negotiates Independence; The Coronation of Emperor Damian von Beryth I

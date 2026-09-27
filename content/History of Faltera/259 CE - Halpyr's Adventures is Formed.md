@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:15.707-08:00
+modified: 2026-02-18T02:17:15.707Z
 ---
 
 # 259 CE - [[Halpyr’s Adventurers]] is Formed

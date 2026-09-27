@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-05-27T16:59:19.885-07:00
+modified: 2026-05-27T23:59:19.885Z
 ---
 
 # God of Death: Nyarlathotep

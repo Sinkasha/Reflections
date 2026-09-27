@@ -1,6 +1,6 @@
 ---
 publish: true
-modified: 2026-02-17T18:17:16.127-08:00
+modified: 2026-02-18T02:17:16.127Z
 ---
 
 # Reflections Campaign Index
@@ -61,6 +61,7 @@ modified: 2026-02-17T18:17:16.127-08:00
 |---|---|
 |[[Characters/NPCs/Allie\|Allie]]|:(|
 |[[Characters/NPCs/Astrid von Novis\|Astrid von Novis]]|An Archmage AKA the "Jade Dragon"|
+|[[Characters/NPCs/Azel\|Azel]]|Yul's younger brother|
 |[[Characters/NPCs/Bugbear\|Bugbear]]|Max's Retired Bugbear Ranger|
 |[[Characters/NPCs/Cassandra Selevir\|Cassandra Selevir]]|Head of Thalum Mercenary Company|
 |[[Characters/NPCs/Cedrick Feldspar\|Cedrick Feldspar]]|Shepherd at Everholden|
@@ -85,6 +86,7 @@ modified: 2026-02-17T18:17:16.127-08:00
 |[[Characters/NPCs/Melina Fiskov\|Melina Fiskov]]|Head of Fiskov Family|
 |[[Characters/NPCs/Mikhail\|Mikhail]]|Upper Rank of the Order of the Fish|
 |[[Characters/NPCs/Petra von Alspar\|Petra von Alspar]]|League member|
+|[[Characters/NPCs/Primrose\|Primrose]]|Yul's sister|
 |[[Characters/NPCs/Primrose L'Dore\|Primrose L'Dore]]|The Queen of Fusilla|
 |[[Characters/NPCs/Professor Aldric Voss\|Professor Aldric Voss]]|Nim's professor.|
 |[[Characters/NPCs/Reverend Doctor Arlo Meadow\|Reverend Doctor Arlo Meadow]]|Cleric of Lumis|
@@ -169,6 +171,8 @@ modified: 2026-02-17T18:17:16.127-08:00
 |[[Religion/God of the Sun Clarus\|Clarus]]|God of the Sun|
 |[[Religion/God of Nature Forsyth\|Forsyth]]|God of Nature|
 |[[Religion/God of Life Genesis\|Genesis]]|God of Life|
+|[[Religion/God of the Air Aether\|God of the Air Aether]]|-|
+|[[Religion/Goddess of the Earth Gaia\|Goddess of the Earth Gaia]]|Goddess of the Earth|
 |[[Religion/God of Chaos Hrym\|Hrym]]|God of Chaos|
 |[[Religion/God of Order Lucht\|Lucht]]|God of Order|
 |[[Religion/God of Greed Lucius\|Lucius]]|God of Greed|
